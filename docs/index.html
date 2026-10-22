@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f8f5">
+  <meta name="description" content="Japanese reading practice with hover furigana, contextual vocabulary and review exercises.">
+  <title>Japanese Reader · Read & Review</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="shell">
+    <header class="topbar">
+      <a class="brand" href="#/" aria-label="Japanese Reader home"><span class="mark" aria-hidden="true">日</span><span>JAPANESE <span class="brand-light">READER</span></span></a>
+      <nav aria-label="Main navigation">
+        <a href="#/" data-nav="reading">Reading</a>
+        <a href="#/archive" data-nav="archive">Archive</a>
+        <a href="#/reviews" data-nav="reviews">Review</a>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1"><p class="loading">Loading the reading library…</p></main>
+    <footer><span>READ · NOTICE · REMEMBER</span><span>Everyday Japanese, at your own pace.</span></footer>
+  </div>
+  <div id="vocab-tip" class="vocab-tip" role="tooltip" hidden></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
