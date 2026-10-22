@@ -1,0 +1,185 @@
+[
+  {
+    "date": "2026-10-22",
+    "sourceDate": "2026-10-21",
+    "title": "家具工房の言葉を復習する",
+    "intro": "Review the Asahikawa woodworkers reading. Write your own answers where possible; paste the copied response into ChatGPT for a nuanced assessment.",
+    "questions": [
+      {
+        "id": "1",
+        "type": "text",
+        "prompt": "「無垢材」の読み方をひらがなで書いてください。",
+        "placeholder": "ひらがなで入力"
+      },
+      {
+        "id": "2",
+        "type": "single",
+        "prompt": "「木目」の意味として最も適切なものはどれですか。",
+        "options": [
+          {
+            "id": "A",
+            "label": "wood grain"
+          },
+          {
+            "id": "B",
+            "label": "tree roots"
+          },
+          {
+            "id": "C",
+            "label": "a woodworking joint"
+          },
+          {
+            "id": "D",
+            "label": "varnish finish"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "type": "text",
+        "prompt": "「そる」を漢字で書いてください。木の板が湿度の変化によってそる、という意味です。"
+      },
+      {
+        "id": "4",
+        "type": "text",
+        "prompt": "なぜ無垢材の天板を脚に固定する際、木の動きを妨げない金具を使うことがありますか。本文に基づいて説明してください。",
+        "placeholder": "日本語または英語で説明"
+      },
+      {
+        "id": "5",
+        "type": "multiple",
+        "prompt": "合板について本文に書かれている特徴をすべて選んでください。",
+        "options": [
+          {
+            "id": "A",
+            "label": "寸法が安定しやすい"
+          },
+          {
+            "id": "B",
+            "label": "大きな面を比較的軽く作れる"
+          },
+          {
+            "id": "C",
+            "label": "湿度が変わっても、まったく変形しない"
+          },
+          {
+            "id": "D",
+            "label": "必ず無垢材より美しい"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "type": "single",
+        "prompt": "「用途に合わせて選ぶ」の意味として正しいものはどれですか。",
+        "options": [
+          {
+            "id": "A",
+            "label": "安いものを必ず選ぶ"
+          },
+          {
+            "id": "B",
+            "label": "目的に合った材料を選ぶ"
+          },
+          {
+            "id": "C",
+            "label": "職人の好みだけで決める"
+          },
+          {
+            "id": "D",
+            "label": "材料の違いを無視する"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "type": "text",
+        "prompt": "「仕上げ」と「塗り直し」の意味を英語または日本語で説明してください。"
+      },
+      {
+        "id": "8",
+        "type": "text",
+        "prompt": "長く使える家具を選ぶ際、見た目以外にどのような点を重視したいですか。本文の内容に触れて日本語で2〜3文書いてください。"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "sourceDate": "2026-10-19",
+    "title": "屋根と雪の安全を復習する",
+    "intro": "Based on the reading about snow and roof safety. This is a fresh optional practice set, not a reproduction of your already-reviewed answers.",
+    "questions": [
+      {
+        "id": "1",
+        "type": "text",
+        "prompt": "「勾配」の読み方と意味を書いてください。"
+      },
+      {
+        "id": "2",
+        "type": "text",
+        "prompt": "「雪庇」の読み方と意味を書いてください。"
+      },
+      {
+        "id": "3",
+        "type": "single",
+        "prompt": "「排雪」はどの作業を指しますか。",
+        "options": [
+          {
+            "id": "A",
+            "label": "雪を別の場所へ運び出す"
+          },
+          {
+            "id": "B",
+            "label": "雪を屋根の上に残す"
+          },
+          {
+            "id": "C",
+            "label": "雪を溶かす"
+          },
+          {
+            "id": "D",
+            "label": "屋根の断熱材を交換する"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "type": "multiple",
+        "prompt": "屋根の雪対策について確認すべきことをすべて選んでください。",
+        "options": [
+          {
+            "id": "A",
+            "label": "玄関や駐車場への落雪の可能性"
+          },
+          {
+            "id": "B",
+            "label": "敷地の広さと隣家までの距離"
+          },
+          {
+            "id": "C",
+            "label": "雪止めの施工と雨漏りの危険"
+          },
+          {
+            "id": "D",
+            "label": "毎年必ず自分で屋根に上がること"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "type": "text",
+        "prompt": "「雪を落とすのは危険だ」の「の」は、文の中でどのような役割をしていますか。"
+      },
+      {
+        "id": "6",
+        "type": "text",
+        "prompt": "「あまもり」を漢字で書いてください。"
+      },
+      {
+        "id": "7",
+        "type": "text",
+        "prompt": "家の敷地や隣家までの距離が、屋根の雪対策で重要なのはなぜですか。2〜3文で説明してください。"
+      }
+    ]
+  }
+]
