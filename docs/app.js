@@ -199,7 +199,7 @@
     else if(section==="reviews")renderReviews();
     else if(section==="review")renderReview(date);
     else renderReading(section==="reading"?date:undefined);
-    window.scrollTo({top:0,behavior:"instant"});
+    window.scrollTo(0,0);
   }
   async function init(){
     try{
