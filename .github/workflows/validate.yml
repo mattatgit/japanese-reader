@@ -14,16 +14,8 @@ jobs:
         with:
           node-version: "22"
       - name: Check JavaScript syntax
-        run: node --check docs/app.js
-      - name: Validate content files
         run: |
-          node --input-type=module <<'EOF'
-          import fs from 'node:fs';
-          const data = (name) => JSON.parse(fs.readFileSync('docs/data/'+name+'.json','utf8'));
-          const readings=data('readings'),reviews=data('reviews'),lexicon=data('lexicon');
-          if(readings.length<1 || !readings.every(r=>r.date&&r.title&&Array.isArray(r.paragraphs)&&r.paragraphs.length>=3)) throw Error('Invalid readings');
-          if(!reviews.every(r=>Array.isArray(r.questions)&&r.questions.length&&r.questions.every(q=>['text','single','multiple'].includes(q.type)))) throw Error('Invalid reviews');
-          if(!Object.values(lexicon).every(v=>Array.isArray(v)&&v.length===2&&v[0]&&v[1])) throw Error('Invalid vocabulary');
-          for(const r of readings) if(r.paragraphs.some(p=>p.length<20))throw Error('Too short: '+r.date);
-          console.log('Validated '+readings.length+' readings, '+reviews.length+' review sets, '+Object.keys(lexicon).length+' word annotations.');
-          EOF
+          node --check docs/app.js
+          node --check scripts/validate.mjs
+      - name: Validate published content
+        run: node scripts/validate.mjs
