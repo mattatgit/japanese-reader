@@ -1,0 +1,99 @@
+name: Publish Japanese Reading
+
+on:
+  schedule:
+    # Local time; automatically handles AEST/AEDT daylight-saving changes.
+    - cron: "15 7 * * *"
+      timezone: "Australia/Melbourne"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Dry run uses no API key or billing. Publish generates and deploys content."
+        required: true
+        type: choice
+        default: dry_run
+        options:
+          - dry_run
+          - publish
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: japanese-reader-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # Intentionally off by default. Owner enables PUBLISH_ENABLED=true after testing.
+    if: github.event_name == 'workflow_dispatch' || vars.PUBLISH_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      MODE: ${ github.event_name == 'workflow_dispatch' && inputs.mode || 'publish' }}
+      OPENAI_MODEL: ${ vars.OPENAI_MODEL || 'gpt-6-luna' }}
+      CUSTOM_PAGES_DEPLOY: ${ vars.CUSTOM_PAGES_DEPLOY }}
+      OPENAI_API_KEY: ${ secrets.OPENAI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check readiness for live publishing
+        run: |
+          if [ "$MODE" = "publish" ]; then
+            if [ -z "$OPENAI_API_KEY" ]; then
+              echo "::error::OPENAI_API_KEY repository secret is not configured."
+              exit 1
+            fi
+            if [ "$CUSTOM_PAGES_DEPLOY" != "true" ]; then
+              echo "::error::Switch Pages source to GitHub Actions and enable CUSTOM_PAGES_DEPLOY=true first."
+              exit 1
+            fi
+          fi
+
+      - name: Validate existing content or generate today's update
+        run: python3 scripts/publish.py "$MODE"
+
+      - name: Check generated JSON again
+        if: env.MODE == 'publish'
+        run: |
+          python3 scripts/publish.py dry_run
+          python3 -m json.tool docs/data/readings.json > /dev/null
+          python3 -m json.tool docs/data/reviews.json > /dev/null
+          python3 -m json.tool docs/data/lexicon.json > /dev/null
+
+      - name: Commit and push new content
+        if: env.MODE == 'publish'
+        id: commit
+        run: |
+          git config user.name "japanese-reader-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/readings.json docs/data/reviews.json docs/data/lexicon.json
+          if git diff --cached --quiet; then
+            echo "No new content. No commit or deployment needed."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Publish Japanese reading for $(TZ=Australia/Melbourne date +%F)"
+            git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Request explicit GitHub Pages deployment
+        if: env.MODE == 'publish' && steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${ github.token }}
+        run: |
+          # GITHUB_TOKEN pushes don't themselves trigger a new Pages build.
+          gh workflow run deploy-pages.yml --repo "$GITHUB_REPOSITORY" --ref main
+          echo "Requested Pages deployment. Check the separate Deploy Japanese Reader workflow for completion." >> "$GITHUB_STEP_SUMMARY"
+          echo "Published commit: ${ steps.commit.outputs.sha }}" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Report dry-run result
+        if: env.MODE == 'dry_run'
+        run: echo "Dry run completed; no key used, no API charge, and no files changed." >> "$GITHUB_STEP_SUMMARY"
