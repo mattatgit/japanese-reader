@@ -73,7 +73,7 @@
   ],
   "仕上げ": [
     "しあげ",
-    "finish"
+    "surface finishing"
   ],
   "仕組み": [
     "しくみ",
@@ -125,7 +125,7 @@
   ],
   "作業": [
     "さぎょう",
-    "work; task"
+    "work"
   ],
   "作業後": [
     "さぎょうご",
@@ -169,7 +169,7 @@
   ],
   "傷": [
     "きず",
-    "scratch"
+    "scratch or damage"
   ],
   "優れて": [
     "すぐれて",
@@ -225,7 +225,7 @@
   ],
   "分解": [
     "ぶんかい",
-    "decomposition"
+    "disassembly"
   ],
   "切り返して": [
     "きりかえして",
@@ -1065,7 +1065,7 @@
   ],
   "相談": [
     "そうだん",
-    "consultation"
+    "discussion"
   ],
   "知人": [
     "ちじん",
@@ -1454,5 +1454,249 @@
   "駐車": [
     "ちゅうしゃ",
     "parking"
+  ],
+  "古道具店": [
+    "ふるどうぐてん",
+    "second-hand furniture and goods shop"
+  ],
+  "木製": [
+    "もくせい",
+    "made of wood"
+  ],
+  "椅子": [
+    "いす",
+    "chair"
+  ],
+  "座面": [
+    "ざめん",
+    "seat surface"
+  ],
+  "脚の一本": [
+    "あしのいっぽん",
+    "one of the chair legs"
+  ],
+  "一本": [
+    "いっぽん",
+    "one long or cylindrical item"
+  ],
+  "見つけた": [
+    "みつけた",
+    "found"
+  ],
+  "店主": [
+    "てんしゅ",
+    "shop owner"
+  ],
+  "以前": [
+    "いぜん",
+    "previously"
+  ],
+  "持ち主": [
+    "もちぬし",
+    "previous owner"
+  ],
+  "長年": [
+    "ながねん",
+    "many years"
+  ],
+  "新品": [
+    "しんぴん",
+    "brand-new item"
+  ],
+  "使い続ける": [
+    "つかいつづける",
+    "continue using"
+  ],
+  "面白そう": [
+    "おもしろそう",
+    "seems interesting"
+  ],
+  "近く": [
+    "ちかく",
+    "nearby"
+  ],
+  "持ち込む": [
+    "もちこむ",
+    "bring an item in"
+  ],
+  "持ち込むと": [
+    "もちこむと",
+    "when brought in"
+  ],
+  "修理工房": [
+    "しゅうりこうぼう",
+    "repair workshop"
+  ],
+  "接合部分": [
+    "せつごうぶぶん",
+    "joint or connection"
+  ],
+  "丁寧": [
+    "ていねい",
+    "carefully"
+  ],
+  "調べた": [
+    "しらべた",
+    "examined"
+  ],
+  "割れ": [
+    "われ",
+    "crack"
+  ],
+  "接着剤": [
+    "せっちゃくざい",
+    "adhesive"
+  ],
+  "弱く": [
+    "よわく",
+    "weakened"
+  ],
+  "無理に": [
+    "むりに",
+    "forcibly"
+  ],
+  "引き抜く": [
+    "ひきぬく",
+    "pull out"
+  ],
+  "別の": [
+    "べつの",
+    "another"
+  ],
+  "傷める": [
+    "いためる",
+    "damage"
+  ],
+  "慎重": [
+    "しんちょう",
+    "cautious"
+  ],
+  "進める": [
+    "すすめる",
+    "proceed"
+  ],
+  "組み直し": [
+    "くみなおし",
+    "reassembly"
+  ],
+  "加え": [
+    "くわえ",
+    "in addition to"
+  ],
+  "含まれていた": [
+    "ふくまれていた",
+    "was included"
+  ],
+  "整える": [
+    "ととのえる",
+    "tidy or restore"
+  ],
+  "塗装": [
+    "とそう",
+    "paint or coating"
+  ],
+  "落とせば": [
+    "おとせば",
+    "if removed"
+  ],
+  "色合い": [
+    "いろあい",
+    "colour tone"
+  ],
+  "失われて": [
+    "うしなわれて",
+    "be lost"
+  ],
+  "結果": [
+    "けっか",
+    "result"
+  ],
+  "目立つ": [
+    "めだつ",
+    "noticeable"
+  ],
+  "元の": [
+    "もとの",
+    "original"
+  ],
+  "雰囲気": [
+    "ふんいき",
+    "character or atmosphere"
+  ],
+  "残す": [
+    "のこす",
+    "retain"
+  ],
+  "二週間": [
+    "にしゅうかん",
+    "two weeks"
+  ],
+  "買い替えた": [
+    "かいかえた",
+    "replaced by buying another"
+  ],
+  "早い": [
+    "はやい",
+    "faster"
+  ],
+  "直せる": [
+    "なおせる",
+    "can be repaired"
+  ],
+  "基準": [
+    "きじゅん",
+    "criterion"
+  ],
+  "変わって": [
+    "かわって",
+    "change"
+  ],
+  "単に": [
+    "たんに",
+    "merely"
+  ],
+  "戻す": [
+    "もどす",
+    "restore or return"
+  ],
+  "次の": [
+    "つぎの",
+    "next"
+  ],
+  "十年": [
+    "じゅうねん",
+    "ten years"
+  ],
+  "仕事": [
+    "しごと",
+    "work"
+  ],
+  "使い込まれた": [
+    "つかいこまれた",
+    "worn in through long use"
+  ],
+  "わずかに": [
+    "わずかに",
+    "slightly"
+  ],
+  "ぐらついている": [
+    "ぐらついている",
+    "is wobbling"
+  ],
+  "しっかり": [
+    "しっかり",
+    "firmly"
+  ],
+  "選ぶ": [
+    "えらぶ",
+    "choose"
+  ],
+  "古い": [
+    "ふるい",
+    "old"
+  ],
+  "弱くなった": [
+    "よわくなった",
+    "became weak"
   ]
 }
