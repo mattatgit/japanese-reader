@@ -27,9 +27,9 @@ Add an entry to `docs/data/reviews.json` with `date`, `sourceDate`, `title`, `in
 
 Personal progress is **not stored in this public repository**. Review drafts are local to the browser and are copied, not transmitted, to ChatGPT. Detailed reviews, answers, weak points and spaced repetition should be recorded in the existing **private** `mattatgit/japanese` repository.
 
-## Automation
+## Current publishing workflow
 
-Publishing via GitHub requires **actual GitHub commits**, which the scheduled ChatGPT daily reading task did not previously do. A separately tested scheduled publishing workflow will be needed before claiming fully automatic 8am delivery.
+**User-confirmed interactive publishing is the active process**: an 8:00am Melbourne ChatGPT check-in asks whether the learner has time; only after an affirmative reply in an interactive chat does ChatGPT create content and use the connected GitHub app to commit it. See [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) for the multi-chat runbook and [PUBLISHING.md](PUBLISHING.md) for step-by-step instructions. No separate OpenAI API billing is needed.
 
 ## Automated publication (optional, disabled by default)
 
