@@ -13,6 +13,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check publisher syntax and dry-run
+        run: |
+          python3 -m py_compile scripts/publish.py
+          python3 scripts/publish.py dry_run
+          python3 -m unittest discover -s tests -v
       - name: Check JavaScript syntax
         run: |
           node --check docs/app.js
