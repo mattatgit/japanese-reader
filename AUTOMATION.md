@@ -1,5 +1,7 @@
 # Automatic publishing — GitHub Actions
 
+> **NOT ACTIVE — preserved only as an alternative.** On 2026-10-23 the learner chose a no-additional-billing, user-confirmed ChatGPT workflow instead. See [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) and [PUBLISHING.md](PUBLISHING.md) for the current process. Do not enable `PUBLISH_ENABLED`, `CUSTOM_PAGES_DEPLOY`, request an API key, or change Pages deployment settings unless the learner explicitly opts into this alternative in the future.
+
 This workflow replaces unattended ChatGPT-to-GitHub writes, which failed the 2026-10-23 scheduled smoke test because of OpenAI's safety checks. The ChatGPT scheduled task itself cannot be assumed to have commit privileges.
 
 ## Architecture
