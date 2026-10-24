@@ -1698,5 +1698,357 @@
   "弱くなった": [
     "よわくなった",
     "became weak"
+  ],
+  "住む": [
+    "すむ",
+    "live; reside"
+  ],
+  "友人": [
+    "ゆうじん",
+    "friend"
+  ],
+  "山": [
+    "やま",
+    "mountain"
+  ],
+  "冬の山": [
+    "ふゆのやま",
+    "winter mountains"
+  ],
+  "行く": [
+    "いく",
+    "go"
+  ],
+  "計画": [
+    "けいかく",
+    "plan"
+  ],
+  "立てた": [
+    "たてた",
+    "made (a plan)"
+  ],
+  "目的地": [
+    "もくてきち",
+    "destination"
+  ],
+  "決める": [
+    "きめる",
+    "decide"
+  ],
+  "決める前": [
+    "きめるまえ",
+    "before deciding"
+  ],
+  "地形図": [
+    "ちけいず",
+    "topographic map"
+  ],
+  "広げ": [
+    "ひろげ",
+    "spread out"
+  ],
+  "尾根": [
+    "おね",
+    "ridge"
+  ],
+  "沢": [
+    "さわ",
+    "stream valley; gully"
+  ],
+  "確かめる": [
+    "たしかめる",
+    "check; verify"
+  ],
+  "夏": [
+    "なつ",
+    "summer"
+  ],
+  "歩き慣れた": [
+    "あるきなれた",
+    "accustomed to walking"
+  ],
+  "道": [
+    "みち",
+    "path; trail"
+  ],
+  "雪": [
+    "ゆき",
+    "snow"
+  ],
+  "積もれば": [
+    "つもれば",
+    "if snow accumulates"
+  ],
+  "目印": [
+    "めじるし",
+    "landmark; reference point"
+  ],
+  "隠れ": [
+    "かくれ",
+    "become hidden"
+  ],
+  "思えない": [
+    "おもえない",
+    "cannot imagine or believe"
+  ],
+  "景色": [
+    "けしき",
+    "scenery"
+  ],
+  "変わる": [
+    "かわる",
+    "change"
+  ],
+  "特に": [
+    "とくに",
+    "particularly"
+  ],
+  "風": [
+    "かぜ",
+    "wind"
+  ],
+  "強い": [
+    "つよい",
+    "strong"
+  ],
+  "斜面": [
+    "しゃめん",
+    "slope"
+  ],
+  "雪の付き方": [
+    "ゆきのつきかた",
+    "how snow accumulates on terrain"
+  ],
+  "付き方": [
+    "つきかた",
+    "way something adheres or accumulates"
+  ],
+  "差": [
+    "さ",
+    "difference"
+  ],
+  "出る": [
+    "でる",
+    "arise; appear"
+  ],
+  "天気予報": [
+    "てんきよほう",
+    "weather forecast"
+  ],
+  "判断": [
+    "はんだん",
+    "judgement; decision"
+  ],
+  "方": [
+    "ほう",
+    "way; better course"
+  ],
+  "言う": [
+    "いう",
+    "say"
+  ],
+  "出発前": [
+    "しゅっぱつまえ",
+    "before setting out"
+  ],
+  "積雪": [
+    "せきせつ",
+    "accumulated snow"
+  ],
+  "雪崩情報": [
+    "なだれじょうほう",
+    "avalanche information"
+  ],
+  "雪崩": [
+    "なだれ",
+    "avalanche"
+  ],
+  "情報": [
+    "じょうほう",
+    "information"
+  ],
+  "調べ": [
+    "しらべ",
+    "check; look up"
+  ],
+  "現地": [
+    "げんち",
+    "on location; at the site"
+  ],
+  "状況": [
+    "じょうきょう",
+    "conditions; situation"
+  ],
+  "十分": [
+    "じゅうぶん",
+    "sufficient"
+  ],
+  "得られない": [
+    "えられない",
+    "cannot obtain"
+  ],
+  "入らず": [
+    "はいらず",
+    "without entering"
+  ],
+  "早起き": [
+    "はやおき",
+    "getting up early"
+  ],
+  "必ず": [
+    "かならず",
+    "necessarily; without fail"
+  ],
+  "山頂": [
+    "さんちょう",
+    "summit"
+  ],
+  "目指す": [
+    "めざす",
+    "aim for"
+  ],
+  "道具": [
+    "どうぐ",
+    "equipment; tools"
+  ],
+  "ビーコン": [
+    "ビーコン",
+    "avalanche transceiver"
+  ],
+  "電池残量": [
+    "でんちざんりょう",
+    "remaining battery power"
+  ],
+  "電池": [
+    "でんち",
+    "battery"
+  ],
+  "残量": [
+    "ざんりょう",
+    "remaining amount"
+  ],
+  "プローブ": [
+    "プローブ",
+    "avalanche probe"
+  ],
+  "スコップ": [
+    "スコップ",
+    "shovel"
+  ],
+  "取り出せる": [
+    "とりだせる",
+    "can take out"
+  ],
+  "装備": [
+    "そうび",
+    "gear; equipment"
+  ],
+  "持っている": [
+    "もっている",
+    "having; carrying"
+  ],
+  "繰り返し": [
+    "くりかえし",
+    "repeatedly"
+  ],
+  "練習": [
+    "れんしゅう",
+    "practice"
+  ],
+  "仲間同士": [
+    "なかまどうし",
+    "among companions"
+  ],
+  "意思": [
+    "いし",
+    "intentions; views"
+  ],
+  "伝える": [
+    "つたえる",
+    "communicate"
+  ],
+  "決めておく": [
+    "きめておく",
+    "decide beforehand"
+  ],
+  "予定": [
+    "よてい",
+    "schedule; plan"
+  ],
+  "変更": [
+    "へんこう",
+    "change; alteration"
+  ],
+  "少し": [
+    "すこし",
+    "a little"
+  ],
+  "残念": [
+    "ざんねん",
+    "disappointing"
+  ],
+  "気持ち": [
+    "きもち",
+    "feeling"
+  ],
+  "日": [
+    "ひ",
+    "day"
+  ],
+  "迷った": [
+    "まよった",
+    "felt uncertain"
+  ],
+  "引き返せる": [
+    "ひきかえせる",
+    "can turn back"
+  ],
+  "長く": [
+    "ながく",
+    "for a long time"
+  ],
+  "楽しむ": [
+    "たのしむ",
+    "enjoy"
+  ],
+  "思う": [
+    "おもう",
+    "think"
+  ],
+  "帰り道": [
+    "かえりみち",
+    "way back"
+  ],
+  "寄る": [
+    "よる",
+    "stop by"
+  ],
+  "温泉": [
+    "おんせん",
+    "hot spring"
+  ],
+  "食事": [
+    "しょくじ",
+    "meal"
+  ],
+  "入れておけば": [
+    "いれておけば",
+    "if included beforehand"
+  ],
+  "行けなかった": [
+    "いけなかった",
+    "could not go or reach"
+  ],
+  "一日": [
+    "いちにち",
+    "one day"
+  ],
+  "残る": [
+    "のこる",
+    "remain"
+  ],
+  "安全になるわけではない": [
+    "あんぜんになるわけではない",
+    "does not automatically make it safe"
   ]
 }

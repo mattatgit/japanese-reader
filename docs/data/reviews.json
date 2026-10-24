@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-10-25",
+    "sourceDate": "2026-10-24",
+    "title": "古い椅子の修理を復習する",
+    "intro": "Review the 24 October passage about repairing a wooden chair, with a few extra vocabulary and grammar exercises. Copy your answers into ChatGPT for detailed feedback.",
+    "questions": [
+      {
+        "id": "1",
+        "type": "text",
+        "prompt": "本文の「座面」と「接合部分」の読み方を、それぞれひらがなで書いてください。"
+      },
+      {
+        "id": "2",
+        "type": "text",
+        "prompt": "「しんちょうに作業を進める」の「しんちょう」を漢字で書き、どのような態度か説明してください。"
+      },
+      {
+        "id": "3",
+        "type": "single",
+        "prompt": "「椅子の脚がぐらついている」の意味として最も適切なものを選んでください。",
+        "options": [
+          {
+            "id": "A",
+            "label": "The chair leg wobbles or feels unstable."
+          },
+          {
+            "id": "B",
+            "label": "The chair leg has become shorter."
+          },
+          {
+            "id": "C",
+            "label": "The chair leg is covered in paint."
+          },
+          {
+            "id": "D",
+            "label": "The chair leg is firmly fixed."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "type": "text",
+        "prompt": "本文によると、椅子の脚がぐらついていた原因は何ですか。また、職人はなぜ無理に引き抜かなかったのですか。日本語または英語で説明してください。"
+      },
+      {
+        "id": "5",
+        "type": "multiple",
+        "prompt": "修理について、本文に書かれていることをすべて選んでください。",
+        "options": [
+          {
+            "id": "A",
+            "label": "分解と組み直しの費用が見積もりに含まれていた。"
+          },
+          {
+            "id": "B",
+            "label": "古い塗装をすべて落とすことに決めた。"
+          },
+          {
+            "id": "C",
+            "label": "目立つ傷を補修し、元の雰囲気を残すことにした。"
+          },
+          {
+            "id": "D",
+            "label": "修理はその日のうちに完成すると言われた。"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "type": "text",
+        "prompt": "「使い込まれた色合いまで失われてしまう」の「〜てしまう」は、この文でどのような気持ちやニュアンスを表しますか。"
+      },
+      {
+        "id": "7",
+        "type": "text",
+        "prompt": "「新品だからといって、長く使えるとは限らない。」を英語で説明してください。「〜とは限らない」の意味にも触れてください。"
+      },
+      {
+        "id": "8",
+        "type": "text",
+        "prompt": "復習：「勾配」の読み方と意味を書いてください。また「屋根材」との違いも簡単に説明してください。"
+      },
+      {
+        "id": "9",
+        "type": "text",
+        "prompt": "復習：「花を摘む」と「花を植え替える」はどう違いますか。英語または日本語で説明してください。"
+      },
+      {
+        "id": "10",
+        "type": "text",
+        "prompt": "あなたなら、古い椅子を買い替えるか修理するか、どんな点を比べて決めますか。本文の内容を一つ以上使って、日本語で2〜3文書いてください。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "sourceDate": "2026-10-21",
     "title": "家具工房の言葉を復習する",
