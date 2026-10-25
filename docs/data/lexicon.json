@@ -2050,5 +2050,289 @@
   "安全になるわけではない": [
     "あんぜんになるわけではない",
     "does not automatically make it safe"
+  ],
+  "新居": [
+    "しんきょ",
+    "new home"
+  ],
+  "光回線": [
+    "ひかりかいせん",
+    "fibre-optic internet connection"
+  ],
+  "契約": [
+    "けいやく",
+    "service contract"
+  ],
+  "調べ始めた": [
+    "しらべはじめた",
+    "began investigating"
+  ],
+  "広告": [
+    "こうこく",
+    "advertisement"
+  ],
+  "最大": [
+    "さいだい",
+    "maximum; up to"
+  ],
+  "大きく": [
+    "おおきく",
+    "prominently; in large print"
+  ],
+  "書かれている": [
+    "かかれている",
+    "is written"
+  ],
+  "数字": [
+    "すうじ",
+    "number; figure"
+  ],
+  "常に": [
+    "つねに",
+    "always; consistently"
+  ],
+  "わけではない": [
+    "わけではない",
+    "it does not mean that"
+  ],
+  "海外": [
+    "かいがい",
+    "overseas"
+  ],
+  "取引先": [
+    "とりひきさき",
+    "client; business partner"
+  ],
+  "デザインデータ": [
+    "デザインデータ",
+    "design files or data"
+  ],
+  "やり取り": [
+    "やりとり",
+    "exchange of information or files"
+  ],
+  "下り": [
+    "くだり",
+    "download (downstream)"
+  ],
+  "上り": [
+    "のぼり",
+    "upload (upstream)"
+  ],
+  "速度": [
+    "そくど",
+    "speed"
+  ],
+  "重要": [
+    "じゅうよう",
+    "important"
+  ],
+  "候補": [
+    "こうほ",
+    "options under consideration"
+  ],
+  "月額料金": [
+    "げつがくりょうきん",
+    "monthly fee"
+  ],
+  "事務手数料": [
+    "じむてすうりょう",
+    "administrative fee"
+  ],
+  "手数料": [
+    "てすうりょう",
+    "service or handling fee"
+  ],
+  "解約": [
+    "かいやく",
+    "cancelling a contract"
+  ],
+  "発生": [
+    "はっせい",
+    "be incurred; arise"
+  ],
+  "安く": [
+    "やすく",
+    "inexpensive; cheaply"
+  ],
+  "見える": [
+    "みえる",
+    "appear; seem"
+  ],
+  "割引": [
+    "わりびき",
+    "discount"
+  ],
+  "二年": [
+    "にねん",
+    "two years"
+  ],
+  "使う": [
+    "つかう",
+    "use"
+  ],
+  "総額": [
+    "そうがく",
+    "total cost"
+  ],
+  "計算": [
+    "けいさん",
+    "calculate"
+  ],
+  "住所": [
+    "じゅうしょ",
+    "address"
+  ],
+  "提供エリア": [
+    "ていきょうエリア",
+    "service coverage area"
+  ],
+  "提供": [
+    "ていきょう",
+    "provision of service"
+  ],
+  "入っていても": [
+    "はいっていても",
+    "even if it is included"
+  ],
+  "回線": [
+    "かいせん",
+    "communications line"
+  ],
+  "引き込める": [
+    "ひきこめる",
+    "can be brought into a building (a utility line)"
+  ],
+  "限らない": [
+    "かぎらない",
+    "not necessarily the case"
+  ],
+  "壁": [
+    "かべ",
+    "wall"
+  ],
+  "穴": [
+    "あな",
+    "hole"
+  ],
+  "開ける": [
+    "あける",
+    "make or open (a hole)"
+  ],
+  "既存": [
+    "きそん",
+    "existing"
+  ],
+  "配管": [
+    "はいかん",
+    "piping or conduit"
+  ],
+  "管理会社": [
+    "かんりがいしゃ",
+    "property management company"
+  ],
+  "工事業者": [
+    "こうじぎょうしゃ",
+    "installation contractor"
+  ],
+  "申し込み前": [
+    "もうしこみまえ",
+    "before applying"
+  ],
+  "申し込み": [
+    "もうしこみ",
+    "application"
+  ],
+  "手続き": [
+    "てつづき",
+    "procedure; paperwork"
+  ],
+  "整理": [
+    "せいり",
+    "organise; sort out"
+  ],
+  "通信速度": [
+    "つうしんそくど",
+    "data connection speed"
+  ],
+  "通信": [
+    "つうしん",
+    "communications"
+  ],
+  "時間帯": [
+    "じかんたい",
+    "time of day; time period"
+  ],
+  "知った": [
+    "しった",
+    "learned; found out"
+  ],
+  "仕事中": [
+    "しごとちゅう",
+    "while working"
+  ],
+  "接続": [
+    "せつぞく",
+    "network connection"
+  ],
+  "不安定": [
+    "ふあんてい",
+    "unstable; unreliable"
+  ],
+  "決めず": [
+    "きめず",
+    "without deciding"
+  ],
+  "対応": [
+    "たいおう",
+    "support or response"
+  ],
+  "故障時": [
+    "こしょうじ",
+    "in the event of a fault"
+  ],
+  "故障": [
+    "こしょう",
+    "equipment failure"
+  ],
+  "連絡方法": [
+    "れんらくほうほう",
+    "way to get in touch"
+  ],
+  "連絡": [
+    "れんらく",
+    "contact"
+  ],
+  "調べておきたい": [
+    "しらべておきたい",
+    "would like to check in advance"
+  ],
+  "毎日": [
+    "まいにち",
+    "every day"
+  ],
+  "契約前": [
+    "けいやくまえ",
+    "before signing a contract"
+  ],
+  "面倒": [
+    "めんどう",
+    "troublesome; inconvenient"
+  ],
+  "後": [
+    "あと",
+    "afterward; later"
+  ],
+  "続ける": [
+    "つづける",
+    "continue"
+  ],
+  "使うつもり": [
+    "つかうつもり",
+    "intending to use"
+  ],
+  "やり取りする": [
+    "やりとりする",
+    "exchange files or messages"
   ]
 }
