@@ -2334,5 +2334,325 @@
   "やり取りする": [
     "やりとりする",
     "exchange files or messages"
+  ],
+  "古い建物": [
+    "ふるいたてもの",
+    "old building"
+  ],
+  "使って": [
+    "つかって",
+    "using"
+  ],
+  "作家": [
+    "さっか",
+    "artist or creator"
+  ],
+  "展示会": [
+    "てんじかい",
+    "exhibition"
+  ],
+  "開く": [
+    "ひらく",
+    "hold or organise an event"
+  ],
+  "会場": [
+    "かいじょう",
+    "event venue"
+  ],
+  "倉庫": [
+    "そうこ",
+    "warehouse"
+  ],
+  "使われていた": [
+    "つかわれていた",
+    "had been used"
+  ],
+  "天井": [
+    "てんじょう",
+    "ceiling"
+  ],
+  "高く": [
+    "たかく",
+    "high"
+  ],
+  "小さな": [
+    "ちいさな",
+    "small"
+  ],
+  "柔らかな": [
+    "やわらかな",
+    "soft; gentle"
+  ],
+  "光": [
+    "ひかり",
+    "light"
+  ],
+  "入る": [
+    "はいる",
+    "enter"
+  ],
+  "窓際": [
+    "まどぎわ",
+    "near a window"
+  ],
+  "温度": [
+    "おんど",
+    "temperature"
+  ],
+  "下がりやすく": [
+    "さがりやすく",
+    "tends to drop"
+  ],
+  "良さ": [
+    "よさ",
+    "attractiveness; good quality"
+  ],
+  "展示方法": [
+    "てんじほうほう",
+    "display method"
+  ],
+  "決めるわけにはいかない": [
+    "きめるわけにはいかない",
+    "cannot reasonably decide / cannot simply decide"
+  ],
+  "打ち合わせ": [
+    "うちあわせ",
+    "planning meeting"
+  ],
+  "作品": [
+    "さくひん",
+    "artwork; creative work"
+  ],
+  "鑑賞": [
+    "かんしょう",
+    "appreciation or viewing of art"
+  ],
+  "鑑賞する": [
+    "かんしょうする",
+    "appreciate or view art"
+  ],
+  "人": [
+    "ひと",
+    "person"
+  ],
+  "歩く": [
+    "あるく",
+    "walk"
+  ],
+  "考えた": [
+    "かんがえた",
+    "considered"
+  ],
+  "入口": [
+    "いりぐち",
+    "entrance"
+  ],
+  "出口": [
+    "でぐち",
+    "exit"
+  ],
+  "一直線": [
+    "いっちょくせん",
+    "straight line"
+  ],
+  "並べる": [
+    "ならべる",
+    "arrange in a row"
+  ],
+  "分かりやすい": [
+    "わかりやすい",
+    "easy to understand"
+  ],
+  "立ち止まって": [
+    "たちどまって",
+    "stop walking"
+  ],
+  "見る": [
+    "みる",
+    "look at"
+  ],
+  "幅": [
+    "はば",
+    "width"
+  ],
+  "取る": [
+    "とる",
+    "allocate or provide space"
+  ],
+  "取り": [
+    "とり",
+    "allowing or setting aside (space)"
+  ],
+  "置く": [
+    "おく",
+    "place"
+  ],
+  "設ける": [
+    "もうける",
+    "provide; establish"
+  ],
+  "車椅子": [
+    "くるまいす",
+    "wheelchair"
+  ],
+  "無理のない": [
+    "むりのない",
+    "reasonable; not demanding"
+  ],
+  "配置": [
+    "はいち",
+    "layout; arrangement"
+  ],
+  "照明": [
+    "しょうめい",
+    "lighting"
+  ],
+  "自然光": [
+    "しぜんこう",
+    "natural light"
+  ],
+  "生かしたい": [
+    "いかしたい",
+    "want to take advantage of"
+  ],
+  "明るさ": [
+    "あかるさ",
+    "brightness"
+  ],
+  "影": [
+    "かげ",
+    "shadow"
+  ],
+  "点": [
+    "てん",
+    "point; consideration"
+  ],
+  "気になった": [
+    "きになった",
+    "was concerned about"
+  ],
+  "紙": [
+    "かみ",
+    "paper"
+  ],
+  "布": [
+    "ぬの",
+    "cloth; textile"
+  ],
+  "傷む": [
+    "いたむ",
+    "deteriorate or be damaged"
+  ],
+  "専門家": [
+    "せんもんか",
+    "specialist; expert"
+  ],
+  "助言": [
+    "じょげん",
+    "advice"
+  ],
+  "受け": [
+    "うけ",
+    "receive"
+  ],
+  "補助照明": [
+    "ほじょしょうめい",
+    "supplementary lighting"
+  ],
+  "案": [
+    "あん",
+    "proposal; plan"
+  ],
+  "残しながら": [
+    "のこしながら",
+    "while preserving"
+  ],
+  "展示物": [
+    "てんじぶつ",
+    "exhibits; displayed objects"
+  ],
+  "求められる": [
+    "もとめられる",
+    "is required; called for"
+  ],
+  "会期": [
+    "かいき",
+    "exhibition period"
+  ],
+  "終われば": [
+    "おわれば",
+    "when it finishes"
+  ],
+  "催し": [
+    "もよおし",
+    "event; gathering"
+  ],
+  "固定した": [
+    "こていした",
+    "fixed or permanent"
+  ],
+  "増やす": [
+    "ふやす",
+    "increase; add"
+  ],
+  "移動": [
+    "いどう",
+    "movement; moving"
+  ],
+  "移動できる": [
+    "いどうできる",
+    "movable; able to be moved"
+  ],
+  "展示台": [
+    "てんじだい",
+    "display stand; plinth"
+  ],
+  "使った": [
+    "つかった",
+    "used"
+  ],
+  "活動": [
+    "かつどう",
+    "activities"
+  ],
+  "対応しやすい": [
+    "たいおうしやすい",
+    "easy to adapt to"
+  ],
+  "改修": [
+    "かいしゅう",
+    "renovation; refurbishment"
+  ],
+  "新しく": [
+    "あたらしく",
+    "make new; anew"
+  ],
+  "今": [
+    "いま",
+    "now"
+  ],
+  "特徴": [
+    "とくちょう",
+    "characteristics; features"
+  ],
+  "理解": [
+    "りかい",
+    "understanding"
+  ],
+  "次": [
+    "つぎ",
+    "next"
+  ],
+  "次に": [
+    "つぎに",
+    "next; subsequently"
+  ],
+  "今ある": [
+    "いまある",
+    "already existing"
+  ],
+  "使う人": [
+    "つかうひと",
+    "the people who use it"
   ]
 }
