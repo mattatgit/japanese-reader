@@ -2654,5 +2654,317 @@
   "使う人": [
     "つかうひと",
     "the people who use it"
+  ],
+  "見学した": [
+    "けんがくした",
+    "visited for an inspection"
+  ],
+  "見学": [
+    "けんがく",
+    "visit or inspection"
+  ],
+  "冷たく": [
+    "つめたく",
+    "cold to the touch; chilly"
+  ],
+  "感じられた": [
+    "かんじられた",
+    "was felt; could be sensed"
+  ],
+  "外観": [
+    "がいかん",
+    "exterior appearance"
+  ],
+  "直されていた": [
+    "なおされていた",
+    "had been repaired or refurbished"
+  ],
+  "周り": [
+    "まわり",
+    "surrounding area"
+  ],
+  "結露": [
+    "けつろ",
+    "condensation"
+  ],
+  "結露の跡": [
+    "けつろのあと",
+    "traces of condensation"
+  ],
+  "跡": [
+    "あと",
+    "trace; mark"
+  ],
+  "残っている": [
+    "のこっている",
+    "remain"
+  ],
+  "案内してくれた": [
+    "あんないしてくれた",
+    "showed us around"
+  ],
+  "所有者": [
+    "しょゆうしゃ",
+    "owner"
+  ],
+  "暖房設備": [
+    "だんぼうせつび",
+    "heating equipment"
+  ],
+  "交換": [
+    "こうかん",
+    "replacement"
+  ],
+  "交換した": [
+    "こうかんした",
+    "replaced"
+  ],
+  "説明した": [
+    "せつめいした",
+    "explained"
+  ],
+  "快適": [
+    "かいてき",
+    "comfortable"
+  ],
+  "能力": [
+    "のうりょく",
+    "capacity; ability"
+  ],
+  "熱": [
+    "ねつ",
+    "heat"
+  ],
+  "逃げる": [
+    "にげる",
+    "escape; leak away"
+  ],
+  "調べる": [
+    "しらべる",
+    "investigate"
+  ],
+  "改修業者": [
+    "かいしゅうぎょうしゃ",
+    "renovation contractor"
+  ],
+  "業者": [
+    "ぎょうしゃ",
+    "contractor; service provider"
+  ],
+  "相談すると": [
+    "そうだんすると",
+    "when consulting"
+  ],
+  "三層ガラス": [
+    "さんそうガラス",
+    "triple glazing; three-pane glass"
+  ],
+  "三層": [
+    "さんそう",
+    "three-layer"
+  ],
+  "替えれば": [
+    "かえれば",
+    "if replaced"
+  ],
+  "解決": [
+    "かいけつ",
+    "solution; resolution"
+  ],
+  "解決する": [
+    "かいけつする",
+    "resolve; solve"
+  ],
+  "窓枠": [
+    "まどわく",
+    "window frame"
+  ],
+  "隙間": [
+    "すきま",
+    "gap; crack"
+  ],
+  "冷たい": [
+    "つめたい",
+    "cold"
+  ],
+  "入り": [
+    "はいり",
+    "entering"
+  ],
+  "冷えやすく": [
+    "ひえやすく",
+    "prone to cooling"
+  ],
+  "強めても": [
+    "つよめても",
+    "even if strengthened"
+  ],
+  "不十分": [
+    "ふじゅうぶん",
+    "insufficient"
+  ],
+  "湿気": [
+    "しっけ",
+    "moisture in the air; humidity"
+  ],
+  "結露につながる": [
+    "けつろにつながる",
+    "may lead to condensation"
+  ],
+  "家全体": [
+    "いえぜんたい",
+    "entire house"
+  ],
+  "家": [
+    "いえ",
+    "house"
+  ],
+  "全体": [
+    "ぜんたい",
+    "whole; overall"
+  ],
+  "状態": [
+    "じょうたい",
+    "condition"
+  ],
+  "本体": [
+    "ほんたい",
+    "main unit; product itself"
+  ],
+  "窓本体": [
+    "まどほんたい",
+    "window unit itself"
+  ],
+  "価格": [
+    "かかく",
+    "price"
+  ],
+  "加えて": [
+    "くわえて",
+    "in addition to"
+  ],
+  "取り付け工事": [
+    "とりつけこうじ",
+    "installation work"
+  ],
+  "取り付け": [
+    "とりつけ",
+    "installation"
+  ],
+  "内装": [
+    "ないそう",
+    "interior finishing"
+  ],
+  "補修費": [
+    "ほしゅうひ",
+    "repair or making-good cost"
+  ],
+  "分けて": [
+    "わけて",
+    "separately; divided"
+  ],
+  "書いてもらった": [
+    "かいてもらった",
+    "had someone write down"
+  ],
+  "初期費用": [
+    "しょきひよう",
+    "upfront or initial cost"
+  ],
+  "お金": [
+    "おかね",
+    "money"
+  ],
+  "将来": [
+    "しょうらい",
+    "future"
+  ],
+  "考えたい": [
+    "かんがえたい",
+    "want to consider"
+  ],
+  "工事中": [
+    "こうじちゅう",
+    "during the renovation work"
+  ],
+  "程度": [
+    "ていど",
+    "extent; degree"
+  ],
+  "支障": [
+    "ししょう",
+    "disruption or hindrance"
+  ],
+  "支障が出る": [
+    "ししょうがでる",
+    "cause disruption; interfere with"
+  ],
+  "事前": [
+    "じぜん",
+    "in advance"
+  ],
+  "聞いておく": [
+    "きいておく",
+    "ask about in advance"
+  ],
+  "朝": [
+    "あさ",
+    "morning"
+  ],
+  "場面": [
+    "ばめん",
+    "scene; situation"
+  ],
+  "想像": [
+    "そうぞう",
+    "imagination"
+  ],
+  "想像してみた": [
+    "そうぞうしてみた",
+    "tried imagining"
+  ],
+  "大きい": [
+    "おおきい",
+    "large; high"
+  ],
+  "製品": [
+    "せいひん",
+    "product"
+  ],
+  "冷気": [
+    "れいき",
+    "cold air; draft"
+  ],
+  "確かめ": [
+    "たしかめ",
+    "checking; verifying"
+  ],
+  "合った": [
+    "あった",
+    "suited to; fitting"
+  ],
+  "納得できる": [
+    "なっとくできる",
+    "find convincing; feel satisfied with"
+  ],
+  "急いで": [
+    "いそいで",
+    "in a hurry"
+  ],
+  "気になる点": [
+    "きになるてん",
+    "points of concern"
+  ],
+  "もう一度": [
+    "もういちど",
+    "once more"
+  ],
+  "暖房にかかる": [
+    "だんぼうにかかる",
+    "related to heating expenditure"
+  ],
+  "家に合った": [
+    "いえにあった",
+    "suited to the home"
   ]
 }
