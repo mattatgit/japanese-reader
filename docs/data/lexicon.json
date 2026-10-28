@@ -2966,5 +2966,257 @@
   "家に合った": [
     "いえにあった",
     "suited to the home"
+  ],
+  "整える前": [
+    "ととのえるまえ",
+    "before arranging"
+  ],
+  "動き方": [
+    "うごきかた",
+    "way of moving around"
+  ],
+  "車庫": [
+    "しゃこ",
+    "garage"
+  ],
+  "芝生": [
+    "しばふ",
+    "lawn; grass"
+  ],
+  "横": [
+    "よこ",
+    "beside; side"
+  ],
+  "歩ける": [
+    "あるける",
+    "can walk"
+  ],
+  "使える": [
+    "つかえる",
+    "can use"
+  ],
+  "除雪": [
+    "じょせつ",
+    "snow removal"
+  ],
+  "除雪した": [
+    "じょせつした",
+    "cleared away (snow)"
+  ],
+  "寄せる": [
+    "よせる",
+    "push or gather to one side"
+  ],
+  "落ちる": [
+    "おちる",
+    "fall"
+  ],
+  "植栽": [
+    "しょくさい",
+    "planting; vegetation in a landscape plan"
+  ],
+  "変わってくる": [
+    "かわってくる",
+    "come to change; depend on circumstances"
+  ],
+  "造園業者": [
+    "ぞうえんぎょうしゃ",
+    "landscape contractor"
+  ],
+  "造園": [
+    "ぞうえん",
+    "landscape gardening"
+  ],
+  "見ながら": [
+    "みながら",
+    "while looking at"
+  ],
+  "舗装材": [
+    "ほそうざい",
+    "paving material"
+  ],
+  "舗装": [
+    "ほそう",
+    "paving"
+  ],
+  "選ばない": [
+    "えらばない",
+    "do not choose"
+  ],
+  "言われた": [
+    "いわれた",
+    "was told"
+  ],
+  "水": [
+    "みず",
+    "water"
+  ],
+  "通しやすい": [
+    "とおしやすい",
+    "lets pass through easily"
+  ],
+  "素材": [
+    "そざい",
+    "material"
+  ],
+  "雨": [
+    "あめ",
+    "rain"
+  ],
+  "雨の日": [
+    "あめのひ",
+    "rainy day"
+  ],
+  "除雪機": [
+    "じょせつき",
+    "snowblower; snow-removal machine"
+  ],
+  "使用": [
+    "しよう",
+    "use; operation"
+  ],
+  "適している": [
+    "てきしている",
+    "suitable for"
+  ],
+  "段差": [
+    "だんさ",
+    "difference in level; step"
+  ],
+  "少なく": [
+    "すくなく",
+    "with less; fewer"
+  ],
+  "運びやすい": [
+    "はこびやすい",
+    "easy to carry or move"
+  ],
+  "動線": [
+    "どうせん",
+    "movement flow; circulation route"
+  ],
+  "確保": [
+    "かくほ",
+    "secure; ensure"
+  ],
+  "確保したい": [
+    "かくほしたい",
+    "want to ensure or reserve"
+  ],
+  "隅": [
+    "すみ",
+    "corner"
+  ],
+  "木": [
+    "き",
+    "tree; wood"
+  ],
+  "植える": [
+    "うえる",
+    "plant"
+  ],
+  "積む": [
+    "つむ",
+    "pile up; stack"
+  ],
+  "重なっていた": [
+    "かさなっていた",
+    "was overlapping"
+  ],
+  "おそれがある": [
+    "おそれがある",
+    "there is a risk of"
+  ],
+  "変える": [
+    "かえる",
+    "change; relocate"
+  ],
+  "日当たり": [
+    "ひあたり",
+    "sun exposure"
+  ],
+  "水はけ": [
+    "みずはけ",
+    "drainage; how well water drains"
+  ],
+  "確かめれば": [
+    "たしかめれば",
+    "if one checks"
+  ],
+  "庭全体": [
+    "にわぜんたい",
+    "the whole garden"
+  ],
+  "完成させる": [
+    "かんせいさせる",
+    "finish; complete"
+  ],
+  "立てる": [
+    "たてる",
+    "make (a plan)"
+  ],
+  "楽しい": [
+    "たのしい",
+    "enjoyable"
+  ],
+  "四季": [
+    "しき",
+    "four seasons"
+  ],
+  "通して": [
+    "とおして",
+    "throughout"
+  ],
+  "使いやすい": [
+    "つかいやすい",
+    "easy to use"
+  ],
+  "不便": [
+    "ふべん",
+    "inconvenience"
+  ],
+  "不便さ": [
+    "ふべんさ",
+    "inconvenience"
+  ],
+  "先": [
+    "さき",
+    "first; ahead"
+  ],
+  "先に": [
+    "さきに",
+    "first; beforehand"
+  ],
+  "決め": [
+    "きめ",
+    "decide"
+  ],
+  "石": [
+    "いし",
+    "stone; rock"
+  ],
+  "続けやすく": [
+    "つづけやすく",
+    "easy to maintain or continue"
+  ],
+  "同じくらい": [
+    "おなじくらい",
+    "to the same degree"
+  ],
+  "考えることにした": [
+    "かんがえることにした",
+    "decided to consider"
+  ],
+  "使えるとは限らない": [
+    "つかえるとはかぎらない",
+    "not necessarily usable"
+  ],
+  "冬の動き方": [
+    "ふゆのうごきかた",
+    "winter circulation and routes"
+  ],
+  "雪を置く場所": [
+    "ゆきをおくばしょ",
+    "snow storage area"
   ]
 }
