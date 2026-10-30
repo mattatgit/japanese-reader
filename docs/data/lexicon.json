@@ -3518,5 +3518,237 @@
   "飲む": [
     "のむ",
     "drink"
+  ],
+  "図書館": [
+    "としょかん",
+    "library"
+  ],
+  "昔": [
+    "むかし",
+    "long ago"
+  ],
+  "町並み": [
+    "まちなみ",
+    "townscape"
+  ],
+  "古い地図": [
+    "ふるいちず",
+    "old map"
+  ],
+  "昔の町並み": [
+    "むかしのまちなみ",
+    "historical townscape"
+  ],
+  "開いた": [
+    "ひらいた",
+    "opened"
+  ],
+  "現在": [
+    "げんざい",
+    "present day"
+  ],
+  "並ぶ": [
+    "ならぶ",
+    "line a street"
+  ],
+  "畑": [
+    "はたけ",
+    "field"
+  ],
+  "細い": [
+    "ほそい",
+    "narrow"
+  ],
+  "描かれている": [
+    "えがかれている",
+    "depicted"
+  ],
+  "端": [
+    "はし",
+    "edge"
+  ],
+  "作られた年代": [
+    "つくられたねんだい",
+    "era it was made"
+  ],
+  "記されていた": [
+    "しるされていた",
+    "was noted"
+  ],
+  "正確とは限らない": [
+    "せいかくとはかぎらない",
+    "not necessarily accurate"
+  ],
+  "見比べる": [
+    "みくらべる",
+    "compare by looking"
+  ],
+  "司書": [
+    "ししょ",
+    "librarian"
+  ],
+  "当時": [
+    "とうじ",
+    "at that time"
+  ],
+  "市の記録": [
+    "しのきろく",
+    "municipal records"
+  ],
+  "参考になる": [
+    "さんこうになる",
+    "be useful as a reference"
+  ],
+  "教えてくれた": [
+    "おしえてくれた",
+    "explained to me"
+  ],
+  "看板": [
+    "かんばん",
+    "signboard"
+  ],
+  "橋": [
+    "はし",
+    "bridge"
+  ],
+  "細部": [
+    "さいぶ",
+    "fine details"
+  ],
+  "撮影された": [
+    "さつえいされた",
+    "was photographed"
+  ],
+  "背景": [
+    "はいけい",
+    "background"
+  ],
+  "山並み": [
+    "やまなみ",
+    "mountain ridgeline"
+  ],
+  "向き": [
+    "むき",
+    "direction faced"
+  ],
+  "推測する": [
+    "すいそくする",
+    "infer"
+  ],
+  "興味深かった": [
+    "きょうみぶかかった",
+    "was interesting"
+  ],
+  "昔の建物": [
+    "むかしのたてもの",
+    "old buildings"
+  ],
+  "地域の記憶": [
+    "ちいきのきおく",
+    "local collective memory"
+  ],
+  "使われなくなった": [
+    "つかわれなくなった",
+    "no longer used"
+  ],
+  "生かしたり": [
+    "いかしたり",
+    "put to good use"
+  ],
+  "暮らした": [
+    "くらした",
+    "lived"
+  ],
+  "人々": [
+    "ひとびと",
+    "people"
+  ],
+  "調べた内容": [
+    "しらべたないよう",
+    "research findings"
+  ],
+  "整理しているうちに": [
+    "せいりしているうちに",
+    "while organising"
+  ],
+  "見え方": [
+    "みえかた",
+    "way something appears"
+  ],
+  "何気なく": [
+    "なにげなく",
+    "without much thought"
+  ],
+  "通り過ぎていた": [
+    "とおりすぎていた",
+    "had been passing by"
+  ],
+  "曲がり角": [
+    "まがりかど",
+    "street corner"
+  ],
+  "関係している": [
+    "かんけいしている",
+    "be related"
+  ],
+  "風景": [
+    "ふうけい",
+    "scenery"
+  ],
+  "重ねながら": [
+    "かさねながら",
+    "while overlaying"
+  ],
+  "気づいた": [
+    "きづいた",
+    "noticed"
+  ],
+  "記録してみたい": [
+    "きろくしてみたい",
+    "would like to try recording"
+  ],
+  "歩き": [
+    "あるき",
+    "walking"
+  ],
+  "昔の町": [
+    "むかしのまち",
+    "old town"
+  ],
+  "時代": [
+    "じだい",
+    "era"
+  ],
+  "関係": [
+    "かんけい",
+    "relationship"
+  ],
+  "何": [
+    "なに",
+    "what"
+  ],
+  "地図": [
+    "ちず",
+    "map"
+  ],
+  "名前": [
+    "なまえ",
+    "name"
+  ],
+  "例": [
+    "れい",
+    "example"
+  ],
+  "知る": [
+    "しる",
+    "learn; know"
+  ],
+  "変わった": [
+    "かわった",
+    "changed"
+  ],
+  "町": [
+    "まち",
+    "town"
   ]
 }
