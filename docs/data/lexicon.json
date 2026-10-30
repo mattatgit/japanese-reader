@@ -3218,5 +3218,305 @@
   "雪を置く場所": [
     "ゆきをおくばしょ",
     "snow storage area"
+  ],
+  "住宅街": [
+    "じゅうたくがい",
+    "residential neighbourhood"
+  ],
+  "街": [
+    "まち",
+    "town; neighbourhood"
+  ],
+  "歩いていると": [
+    "あるいていると",
+    "while walking, something happened"
+  ],
+  "焙煎所": [
+    "ばいせんじょ",
+    "coffee roastery"
+  ],
+  "焙煎": [
+    "ばいせん",
+    "roasting coffee beans"
+  ],
+  "店内": [
+    "てんない",
+    "inside the shop"
+  ],
+  "産地": [
+    "さんち",
+    "region of origin"
+  ],
+  "焙煎日": [
+    "ばいせんび",
+    "date of roasting"
+  ],
+  "書いた": [
+    "かいた",
+    "written"
+  ],
+  "札": [
+    "ふだ",
+    "small sign; label"
+  ],
+  "並び": [
+    "ならび",
+    "lined up; arranged"
+  ],
+  "奥": [
+    "おく",
+    "back of the room"
+  ],
+  "豆": [
+    "まめ",
+    "coffee beans"
+  ],
+  "確かめていた": [
+    "たしかめていた",
+    "was checking"
+  ],
+  "深煎り": [
+    "ふかいり",
+    "dark roast"
+  ],
+  "多い": [
+    "おおい",
+    "frequent; often"
+  ],
+  "飲み比べ": [
+    "のみくらべ",
+    "comparison tasting"
+  ],
+  "飲み比べをお願いした": [
+    "のみくらべをおねがいした",
+    "asked to compare coffees"
+  ],
+  "お願いした": [
+    "おねがいした",
+    "requested"
+  ],
+  "一杯": [
+    "いっぱい",
+    "one cup"
+  ],
+  "香り": [
+    "かおり",
+    "aroma"
+  ],
+  "華やか": [
+    "はなやか",
+    "floral; bright"
+  ],
+  "冷める": [
+    "さめる",
+    "cool down (a drink)"
+  ],
+  "冷めるにつれて": [
+    "さめるにつれて",
+    "as it cools"
+  ],
+  "果物": [
+    "くだもの",
+    "fruit"
+  ],
+  "酸味": [
+    "さんみ",
+    "acidity in flavour"
+  ],
+  "飲んだ": [
+    "のんだ",
+    "drank"
+  ],
+  "苦味": [
+    "にがみ",
+    "bitterness"
+  ],
+  "穏やか": [
+    "おだやか",
+    "mild; gentle"
+  ],
+  "後味": [
+    "あとあじ",
+    "aftertaste"
+  ],
+  "甘さ": [
+    "あまさ",
+    "sweetness"
+  ],
+  "収穫時期": [
+    "しゅうかくじき",
+    "harvest period"
+  ],
+  "収穫": [
+    "しゅうかく",
+    "harvest"
+  ],
+  "仕方": [
+    "しかた",
+    "way of doing"
+  ],
+  "印象": [
+    "いんしょう",
+    "impression"
+  ],
+  "値段": [
+    "ねだん",
+    "price"
+  ],
+  "好み": [
+    "このみ",
+    "taste; preference"
+  ],
+  "味": [
+    "あじ",
+    "flavour"
+  ],
+  "判断できない": [
+    "はんだんできない",
+    "cannot determine"
+  ],
+  "自宅": [
+    "じたく",
+    "one's home"
+  ],
+  "器具": [
+    "きぐ",
+    "brewing equipment"
+  ],
+  "抽出": [
+    "ちゅうしゅつ",
+    "coffee extraction"
+  ],
+  "抽出方法": [
+    "ちゅうしゅつほうほう",
+    "brewing/extraction method"
+  ],
+  "挽き方": [
+    "ひきかた",
+    "grind size or way of grinding"
+  ],
+  "挽く": [
+    "ひく",
+    "grind coffee beans"
+  ],
+  "説明してくれた": [
+    "せつめいしてくれた",
+    "explained it to me"
+  ],
+  "細かく": [
+    "こまかく",
+    "finely"
+  ],
+  "挽けば": [
+    "ひけば",
+    "if you grind"
+  ],
+  "濃くて": [
+    "こくて",
+    "rich/strong and"
+  ],
+  "湯": [
+    "ゆ",
+    "hot water"
+  ],
+  "注ぐ": [
+    "そそぐ",
+    "pour"
+  ],
+  "多く": [
+    "おおく",
+    "many"
+  ],
+  "条件": [
+    "じょうけん",
+    "variables; conditions"
+  ],
+  "変えず": [
+    "かえず",
+    "without changing"
+  ],
+  "試した": [
+    "ためした",
+    "tried"
+  ],
+  "試す": [
+    "ためす",
+    "test"
+  ],
+  "帰り": [
+    "かえり",
+    "on the way home"
+  ],
+  "少量": [
+    "しょうりょう",
+    "small quantity"
+  ],
+  "買い": [
+    "かい",
+    "buying"
+  ],
+  "袋": [
+    "ふくろ",
+    "bag"
+  ],
+  "書かれた": [
+    "かかれた",
+    "written; printed"
+  ],
+  "確認した": [
+    "かくにんした",
+    "checked"
+  ],
+  "言葉": [
+    "ことば",
+    "words"
+  ],
+  "言葉にする": [
+    "ことばにする",
+    "put into words"
+  ],
+  "意外と": [
+    "いがいと",
+    "surprisingly"
+  ],
+  "作り手": [
+    "つくりて",
+    "maker; producer"
+  ],
+  "話": [
+    "はなし",
+    "conversation"
+  ],
+  "聞き": [
+    "きき",
+    "listen"
+  ],
+  "伝えてみると": [
+    "つたえてみると",
+    "upon trying to describe"
+  ],
+  "発見": [
+    "はっけん",
+    "discovery"
+  ],
+  "次は": [
+    "つぎは",
+    "next time"
+  ],
+  "淹れた": [
+    "いれた",
+    "brewed coffee"
+  ],
+  "感想": [
+    "かんそう",
+    "impressions"
+  ],
+  "伝えに行きたい": [
+    "つたえにいきたい",
+    "want to go to share my feedback"
+  ],
+  "飲む": [
+    "のむ",
+    "drink"
   ]
 }
