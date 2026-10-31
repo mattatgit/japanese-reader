@@ -1,351 +1,1063 @@
 {
-  "一つずつ": [
-    "ひとつずつ",
-    "one by one"
+  "おそれがある": [
+    "おそれがある",
+    "there is a risk of"
   ],
-  "一年": [
-    "いちねん",
-    "one year"
+  "お願いした": [
+    "おねがいした",
+    "requested"
   ],
-  "一度": [
-    "いちど",
-    "once"
+  "お金": [
+    "おかね",
+    "money"
   ],
-  "一斉に": [
-    "いっせいに",
-    "all at once"
+  "ぐらついている": [
+    "ぐらついている",
+    "is wobbling"
   ],
-  "一方": [
-    "いっぽう",
-    "on the other hand"
+  "しっかり": [
+    "しっかり",
+    "firmly"
   ],
-  "一時的": [
-    "いちじてき",
-    "temporary"
+  "スコップ": [
+    "スコップ",
+    "shovel"
   ],
-  "一番": [
-    "いちばん",
-    "best"
+  "デザインデータ": [
+    "デザインデータ",
+    "design files or data"
   ],
-  "一緒": [
-    "いっしょ",
-    "together"
+  "ビーコン": [
+    "ビーコン",
+    "avalanche transceiver"
   ],
-  "丈夫さ": [
-    "じょうぶさ",
-    "durability"
+  "プローブ": [
+    "プローブ",
+    "avalanche probe"
   ],
-  "上がった": [
-    "あがった",
-    "rose"
+  "もう一度": [
+    "もういちど",
+    "once more"
   ],
-  "上って": [
-    "のぼって",
-    "climbing up"
+  "やり取り": [
+    "やりとり",
+    "exchange of information or files"
   ],
-  "不具合": [
-    "ふぐあい",
-    "defect or malfunction"
+  "やり取りする": [
+    "やりとりする",
+    "exchange files or messages"
   ],
-  "両方": [
-    "りょうほう",
-    "both"
+  "わけではない": [
+    "わけではない",
+    "it does not mean that"
   ],
-  "並んで": [
-    "ならんで",
-    "lined up"
+  "わずかに": [
+    "わずかに",
+    "slightly"
   ],
-  "中古住宅": [
-    "ちゅうこじゅうたく",
-    "second-hand house"
+  "旭川": [
+    "あさひかわ",
+    "Asahikawa"
   ],
-  "乾燥": [
-    "かんそう",
-    "dryness"
+  "扱い": [
+    "あつかい",
+    "handling"
   ],
-  "交差点": [
-    "こうさてん",
-    "intersection"
+  "安く": [
+    "やすく",
+    "inexpensive; cheaply"
   ],
-  "今後": [
-    "こんご",
-    "in future"
+  "安心": [
+    "あんしん",
+    "peace of mind"
   ],
-  "仕上げ": [
-    "しあげ",
-    "surface finishing"
+  "安全": [
+    "あんぜん",
+    "safety"
   ],
-  "仕組み": [
-    "しくみ",
-    "mechanism"
+  "安全になるわけではない": [
+    "あんぜんになるわけではない",
+    "does not automatically make it safe"
   ],
-  "付き合い方": [
-    "つきあいかた",
-    "way of relating to something"
+  "安定": [
+    "あんてい",
+    "stability"
   ],
-  "休眠": [
-    "きゅうみん",
-    "dormancy"
+  "案": [
+    "あん",
+    "proposal; plan"
   ],
-  "伸び縮み": [
-    "のびちぢみ",
-    "expansion and contraction"
+  "案内": [
+    "あんない",
+    "guidance"
+  ],
+  "案内してくれた": [
+    "あんないしてくれた",
+    "showed us around"
+  ],
+  "以前": [
+    "いぜん",
+    "previously"
   ],
   "位置": [
     "いち",
     "location"
   ],
-  "低木": [
-    "ていぼく",
-    "shrub"
+  "依頼": [
+    "いらい",
+    "request"
   ],
-  "住まい": [
-    "すまい",
-    "home"
+  "意外": [
+    "いがい",
+    "surprisingly"
   ],
-  "住宅": [
-    "じゅうたく",
-    "house"
+  "意外と": [
+    "いがいと",
+    "surprisingly"
+  ],
+  "意思": [
+    "いし",
+    "intentions; views"
+  ],
+  "椅子": [
+    "いす",
+    "chair"
+  ],
+  "異なる": [
+    "ことなる",
+    "differ"
+  ],
+  "移動": [
+    "いどう",
+    "movement; moving"
+  ],
+  "移動できる": [
+    "いどうできる",
+    "movable; able to be moved"
+  ],
+  "維持管理": [
+    "いじかんり",
+    "upkeep and maintenance"
+  ],
+  "育って": [
+    "そだって",
+    "maturing"
+  ],
+  "一つずつ": [
+    "ひとつずつ",
+    "one by one"
+  ],
+  "一時的": [
+    "いちじてき",
+    "temporary"
+  ],
+  "一緒": [
+    "いっしょ",
+    "together"
+  ],
+  "一斉に": [
+    "いっせいに",
+    "all at once"
+  ],
+  "一直線": [
+    "いっちょくせん",
+    "straight line"
+  ],
+  "一度": [
+    "いちど",
+    "once"
+  ],
+  "一日": [
+    "いちにち",
+    "one day"
+  ],
+  "一年": [
+    "いちねん",
+    "one year"
+  ],
+  "一杯": [
+    "いっぱい",
+    "one cup"
+  ],
+  "一番": [
+    "いちばん",
+    "best"
+  ],
+  "一方": [
+    "いっぽう",
+    "on the other hand"
+  ],
+  "一本": [
+    "いっぽん",
+    "one long or cylindrical item"
+  ],
+  "印象": [
+    "いんしょう",
+    "impression"
+  ],
+  "引き込める": [
+    "ひきこめる",
+    "can be brought into a building (a utility line)"
+  ],
+  "引き渡し": [
+    "ひきわたし",
+    "handover"
+  ],
+  "引き抜く": [
+    "ひきぬく",
+    "pull out"
+  ],
+  "引き返せる": [
+    "ひきかえせる",
+    "can turn back"
+  ],
+  "引っ越して": [
+    "ひっこして",
+    "having moved house"
+  ],
+  "飲み比べ": [
+    "のみくらべ",
+    "comparison tasting"
+  ],
+  "飲み比べをお願いした": [
+    "のみくらべをおねがいした",
+    "asked to compare coffees"
+  ],
+  "飲む": [
+    "のむ",
+    "drink"
+  ],
+  "飲んだ": [
+    "のんだ",
+    "drank"
+  ],
+  "隠れ": [
+    "かくれ",
+    "become hidden"
+  ],
+  "隠れて": [
+    "かくれて",
+    "hidden"
+  ],
+  "雨": [
+    "あめ",
+    "rain"
+  ],
+  "雨の日": [
+    "あめのひ",
+    "rainy day"
+  ],
+  "雨漏り": [
+    "あまもり",
+    "roof leak"
+  ],
+  "運びやすい": [
+    "はこびやすい",
+    "easy to carry or move"
+  ],
+  "影": [
+    "かげ",
+    "shadow"
+  ],
+  "園芸店": [
+    "えんげいてん",
+    "garden centre"
+  ],
+  "奥": [
+    "おく",
+    "back of the room"
+  ],
+  "横": [
+    "よこ",
+    "beside; side"
+  ],
+  "屋外": [
+    "おくがい",
+    "outside"
+  ],
+  "屋根": [
+    "やね",
+    "roof"
+  ],
+  "屋根材": [
+    "やねざい",
+    "roofing material"
+  ],
+  "温泉": [
+    "おんせん",
+    "hot spring"
+  ],
+  "温度": [
+    "おんど",
+    "temperature"
+  ],
+  "温度変化": [
+    "おんどへんか",
+    "temperature change"
+  ],
+  "穏やか": [
+    "おだやか",
+    "mild; gentle"
+  ],
+  "下がりやすく": [
+    "さがりやすく",
+    "tends to drop"
+  ],
+  "下り": [
+    "くだり",
+    "download (downstream)"
+  ],
+  "何": [
+    "なに",
+    "what"
+  ],
+  "何気なく": [
+    "なにげなく",
+    "without much thought"
   ],
   "何十年": [
     "なんじゅうねん",
     "decades"
   ],
-  "余裕": [
-    "よゆう",
-    "enough time or leeway"
+  "価格": [
+    "かかく",
+    "price"
   ],
-  "作り": [
-    "つくり",
-    "construction"
+  "加え": [
+    "くわえ",
+    "in addition to"
   ],
-  "作れる": [
-    "つくれる",
-    "can be made"
-  ],
-  "作業": [
-    "さぎょう",
-    "work"
-  ],
-  "作業後": [
-    "さぎょうご",
-    "after the procedure"
-  ],
-  "使いやすさ": [
-    "つかいやすさ",
-    "ease of use"
-  ],
-  "使い方": [
-    "つかいかた",
-    "how to use"
-  ],
-  "使われる": [
-    "つかわれる",
-    "is used"
-  ],
-  "例えば": [
-    "たとえば",
-    "for example"
-  ],
-  "依頼": [
-    "いらい",
-    "request"
-  ],
-  "保温材": [
-    "ほおんざい",
-    "insulating material"
-  ],
-  "保管場所": [
-    "ほかんばしょ",
-    "storage location"
-  ],
-  "保証書": [
-    "ほしょうしょ",
-    "warranty"
-  ],
-  "修理": [
-    "しゅうり",
-    "repair"
-  ],
-  "傷": [
-    "きず",
-    "scratch or damage"
-  ],
-  "優れて": [
-    "すぐれて",
-    "superior"
-  ],
-  "全部": [
-    "ぜんぶ",
-    "everything"
-  ],
-  "共有": [
-    "きょうゆう",
-    "sharing"
-  ],
-  "写真": [
-    "しゃしん",
-    "photograph"
-  ],
-  "冬": [
-    "ふゆ",
-    "winter"
-  ],
-  "冬囲い": [
-    "ふゆがこい",
-    "winter protection for plants"
-  ],
-  "凍りやすい": [
-    "こおりやすい",
-    "prone to freezing"
-  ],
-  "凍る": [
-    "こおる",
-    "freeze"
-  ],
-  "凍結": [
-    "とうけつ",
-    "freezing"
-  ],
-  "出入り": [
-    "でいり",
-    "coming and going"
-  ],
-  "分からない": [
-    "わからない",
-    "not understood"
-  ],
-  "分からなかった": [
-    "わからなかった",
-    "could not tell"
-  ],
-  "分担": [
-    "ぶんたん",
-    "sharing responsibility"
-  ],
-  "分解": [
-    "ぶんかい",
-    "disassembly"
-  ],
-  "切り返して": [
-    "きりかえして",
-    "turning over a compost pile"
-  ],
-  "初めて": [
-    "はじめて",
-    "for the first time"
-  ],
-  "利用": [
-    "りよう",
-    "use"
-  ],
-  "割れたり": [
-    "われたり",
-    "cracking"
+  "加えて": [
+    "くわえて",
+    "in addition to"
   ],
   "加える": [
     "くわえる",
     "add"
   ],
-  "動き": [
-    "うごき",
-    "movement"
+  "夏": [
+    "なつ",
+    "summer"
   ],
-  "動物": [
-    "どうぶつ",
-    "animal"
+  "家": [
+    "いえ",
+    "house"
   ],
-  "勾配": [
-    "こうばい",
-    "slope or gradient"
+  "家に合った": [
+    "いえにあった",
+    "suited to the home"
   ],
-  "北海道": [
-    "ほっかいどう",
-    "Hokkaido"
+  "家具": [
+    "かぐ",
+    "furniture"
   ],
-  "十月": [
-    "じゅうがつ",
-    "October"
+  "家具づくり": [
+    "かぐづくり",
+    "furniture making"
   ],
-  "協力": [
-    "きょうりょく",
-    "cooperation"
+  "家全体": [
+    "いえぜんたい",
+    "entire house"
   ],
-  "危険": [
-    "きけん",
-    "danger"
+  "家中": [
+    "いえじゅう",
+    "throughout the house"
   ],
-  "厚く": [
-    "あつく",
-    "thickly"
+  "果物": [
+    "くだもの",
+    "fruit"
   ],
-  "原因": [
-    "げんいん",
-    "cause"
+  "箇所": [
+    "かしょ",
+    "location"
   ],
-  "及ぼす": [
-    "およぼす",
-    "cause or inflict"
+  "花壇": [
+    "かだん",
+    "flower bed"
   ],
-  "反ったり": [
-    "そったり",
-    "warping"
+  "荷物": [
+    "にもつ",
+    "belongings; luggage"
   ],
-  "受け取り方": [
-    "うけとりかた",
-    "how to receive"
+  "華やか": [
+    "はなやか",
+    "floral; bright"
   ],
-  "口頭": [
-    "こうとう",
-    "verbally"
+  "華やかさ": [
+    "はなやかさ",
+    "showiness"
   ],
-  "台所": [
-    "だいどころ",
-    "kitchen"
+  "過ごす": [
+    "すごす",
+    "spend time"
   ],
-  "合わせて": [
-    "あわせて",
-    "to suit"
+  "過去": [
+    "かこ",
+    "past"
   ],
-  "合板": [
-    "ごうはん",
-    "plywood"
+  "会期": [
+    "かいき",
+    "exhibition period"
   ],
-  "同じ": [
-    "おなじ",
-    "same"
+  "会場": [
+    "かいじょう",
+    "event venue"
   ],
-  "同時": [
-    "どうじ",
-    "at the same time"
+  "解決": [
+    "かいけつ",
+    "solution; resolution"
   ],
-  "吸い上げにくく": [
-    "すいあげにくく",
-    "difficult to draw up"
+  "解決する": [
+    "かいけつする",
+    "resolve; solve"
   ],
-  "周囲": [
-    "しゅうい",
-    "surroundings"
+  "解約": [
+    "かいやく",
+    "cancelling a contract"
   ],
-  "和らげる": [
-    "やわらげる",
-    "moderate or soften"
-  ],
-  "問題": [
-    "もんだい",
-    "issue"
+  "回線": [
+    "かいせん",
+    "communications line"
   ],
   "回覧板": [
     "かいらんばん",
     "neighbourhood circular"
   ],
-  "困った": [
-    "こまった",
-    "had difficulty"
+  "快適": [
+    "かいてき",
+    "comfortable"
   ],
-  "図面": [
-    "ずめん",
-    "architectural drawing"
+  "快適さ": [
+    "かいてきさ",
+    "comfort"
+  ],
+  "改修": [
+    "かいしゅう",
+    "renovation; refurbishment"
+  ],
+  "改修業者": [
+    "かいしゅうぎょうしゃ",
+    "renovation contractor"
+  ],
+  "海外": [
+    "かいがい",
+    "overseas"
+  ],
+  "開いた": [
+    "ひらいた",
+    "opened"
+  ],
+  "開く": [
+    "ひらく",
+    "hold or organise an event"
+  ],
+  "開ける": [
+    "あける",
+    "make or open (a hole)"
+  ],
+  "外す": [
+    "はずす",
+    "remove"
+  ],
+  "外観": [
+    "がいかん",
+    "exterior appearance"
+  ],
+  "街": [
+    "まち",
+    "town; neighbourhood"
+  ],
+  "確かめ": [
+    "たしかめ",
+    "checking; verifying"
+  ],
+  "確かめて": [
+    "たしかめて",
+    "verify"
+  ],
+  "確かめていた": [
+    "たしかめていた",
+    "was checking"
+  ],
+  "確かめる": [
+    "たしかめる",
+    "check; verify"
+  ],
+  "確かめれば": [
+    "たしかめれば",
+    "if one checks"
+  ],
+  "確認": [
+    "かくにん",
+    "check"
+  ],
+  "確認した": [
+    "かくにんした",
+    "checked"
+  ],
+  "確保": [
+    "かくほ",
+    "secure; ensure"
+  ],
+  "確保したい": [
+    "かくほしたい",
+    "want to ensure or reserve"
+  ],
+  "楽しい": [
+    "たのしい",
+    "enjoyable"
+  ],
+  "楽しみ": [
+    "たのしみ",
+    "pleasure"
+  ],
+  "楽しむ": [
+    "たのしむ",
+    "enjoy"
+  ],
+  "割れ": [
+    "われ",
+    "crack"
+  ],
+  "割れたり": [
+    "われたり",
+    "cracking"
+  ],
+  "割引": [
+    "わりびき",
+    "discount"
+  ],
+  "活動": [
+    "かつどう",
+    "activities"
+  ],
+  "滑り落ちる": [
+    "すべりおちる",
+    "slide off"
+  ],
+  "乾かす": [
+    "かわかす",
+    "dry something"
+  ],
+  "乾燥": [
+    "かんそう",
+    "dryness"
+  ],
+  "寒さ": [
+    "さむさ",
+    "cold"
+  ],
+  "完成": [
+    "かんせい",
+    "completion"
+  ],
+  "完成させる": [
+    "かんせいさせる",
+    "finish; complete"
+  ],
+  "完璧": [
+    "かんぺき",
+    "perfect"
+  ],
+  "感じた": [
+    "かんじた",
+    "felt"
+  ],
+  "感じられた": [
+    "かんじられた",
+    "was felt; could be sensed"
+  ],
+  "感想": [
+    "かんそう",
+    "impressions"
+  ],
+  "換気": [
+    "かんき",
+    "ventilation"
+  ],
+  "甘さ": [
+    "あまさ",
+    "sweetness"
+  ],
+  "看板": [
+    "かんばん",
+    "signboard"
+  ],
+  "管理会社": [
+    "かんりがいしゃ",
+    "property management company"
+  ],
+  "緩やかな": [
+    "ゆるやかな",
+    "gentle"
+  ],
+  "観察": [
+    "かんさつ",
+    "observation"
+  ],
+  "鑑賞": [
+    "かんしょう",
+    "appreciation or viewing of art"
+  ],
+  "鑑賞する": [
+    "かんしょうする",
+    "appreciate or view art"
+  ],
+  "関係": [
+    "かんけい",
+    "relationship"
+  ],
+  "関係している": [
+    "かんけいしている",
+    "be related"
+  ],
+  "含まれていた": [
+    "ふくまれていた",
+    "was included"
+  ],
+  "危険": [
+    "きけん",
+    "danger"
+  ],
+  "器具": [
+    "きぐ",
+    "brewing equipment"
+  ],
+  "基準": [
+    "きじゅん",
+    "criterion"
+  ],
+  "基礎": [
+    "きそ",
+    "foundation"
+  ],
+  "寄せて": [
+    "よせて",
+    "push to one side"
+  ],
+  "寄せる": [
+    "よせる",
+    "push or gather to one side"
+  ],
+  "寄せ付けない": [
+    "よせつけない",
+    "keep away"
+  ],
+  "寄る": [
+    "よる",
+    "stop by"
+  ],
+  "既存": [
+    "きそん",
+    "existing"
+  ],
+  "期限": [
+    "きげん",
+    "deadline"
+  ],
+  "帰り": [
+    "かえり",
+    "on the way home"
+  ],
+  "帰り道": [
+    "かえりみち",
+    "way back"
+  ],
+  "気づいた": [
+    "きづいた",
+    "noticed"
+  ],
+  "気づく": [
+    "きづく",
+    "notice"
+  ],
+  "気になった": [
+    "きになった",
+    "was concerned about"
+  ],
+  "気になる": [
+    "きになる",
+    "to be concerned about"
+  ],
+  "気になる点": [
+    "きになるてん",
+    "points of concern"
+  ],
+  "気を配る": [
+    "きをくばる",
+    "pay attention to"
+  ],
+  "気温": [
+    "きおん",
+    "air temperature"
+  ],
+  "気持ち": [
+    "きもち",
+    "feeling"
+  ],
+  "季節": [
+    "きせつ",
+    "season"
+  ],
+  "記されていた": [
+    "しるされていた",
+    "was noted"
+  ],
+  "記録": [
+    "きろく",
+    "record"
+  ],
+  "記録してみたい": [
+    "きろくしてみたい",
+    "would like to try recording"
+  ],
+  "脚": [
+    "あし",
+    "table legs"
+  ],
+  "脚の一本": [
+    "あしのいっぽん",
+    "one of the chair legs"
+  ],
+  "休眠": [
+    "きゅうみん",
+    "dormancy"
+  ],
+  "及ぼす": [
+    "およぼす",
+    "cause or inflict"
+  ],
+  "吸い上げにくく": [
+    "すいあげにくく",
+    "difficult to draw up"
+  ],
+  "急いで": [
+    "いそいで",
+    "in a hurry"
+  ],
+  "急激": [
+    "きゅうげき",
+    "rapid"
+  ],
+  "求められる": [
+    "もとめられる",
+    "is required; called for"
+  ],
+  "給水管": [
+    "きゅうすいかん",
+    "water-supply pipe"
+  ],
+  "給湯器": [
+    "きゅうとうき",
+    "water heater"
+  ],
+  "距離": [
+    "きょり",
+    "distance"
+  ],
+  "共有": [
+    "きょうゆう",
+    "sharing"
+  ],
+  "協力": [
+    "きょうりょく",
+    "cooperation"
+  ],
+  "強い": [
+    "つよい",
+    "strong"
+  ],
+  "強く": [
+    "つよく",
+    "resistant to; strong"
+  ],
+  "強めても": [
+    "つよめても",
+    "even if strengthened"
+  ],
+  "教えてくれた": [
+    "おしえてくれた",
+    "explained to me"
+  ],
+  "橋": [
+    "はし",
+    "bridge"
+  ],
+  "興味深かった": [
+    "きょうみぶかかった",
+    "was interesting"
+  ],
+  "業者": [
+    "ぎょうしゃ",
+    "contractor; service provider"
+  ],
+  "曲がり角": [
+    "まがりかど",
+    "street corner"
+  ],
+  "近く": [
+    "ちかく",
+    "nearby"
+  ],
+  "近所": [
+    "きんじょ",
+    "neighbourhood"
+  ],
+  "苦味": [
+    "にがみ",
+    "bitterness"
+  ],
+  "具体的": [
+    "ぐたいてき",
+    "specific; concrete"
+  ],
+  "空気": [
+    "くうき",
+    "air"
+  ],
+  "隅": [
+    "すみ",
+    "corner"
+  ],
+  "靴": [
+    "くつ",
+    "shoes"
+  ],
+  "繰り返し": [
+    "くりかえし",
+    "repeatedly"
+  ],
+  "型番": [
+    "かたばん",
+    "model number"
+  ],
+  "契約": [
+    "けいやく",
+    "service contract"
+  ],
+  "契約前": [
+    "けいやくまえ",
+    "before signing a contract"
+  ],
+  "形": [
+    "かたち",
+    "shape"
+  ],
+  "景色": [
+    "けしき",
+    "scenery"
+  ],
+  "計画": [
+    "けいかく",
+    "plan"
+  ],
+  "計算": [
+    "けいさん",
+    "calculate"
+  ],
+  "隙間": [
+    "すきま",
+    "gap; crack"
+  ],
+  "欠かせない": [
+    "かかせない",
+    "indispensable"
+  ],
+  "決まり": [
+    "きまり",
+    "rule"
+  ],
+  "決め": [
+    "きめ",
+    "decide"
+  ],
+  "決めず": [
+    "きめず",
+    "without deciding"
+  ],
+  "決めておく": [
+    "きめておく",
+    "decide beforehand"
+  ],
+  "決める": [
+    "きめる",
+    "decide"
+  ],
+  "決めるわけにはいかない": [
+    "きめるわけにはいかない",
+    "cannot reasonably decide / cannot simply decide"
+  ],
+  "決める前": [
+    "きめるまえ",
+    "before deciding"
+  ],
+  "決め方": [
+    "きめかた",
+    "way of deciding"
+  ],
+  "穴": [
+    "あな",
+    "hole"
+  ],
+  "結果": [
+    "けっか",
+    "result"
+  ],
+  "結露": [
+    "けつろ",
+    "condensation"
+  ],
+  "結露につながる": [
+    "けつろにつながる",
+    "may lead to condensation"
+  ],
+  "結露の跡": [
+    "けつろのあと",
+    "traces of condensation"
+  ],
+  "月額料金": [
+    "げつがくりょうきん",
+    "monthly fee"
+  ],
+  "建て付け": [
+    "たてつけ",
+    "fit of a door or window"
+  ],
+  "建築士": [
+    "けんちくし",
+    "architect"
+  ],
+  "建物": [
+    "たてもの",
+    "building"
+  ],
+  "検討": [
+    "けんとう",
+    "consideration"
+  ],
+  "見えて": [
+    "みえて",
+    "become apparent"
+  ],
+  "見える": [
+    "みえる",
+    "appear; seem"
+  ],
+  "見え方": [
+    "みえかた",
+    "way something appears"
+  ],
+  "見た目": [
+    "みため",
+    "appearance"
+  ],
+  "見つけた": [
+    "みつけた",
+    "found"
+  ],
+  "見ながら": [
+    "みながら",
+    "while looking at"
+  ],
+  "見る": [
+    "みる",
+    "look at"
+  ],
+  "見学": [
+    "けんがく",
+    "visit or inspection"
+  ],
+  "見学した": [
+    "けんがくした",
+    "visited for an inspection"
+  ],
+  "見積もり": [
+    "みつもり",
+    "quotation"
+  ],
+  "見直して": [
+    "みなおして",
+    "reconsider"
+  ],
+  "見通し": [
+    "みとおし",
+    "visibility"
+  ],
+  "見比べる": [
+    "みくらべる",
+    "compare by looking"
+  ],
+  "見落とせない": [
+    "みおとせない",
+    "cannot overlook"
+  ],
+  "軒先": [
+    "のきさき",
+    "eaves"
+  ],
+  "元の": [
+    "もとの",
+    "original"
+  ],
+  "原因": [
+    "げんいん",
+    "cause"
+  ],
+  "玄関": [
+    "げんかん",
+    "entrance"
+  ],
+  "玄関先": [
+    "げんかんさき",
+    "in front of an entrance"
+  ],
+  "現在": [
+    "げんざい",
+    "present day"
+  ],
+  "現実的": [
+    "げんじつてき",
+    "practical"
+  ],
+  "現地": [
+    "げんち",
+    "on location; at the site"
+  ],
+  "言う": [
+    "いう",
+    "say"
+  ],
+  "言われた": [
+    "いわれた",
+    "was told"
+  ],
+  "言葉": [
+    "ことば",
+    "words"
+  ],
+  "言葉にする": [
+    "ことばにする",
+    "put into words"
+  ],
+  "限らない": [
+    "かぎらない",
+    "not necessarily the case"
+  ],
+  "古い": [
+    "ふるい",
+    "old"
+  ],
+  "古い建物": [
+    "ふるいたてもの",
+    "old building"
+  ],
+  "古い地図": [
+    "ふるいちず",
+    "old map"
+  ],
+  "古道具店": [
+    "ふるどうぐてん",
+    "second-hand furniture and goods shop"
   ],
   "固く": [
     "かたく",
@@ -355,37 +1067,949 @@
     "こてい",
     "fastening"
   ],
-  "園芸店": [
-    "えんげいてん",
-    "garden centre"
+  "固定した": [
+    "こていした",
+    "fixed or permanent"
   ],
-  "土": [
-    "つち",
-    "soil"
+  "故障": [
+    "こしょう",
+    "equipment failure"
   ],
-  "土地": [
-    "とち",
-    "land"
+  "故障時": [
+    "こしょうじ",
+    "in the event of a fault"
   ],
-  "地域": [
-    "ちいき",
-    "local area"
+  "後": [
+    "あと",
+    "afterward; later"
   ],
-  "地面": [
-    "じめん",
-    "ground"
+  "後味": [
+    "あとあじ",
+    "aftertaste"
   ],
-  "型番": [
-    "かたばん",
-    "model number"
+  "交換": [
+    "こうかん",
+    "replacement"
   ],
-  "基礎": [
-    "きそ",
-    "foundation"
+  "交換した": [
+    "こうかんした",
+    "replaced"
   ],
-  "堆肥": [
-    "たいひ",
-    "compost"
+  "交差点": [
+    "こうさてん",
+    "intersection"
+  ],
+  "候補": [
+    "こうほ",
+    "options under consideration"
+  ],
+  "光": [
+    "ひかり",
+    "light"
+  ],
+  "光回線": [
+    "ひかりかいせん",
+    "fibre-optic internet connection"
+  ],
+  "勾配": [
+    "こうばい",
+    "slope or gradient"
+  ],
+  "厚く": [
+    "あつく",
+    "thickly"
+  ],
+  "口頭": [
+    "こうとう",
+    "verbally"
+  ],
+  "向き": [
+    "むき",
+    "direction faced"
+  ],
+  "好み": [
+    "このみ",
+    "taste; preference"
+  ],
+  "工事": [
+    "こうじ",
+    "construction"
+  ],
+  "工事業者": [
+    "こうじぎょうしゃ",
+    "installation contractor"
+  ],
+  "工事中": [
+    "こうじちゅう",
+    "during the renovation work"
+  ],
+  "工事費": [
+    "こうじひ",
+    "construction cost"
+  ],
+  "工夫": [
+    "くふう",
+    "ingenuity"
+  ],
+  "工房": [
+    "こうぼう",
+    "workshop"
+  ],
+  "工務店": [
+    "こうむてん",
+    "building contractor"
+  ],
+  "広がった": [
+    "ひろがった",
+    "spread out"
+  ],
+  "広く": [
+    "ひろく",
+    "wider; more spacious"
+  ],
+  "広げ": [
+    "ひろげ",
+    "spread out"
+  ],
+  "広げた": [
+    "ひろげた",
+    "spread out"
+  ],
+  "広さ": [
+    "ひろさ",
+    "area"
+  ],
+  "広告": [
+    "こうこく",
+    "advertisement"
+  ],
+  "慌ただしく": [
+    "あわただしく",
+    "hurriedly"
+  ],
+  "控えて": [
+    "ひかえて",
+    "write down"
+  ],
+  "構造": [
+    "こうぞう",
+    "structure"
+  ],
+  "考えた": [
+    "かんがえた",
+    "considered"
+  ],
+  "考えたい": [
+    "かんがえたい",
+    "want to consider"
+  ],
+  "考える": [
+    "かんがえる",
+    "consider"
+  ],
+  "考えることにした": [
+    "かんがえることにした",
+    "decided to consider"
+  ],
+  "行く": [
+    "いく",
+    "go"
+  ],
+  "行けなかった": [
+    "いけなかった",
+    "could not go or reach"
+  ],
+  "購入": [
+    "こうにゅう",
+    "purchase"
+  ],
+  "項目": [
+    "こうもく",
+    "item"
+  ],
+  "香り": [
+    "かおり",
+    "aroma"
+  ],
+  "高く": [
+    "たかく",
+    "high"
+  ],
+  "合った": [
+    "あった",
+    "suited to; fitting"
+  ],
+  "合わせて": [
+    "あわせて",
+    "to suit"
+  ],
+  "合板": [
+    "ごうはん",
+    "plywood"
+  ],
+  "今": [
+    "いま",
+    "now"
+  ],
+  "今ある": [
+    "いまある",
+    "already existing"
+  ],
+  "今後": [
+    "こんご",
+    "in future"
+  ],
+  "困った": [
+    "こまった",
+    "had difficulty"
+  ],
+  "根": [
+    "ね",
+    "root"
+  ],
+  "左右される": [
+    "さゆうされる",
+    "be influenced by"
+  ],
+  "差": [
+    "さ",
+    "difference"
+  ],
+  "座面": [
+    "ざめん",
+    "seat surface"
+  ],
+  "催し": [
+    "もよおし",
+    "event; gathering"
+  ],
+  "最後": [
+    "さいご",
+    "last; finally"
+  ],
+  "最終確認": [
+    "さいしゅうかくにん",
+    "final inspection"
+  ],
+  "最初": [
+    "さいしょ",
+    "first"
+  ],
+  "最大": [
+    "さいだい",
+    "maximum; up to"
+  ],
+  "細い": [
+    "ほそい",
+    "narrow"
+  ],
+  "細かく": [
+    "こまかく",
+    "finely"
+  ],
+  "細かな": [
+    "こまかな",
+    "small or detailed"
+  ],
+  "細部": [
+    "さいぶ",
+    "fine details"
+  ],
+  "材料": [
+    "ざいりょう",
+    "materials"
+  ],
+  "作られた年代": [
+    "つくられたねんだい",
+    "era it was made"
+  ],
+  "作り": [
+    "つくり",
+    "construction"
+  ],
+  "作り手": [
+    "つくりて",
+    "maker; producer"
+  ],
+  "作れる": [
+    "つくれる",
+    "can be made"
+  ],
+  "作家": [
+    "さっか",
+    "artist or creator"
+  ],
+  "作業": [
+    "さぎょう",
+    "work"
+  ],
+  "作業後": [
+    "さぎょうご",
+    "after the procedure"
+  ],
+  "作品": [
+    "さくひん",
+    "artwork; creative work"
+  ],
+  "撮って": [
+    "とって",
+    "take a photo"
+  ],
+  "撮影された": [
+    "さつえいされた",
+    "was photographed"
+  ],
+  "札": [
+    "ふだ",
+    "small sign; label"
+  ],
+  "三層": [
+    "さんそう",
+    "three-layer"
+  ],
+  "三層ガラス": [
+    "さんそうガラス",
+    "triple glazing; three-pane glass"
+  ],
+  "参考になる": [
+    "さんこうになる",
+    "be useful as a reference"
+  ],
+  "山": [
+    "やま",
+    "mountain"
+  ],
+  "山頂": [
+    "さんちょう",
+    "summit"
+  ],
+  "山並み": [
+    "やまなみ",
+    "mountain ridgeline"
+  ],
+  "散水栓": [
+    "さんすいせん",
+    "outdoor water tap"
+  ],
+  "産地": [
+    "さんち",
+    "region of origin"
+  ],
+  "酸味": [
+    "さんみ",
+    "acidity in flavour"
+  ],
+  "残された": [
+    "のこされた",
+    "left behind"
+  ],
+  "残しながら": [
+    "のこしながら",
+    "while preserving"
+  ],
+  "残す": [
+    "のこす",
+    "retain"
+  ],
+  "残っている": [
+    "のこっている",
+    "remain"
+  ],
+  "残り方": [
+    "のこりかた",
+    "how much remains"
+  ],
+  "残る": [
+    "のこる",
+    "remain"
+  ],
+  "残念": [
+    "ざんねん",
+    "disappointing"
+  ],
+  "残量": [
+    "ざんりょう",
+    "remaining amount"
+  ],
+  "仕事": [
+    "しごと",
+    "work"
+  ],
+  "仕事中": [
+    "しごとちゅう",
+    "while working"
+  ],
+  "仕上げ": [
+    "しあげ",
+    "surface finishing"
+  ],
+  "仕組み": [
+    "しくみ",
+    "mechanism"
+  ],
+  "仕方": [
+    "しかた",
+    "way of doing"
+  ],
+  "使いやすい": [
+    "つかいやすい",
+    "easy to use"
+  ],
+  "使いやすさ": [
+    "つかいやすさ",
+    "ease of use"
+  ],
+  "使い込まれた": [
+    "つかいこまれた",
+    "worn in through long use"
+  ],
+  "使い続ける": [
+    "つかいつづける",
+    "continue using"
+  ],
+  "使い方": [
+    "つかいかた",
+    "how to use"
+  ],
+  "使う": [
+    "つかう",
+    "use"
+  ],
+  "使うつもり": [
+    "つかうつもり",
+    "intending to use"
+  ],
+  "使う人": [
+    "つかうひと",
+    "the people who use it"
+  ],
+  "使える": [
+    "つかえる",
+    "can use"
+  ],
+  "使えるとは限らない": [
+    "つかえるとはかぎらない",
+    "not necessarily usable"
+  ],
+  "使った": [
+    "つかった",
+    "used"
+  ],
+  "使って": [
+    "つかって",
+    "using"
+  ],
+  "使われていた": [
+    "つかわれていた",
+    "had been used"
+  ],
+  "使われなくなった": [
+    "つかわれなくなった",
+    "no longer used"
+  ],
+  "使われる": [
+    "つかわれる",
+    "is used"
+  ],
+  "使用": [
+    "しよう",
+    "use; operation"
+  ],
+  "司書": [
+    "ししょ",
+    "librarian"
+  ],
+  "四季": [
+    "しき",
+    "four seasons"
+  ],
+  "始まる": [
+    "はじまる",
+    "begin"
+  ],
+  "市の記録": [
+    "しのきろく",
+    "municipal records"
+  ],
+  "思いがち": [
+    "おもいがち",
+    "tend to think"
+  ],
+  "思う": [
+    "おもう",
+    "think"
+  ],
+  "思えない": [
+    "おもえない",
+    "cannot imagine or believe"
+  ],
+  "支障": [
+    "ししょう",
+    "disruption or hindrance"
+  ],
+  "支障が出る": [
+    "ししょうがでる",
+    "cause disruption; interfere with"
+  ],
+  "支柱": [
+    "しちゅう",
+    "support stake"
+  ],
+  "枝": [
+    "えだ",
+    "branch"
+  ],
+  "紙": [
+    "かみ",
+    "paper"
+  ],
+  "試した": [
+    "ためした",
+    "tried"
+  ],
+  "試す": [
+    "ためす",
+    "test"
+  ],
+  "事前": [
+    "じぜん",
+    "in advance"
+  ],
+  "事務手数料": [
+    "じむてすうりょう",
+    "administrative fee"
+  ],
+  "持ち込む": [
+    "もちこむ",
+    "bring an item in"
+  ],
+  "持ち込むと": [
+    "もちこむと",
+    "when brought in"
+  ],
+  "持ち主": [
+    "もちぬし",
+    "previous owner"
+  ],
+  "持っている": [
+    "もっている",
+    "having; carrying"
+  ],
+  "時間": [
+    "じかん",
+    "time"
+  ],
+  "時間帯": [
+    "じかんたい",
+    "time of day; time period"
+  ],
+  "時期": [
+    "じき",
+    "timing"
+  ],
+  "時代": [
+    "じだい",
+    "era"
+  ],
+  "次": [
+    "つぎ",
+    "next"
+  ],
+  "次に": [
+    "つぎに",
+    "next; subsequently"
+  ],
+  "次の": [
+    "つぎの",
+    "next"
+  ],
+  "次は": [
+    "つぎは",
+    "next time"
+  ],
+  "自然": [
+    "しぜん",
+    "nature"
+  ],
+  "自然光": [
+    "しぜんこう",
+    "natural light"
+  ],
+  "自宅": [
+    "じたく",
+    "one's home"
+  ],
+  "自分": [
+    "じぶん",
+    "oneself"
+  ],
+  "失う": [
+    "うしなう",
+    "lose"
+  ],
+  "失われて": [
+    "うしなわれて",
+    "be lost"
+  ],
+  "室内": [
+    "しつない",
+    "indoors"
+  ],
+  "湿り気": [
+    "しめりけ",
+    "dampness"
+  ],
+  "湿気": [
+    "しっけ",
+    "moisture in the air; humidity"
+  ],
+  "湿度": [
+    "しつど",
+    "humidity"
+  ],
+  "質問": [
+    "しつもん",
+    "question"
+  ],
+  "実際": [
+    "じっさい",
+    "in practice"
+  ],
+  "芝生": [
+    "しばふ",
+    "lawn; grass"
+  ],
+  "写真": [
+    "しゃしん",
+    "photograph"
+  ],
+  "捨てる": [
+    "すてる",
+    "throw away"
+  ],
+  "斜面": [
+    "しゃめん",
+    "slope"
+  ],
+  "車椅子": [
+    "くるまいす",
+    "wheelchair"
+  ],
+  "車庫": [
+    "しゃこ",
+    "garage"
+  ],
+  "蛇口": [
+    "じゃぐち",
+    "tap"
+  ],
+  "若い": [
+    "わかい",
+    "young"
+  ],
+  "弱く": [
+    "よわく",
+    "weakened"
+  ],
+  "弱くなった": [
+    "よわくなった",
+    "became weak"
+  ],
+  "取り": [
+    "とり",
+    "allowing or setting aside (space)"
+  ],
+  "取り出せる": [
+    "とりだせる",
+    "can take out"
+  ],
+  "取り付け": [
+    "とりつけ",
+    "installation"
+  ],
+  "取り付け工事": [
+    "とりつけこうじ",
+    "installation work"
+  ],
+  "取る": [
+    "とる",
+    "allocate or provide space"
+  ],
+  "取引先": [
+    "とりひきさき",
+    "client; business partner"
+  ],
+  "守る": [
+    "まもる",
+    "protect"
+  ],
+  "手順": [
+    "てじゅん",
+    "procedure"
+  ],
+  "手数料": [
+    "てすうりょう",
+    "service or handling fee"
+  ],
+  "手続き": [
+    "てつづき",
+    "procedure; paperwork"
+  ],
+  "手袋": [
+    "てぶくろ",
+    "gloves"
+  ],
+  "手入れ": [
+    "ていれ",
+    "maintenance"
+  ],
+  "種類": [
+    "しゅるい",
+    "type"
+  ],
+  "受け": [
+    "うけ",
+    "receive"
+  ],
+  "受け取り方": [
+    "うけとりかた",
+    "how to receive"
+  ],
+  "収穫": [
+    "しゅうかく",
+    "harvest"
+  ],
+  "収穫時期": [
+    "しゅうかくじき",
+    "harvest period"
+  ],
+  "収納": [
+    "しゅうのう",
+    "storage"
+  ],
+  "周り": [
+    "まわり",
+    "surrounding area"
+  ],
+  "周囲": [
+    "しゅうい",
+    "surroundings"
+  ],
+  "修理": [
+    "しゅうり",
+    "repair"
+  ],
+  "修理工房": [
+    "しゅうりこうぼう",
+    "repair workshop"
+  ],
+  "秋": [
+    "あき",
+    "autumn"
+  ],
+  "終わり": [
+    "おわり",
+    "end"
+  ],
+  "終われば": [
+    "おわれば",
+    "when it finishes"
+  ],
+  "住まい": [
+    "すまい",
+    "home"
+  ],
+  "住む": [
+    "すむ",
+    "live; reside"
+  ],
+  "住所": [
+    "じゅうしょ",
+    "address"
+  ],
+  "住宅": [
+    "じゅうたく",
+    "house"
+  ],
+  "住宅街": [
+    "じゅうたくがい",
+    "residential neighbourhood"
+  ],
+  "十月": [
+    "じゅうがつ",
+    "October"
+  ],
+  "十年": [
+    "じゅうねん",
+    "ten years"
+  ],
+  "十分": [
+    "じゅうぶん",
+    "sufficient"
+  ],
+  "柔らかな": [
+    "やわらかな",
+    "soft; gentle"
+  ],
+  "重なっていた": [
+    "かさなっていた",
+    "was overlapping"
+  ],
+  "重ねながら": [
+    "かさねながら",
+    "while overlaying"
+  ],
+  "重要": [
+    "じゅうよう",
+    "important"
+  ],
+  "出る": [
+    "でる",
+    "arise; appear"
+  ],
+  "出口": [
+    "でぐち",
+    "exit"
+  ],
+  "出入り": [
+    "でいり",
+    "coming and going"
+  ],
+  "出発前": [
+    "しゅっぱつまえ",
+    "before setting out"
+  ],
+  "春": [
+    "はる",
+    "spring"
+  ],
+  "準備": [
+    "じゅんび",
+    "preparation"
+  ],
+  "順番": [
+    "じゅんばん",
+    "order"
+  ],
+  "初めて": [
+    "はじめて",
+    "for the first time"
+  ],
+  "初期費用": [
+    "しょきひよう",
+    "upfront or initial cost"
+  ],
+  "所有者": [
+    "しょゆうしゃ",
+    "owner"
+  ],
+  "書いた": [
+    "かいた",
+    "written"
+  ],
+  "書いてもらった": [
+    "かいてもらった",
+    "had someone write down"
+  ],
+  "書かれた": [
+    "かかれた",
+    "written; printed"
+  ],
+  "書かれている": [
+    "かかれている",
+    "is written"
+  ],
+  "書き込み": [
+    "かきこみ",
+    "marking or drawing onto"
+  ],
+  "助言": [
+    "じょげん",
+    "advice"
+  ],
+  "除雪": [
+    "じょせつ",
+    "snow removal"
+  ],
+  "除雪した": [
+    "じょせつした",
+    "cleared away (snow)"
+  ],
+  "除雪機": [
+    "じょせつき",
+    "snowblower; snow-removal machine"
+  ],
+  "傷": [
+    "きず",
+    "scratch or damage"
+  ],
+  "傷む": [
+    "いたむ",
+    "deteriorate or be damaged"
+  ],
+  "傷める": [
+    "いためる",
+    "damage"
+  ],
+  "将来": [
+    "しょうらい",
+    "future"
+  ],
+  "小さな": [
+    "ちいさな",
+    "small"
+  ],
+  "少し": [
+    "すこし",
+    "a little"
+  ],
+  "少しずつ": [
+    "すこしずつ",
+    "little by little"
+  ],
+  "少なく": [
+    "すくなく",
+    "with less; fewer"
+  ],
+  "少量": [
+    "しょうりょう",
+    "small quantity"
+  ],
+  "床": [
+    "ゆか",
+    "floor"
+  ],
+  "床材": [
+    "ゆかざい",
+    "flooring material"
+  ],
+  "照明": [
+    "しょうめい",
+    "lighting"
+  ],
+  "紹介": [
+    "しょうかい",
+    "introduction"
+  ],
+  "上がった": [
+    "あがった",
+    "rose"
+  ],
+  "上って": [
+    "のぼって",
+    "climbing up"
+  ],
+  "上り": [
+    "のぼり",
+    "upload (upstream)"
+  ],
+  "上着": [
+    "うわぎ",
+    "outerwear; jacket"
+  ],
+  "丈夫さ": [
+    "じょうぶさ",
+    "durability"
   ],
   "場合": [
     "ばあい",
@@ -395,17 +2019,589 @@
     "ばしょ",
     "place"
   ],
-  "塗り直し": [
-    "ぬりなおし",
-    "recoating"
+  "場面": [
+    "ばめん",
+    "scene; situation"
   ],
-  "変化": [
-    "へんか",
-    "change"
+  "常に": [
+    "つねに",
+    "always; consistently"
   ],
-  "外す": [
-    "はずす",
-    "remove"
+  "常緑樹": [
+    "じょうりょくじゅ",
+    "evergreen tree"
+  ],
+  "情報": [
+    "じょうほう",
+    "information"
+  ],
+  "条件": [
+    "じょうけん",
+    "variables; conditions"
+  ],
+  "状況": [
+    "じょうきょう",
+    "conditions; situation"
+  ],
+  "状態": [
+    "じょうたい",
+    "condition"
+  ],
+  "植えた": [
+    "うえた",
+    "planted"
+  ],
+  "植える": [
+    "うえる",
+    "plant"
+  ],
+  "植栽": [
+    "しょくさい",
+    "planting; vegetation in a landscape plan"
+  ],
+  "植物": [
+    "しょくぶつ",
+    "plant"
+  ],
+  "職人": [
+    "しょくにん",
+    "craftsperson"
+  ],
+  "色づき": [
+    "いろづき",
+    "changing autumn colour"
+  ],
+  "色合い": [
+    "いろあい",
+    "colour tone"
+  ],
+  "食事": [
+    "しょくじ",
+    "meal"
+  ],
+  "食卓": [
+    "しょくたく",
+    "dining table"
+  ],
+  "伸び縮み": [
+    "のびちぢみ",
+    "expansion and contraction"
+  ],
+  "心配": [
+    "しんぱい",
+    "worry"
+  ],
+  "慎重": [
+    "しんちょう",
+    "cautious"
+  ],
+  "新しい": [
+    "あたらしい",
+    "new"
+  ],
+  "新しく": [
+    "あたらしく",
+    "make new; anew"
+  ],
+  "新居": [
+    "しんきょ",
+    "new home"
+  ],
+  "新品": [
+    "しんぴん",
+    "brand-new item"
+  ],
+  "深煎り": [
+    "ふかいり",
+    "dark roast"
+  ],
+  "申し込み": [
+    "もうしこみ",
+    "application"
+  ],
+  "申し込み前": [
+    "もうしこみまえ",
+    "before applying"
+  ],
+  "身近": [
+    "みぢか",
+    "nearby"
+  ],
+  "進めたい": [
+    "すすめたい",
+    "want to proceed"
+  ],
+  "進める": [
+    "すすめる",
+    "proceed"
+  ],
+  "人": [
+    "ひと",
+    "person"
+  ],
+  "人々": [
+    "ひとびと",
+    "people"
+  ],
+  "尋ねた": [
+    "たずねた",
+    "asked"
+  ],
+  "図書館": [
+    "としょかん",
+    "library"
+  ],
+  "図面": [
+    "ずめん",
+    "architectural drawing"
+  ],
+  "推測する": [
+    "すいそくする",
+    "infer"
+  ],
+  "水": [
+    "みず",
+    "water"
+  ],
+  "水はけ": [
+    "みずはけ",
+    "drainage; how well water drains"
+  ],
+  "水道設備": [
+    "すいどうせつび",
+    "water-supply installations"
+  ],
+  "水抜き": [
+    "みずぬき",
+    "draining pipes to prevent freezing"
+  ],
+  "水抜き栓": [
+    "みずぬきせん",
+    "pipe draining valve"
+  ],
+  "水分": [
+    "すいぶん",
+    "moisture"
+  ],
+  "数字": [
+    "すうじ",
+    "number; figure"
+  ],
+  "数日間": [
+    "すうじつかん",
+    "several days"
+  ],
+  "寸法": [
+    "すんぽう",
+    "dimensions"
+  ],
+  "成長": [
+    "せいちょう",
+    "growth"
+  ],
+  "整える": [
+    "ととのえる",
+    "tidy or restore"
+  ],
+  "整える前": [
+    "ととのえるまえ",
+    "before arranging"
+  ],
+  "整理": [
+    "せいり",
+    "organise; sort out"
+  ],
+  "整理しているうちに": [
+    "せいりしているうちに",
+    "while organising"
+  ],
+  "正解": [
+    "せいかい",
+    "correct answer"
+  ],
+  "正確とは限らない": [
+    "せいかくとはかぎらない",
+    "not necessarily accurate"
+  ],
+  "生かしたい": [
+    "いかしたい",
+    "want to take advantage of"
+  ],
+  "生かしたり": [
+    "いかしたり",
+    "put to good use"
+  ],
+  "生かす": [
+    "いかす",
+    "make good use of"
+  ],
+  "生ごみ": [
+    "なまごみ",
+    "food scraps"
+  ],
+  "生活": [
+    "せいかつ",
+    "daily life"
+  ],
+  "製品": [
+    "せいひん",
+    "product"
+  ],
+  "昔": [
+    "むかし",
+    "long ago"
+  ],
+  "昔の建物": [
+    "むかしのたてもの",
+    "old buildings"
+  ],
+  "昔の町": [
+    "むかしのまち",
+    "old town"
+  ],
+  "昔の町並み": [
+    "むかしのまちなみ",
+    "historical townscape"
+  ],
+  "石": [
+    "いし",
+    "stone; rock"
+  ],
+  "積み上がる": [
+    "つみあがる",
+    "pile up"
+  ],
+  "積む": [
+    "つむ",
+    "pile up; stack"
+  ],
+  "積もる": [
+    "つもる",
+    "accumulate"
+  ],
+  "積もれば": [
+    "つもれば",
+    "if snow accumulates"
+  ],
+  "積雪": [
+    "せきせつ",
+    "accumulated snow"
+  ],
+  "積雪状況": [
+    "せきせつじょうきょう",
+    "snow conditions"
+  ],
+  "跡": [
+    "あと",
+    "trace; mark"
+  ],
+  "切り返して": [
+    "きりかえして",
+    "turning over a compost pile"
+  ],
+  "接合部分": [
+    "せつごうぶぶん",
+    "joint or connection"
+  ],
+  "接続": [
+    "せつぞく",
+    "network connection"
+  ],
+  "接着剤": [
+    "せっちゃくざい",
+    "adhesive"
+  ],
+  "折れる": [
+    "おれる",
+    "snap"
+  ],
+  "設ける": [
+    "もうける",
+    "provide; establish"
+  ],
+  "設計士": [
+    "せっけいし",
+    "designer; architect"
+  ],
+  "設定": [
+    "せってい",
+    "settings"
+  ],
+  "設備": [
+    "せつび",
+    "equipment"
+  ],
+  "説明": [
+    "せつめい",
+    "explanation"
+  ],
+  "説明した": [
+    "せつめいした",
+    "explained"
+  ],
+  "説明してくれた": [
+    "せつめいしてくれた",
+    "explained it to me"
+  ],
+  "説明書": [
+    "せつめいしょ",
+    "manual"
+  ],
+  "雪": [
+    "ゆき",
+    "snow"
+  ],
+  "雪かき": [
+    "ゆきかき",
+    "shovelling snow"
+  ],
+  "雪かき道具": [
+    "ゆきかきどうぐ",
+    "snow-clearing tools"
+  ],
+  "雪の付き方": [
+    "ゆきのつきかた",
+    "how snow accumulates on terrain"
+  ],
+  "雪を置く場所": [
+    "ゆきをおくばしょ",
+    "snow storage area"
+  ],
+  "雪解け": [
+    "ゆきどけ",
+    "snowmelt"
+  ],
+  "雪解け水": [
+    "ゆきどけみず",
+    "snowmelt water"
+  ],
+  "雪山": [
+    "ゆきやま",
+    "pile of snow"
+  ],
+  "雪止め": [
+    "ゆきどめ",
+    "roof snow guard"
+  ],
+  "雪庇": [
+    "せっぴ",
+    "snow cornice"
+  ],
+  "雪崩": [
+    "なだれ",
+    "avalanche"
+  ],
+  "雪崩情報": [
+    "なだれじょうほう",
+    "avalanche information"
+  ],
+  "先": [
+    "さき",
+    "first; ahead"
+  ],
+  "先に": [
+    "さきに",
+    "first; beforehand"
+  ],
+  "専門家": [
+    "せんもんか",
+    "specialist; expert"
+  ],
+  "専門業者": [
+    "せんもんぎょうしゃ",
+    "specialist contractor"
+  ],
+  "洗面所": [
+    "せんめんじょ",
+    "washroom"
+  ],
+  "選ばない": [
+    "えらばない",
+    "do not choose"
+  ],
+  "選びたい": [
+    "えらびたい",
+    "want to choose"
+  ],
+  "選び方": [
+    "えらびかた",
+    "way of choosing"
+  ],
+  "選ぶ": [
+    "えらぶ",
+    "choose"
+  ],
+  "前": [
+    "まえ",
+    "before"
+  ],
+  "全体": [
+    "ぜんたい",
+    "whole; overall"
+  ],
+  "全部": [
+    "ぜんぶ",
+    "everything"
+  ],
+  "素材": [
+    "そざい",
+    "material"
+  ],
+  "組み直し": [
+    "くみなおし",
+    "reassembly"
+  ],
+  "倉庫": [
+    "そうこ",
+    "warehouse"
+  ],
+  "想像": [
+    "そうぞう",
+    "imagination"
+  ],
+  "想像してみた": [
+    "そうぞうしてみた",
+    "tried imagining"
+  ],
+  "掃除": [
+    "そうじ",
+    "cleaning"
+  ],
+  "操作": [
+    "そうさ",
+    "operation"
+  ],
+  "早い": [
+    "はやい",
+    "faster"
+  ],
+  "早め": [
+    "はやめ",
+    "early"
+  ],
+  "早起き": [
+    "はやおき",
+    "getting up early"
+  ],
+  "相性": [
+    "あいしょう",
+    "compatibility"
+  ],
+  "相談": [
+    "そうだん",
+    "discussion"
+  ],
+  "相談すると": [
+    "そうだんすると",
+    "when consulting"
+  ],
+  "窓": [
+    "まど",
+    "window"
+  ],
+  "窓際": [
+    "まどぎわ",
+    "near a window"
+  ],
+  "窓本体": [
+    "まどほんたい",
+    "window unit itself"
+  ],
+  "窓枠": [
+    "まどわく",
+    "window frame"
+  ],
+  "総額": [
+    "そうがく",
+    "total cost"
+  ],
+  "装備": [
+    "そうび",
+    "gear; equipment"
+  ],
+  "増やしすぎる": [
+    "ふやしすぎる",
+    "add too many"
+  ],
+  "増やす": [
+    "ふやす",
+    "increase; add"
+  ],
+  "造園": [
+    "ぞうえん",
+    "landscape gardening"
+  ],
+  "造園業者": [
+    "ぞうえんぎょうしゃ",
+    "landscape contractor"
+  ],
+  "速度": [
+    "そくど",
+    "speed"
+  ],
+  "続けやすく": [
+    "つづけやすく",
+    "easy to maintain or continue"
+  ],
+  "続ける": [
+    "つづける",
+    "continue"
+  ],
+  "多い": [
+    "おおい",
+    "frequent; often"
+  ],
+  "多く": [
+    "おおく",
+    "many"
+  ],
+  "打ち合わせ": [
+    "うちあわせ",
+    "planning meeting"
+  ],
+  "堆肥": [
+    "たいひ",
+    "compost"
+  ],
+  "対応": [
+    "たいおう",
+    "support or response"
+  ],
+  "対応しやすい": [
+    "たいおうしやすい",
+    "easy to adapt to"
+  ],
+  "対応内容": [
+    "たいおうないよう",
+    "corrective action details"
+  ],
+  "対策": [
+    "たいさく",
+    "preventive measures"
+  ],
+  "替えれば": [
+    "かえれば",
+    "if replaced"
+  ],
+  "袋": [
+    "ふくろ",
+    "bag"
+  ],
+  "台": [
+    "だい",
+    "stand; platform; bench"
+  ],
+  "台所": [
+    "だいどころ",
+    "kitchen"
+  ],
+  "大きい": [
+    "おおきい",
+    "large; high"
+  ],
+  "大きく": [
+    "おおきく",
+    "prominently; in large print"
   ],
   "大きな": [
     "おおきな",
@@ -423,181 +2619,245 @@
     "たいりょう",
     "large amount"
   ],
-  "天板": [
-    "てんばん",
-    "tabletop"
+  "第一歩": [
+    "だいいっぽ",
+    "first step"
   ],
-  "失う": [
-    "うしなう",
-    "lose"
+  "沢": [
+    "さわ",
+    "stream valley; gully"
   ],
-  "妨げない": [
-    "さまたげない",
-    "not obstruct"
+  "棚": [
+    "たな",
+    "shelf"
   ],
-  "始まる": [
-    "はじまる",
-    "begin"
+  "単に": [
+    "たんに",
+    "merely"
   ],
-  "季節": [
-    "きせつ",
-    "season"
+  "担当者": [
+    "たんとうしゃ",
+    "person in charge"
   ],
-  "守る": [
-    "まもる",
-    "protect"
+  "探して": [
+    "さがして",
+    "looking for"
   ],
-  "安全": [
-    "あんぜん",
-    "safety"
+  "端": [
+    "はし",
+    "edge"
   ],
-  "安定": [
-    "あんてい",
-    "stability"
+  "断熱": [
+    "だんねつ",
+    "thermal insulation"
   ],
-  "安心": [
-    "あんしん",
-    "peace of mind"
+  "暖房": [
+    "だんぼう",
+    "heating"
   ],
-  "完成": [
-    "かんせい",
-    "completion"
+  "暖房にかかる": [
+    "だんぼうにかかる",
+    "related to heating expenditure"
   ],
-  "完璧": [
-    "かんぺき",
-    "perfect"
+  "暖房設備": [
+    "だんぼうせつび",
+    "heating equipment"
+  ],
+  "段差": [
+    "だんさ",
+    "difference in level; step"
+  ],
+  "値段": [
+    "ねだん",
+    "price"
+  ],
+  "知った": [
+    "しった",
+    "learned; found out"
+  ],
+  "知る": [
+    "しる",
+    "learn; know"
+  ],
+  "知人": [
+    "ちじん",
+    "acquaintance"
+  ],
+  "地域": [
+    "ちいき",
+    "local area"
+  ],
+  "地域の記憶": [
+    "ちいきのきおく",
+    "local collective memory"
+  ],
+  "地形図": [
+    "ちけいず",
+    "topographic map"
+  ],
+  "地図": [
+    "ちず",
+    "map"
+  ],
+  "地面": [
+    "じめん",
+    "ground"
+  ],
+  "置きたい": [
+    "おきたい",
+    "want to put or store"
+  ],
+  "置く": [
+    "おく",
+    "place"
+  ],
+  "置ける": [
+    "おける",
+    "can put"
+  ],
+  "中古住宅": [
+    "ちゅうこじゅうたく",
+    "second-hand house"
+  ],
+  "仲間同士": [
+    "なかまどうし",
+    "among companions"
+  ],
+  "抽出": [
+    "ちゅうしゅつ",
+    "coffee extraction"
+  ],
+  "抽出方法": [
+    "ちゅうしゅつほうほう",
+    "brewing/extraction method"
+  ],
+  "注ぐ": [
+    "そそぐ",
+    "pour"
+  ],
+  "駐車": [
+    "ちゅうしゃ",
+    "parking"
+  ],
+  "丁寧": [
+    "ていねい",
+    "carefully"
+  ],
+  "張り出した": [
+    "はりだした",
+    "projected outward"
+  ],
+  "朝": [
+    "あさ",
+    "morning"
+  ],
+  "町": [
+    "まち",
+    "town"
+  ],
+  "町内会": [
+    "ちょうないかい",
+    "neighbourhood association"
+  ],
+  "町並み": [
+    "まちなみ",
+    "townscape"
+  ],
+  "調べ": [
+    "しらべ",
+    "check; look up"
+  ],
+  "調べた": [
+    "しらべた",
+    "examined"
+  ],
+  "調べた内容": [
+    "しらべたないよう",
+    "research findings"
+  ],
+  "調べておきたい": [
+    "しらべておきたい",
+    "would like to check in advance"
+  ],
+  "調べる": [
+    "しらべる",
+    "investigate"
+  ],
+  "調べ始めた": [
+    "しらべはじめた",
+    "began investigating"
+  ],
+  "調整": [
+    "ちょうせい",
+    "adjustment"
+  ],
+  "長く": [
+    "ながく",
+    "for a long time"
+  ],
+  "長靴": [
+    "ながぐつ",
+    "boots; rubber boots"
+  ],
+  "長年": [
+    "ながねん",
+    "many years"
+  ],
+  "直されていた": [
+    "なおされていた",
+    "had been repaired or refurbished"
+  ],
+  "直せる": [
+    "なおせる",
+    "can be repaired"
+  ],
+  "直結": [
+    "ちょっけつ",
+    "directly connected"
+  ],
+  "追加": [
+    "ついか",
+    "addition"
+  ],
+  "通して": [
+    "とおして",
+    "throughout"
+  ],
+  "通しやすい": [
+    "とおしやすい",
+    "lets pass through easily"
+  ],
+  "通りにくく": [
+    "とおりにくく",
+    "hard to pass through"
+  ],
+  "通り過ぎていた": [
+    "とおりすぎていた",
+    "had been passing by"
+  ],
+  "通り道": [
+    "とおりみち",
+    "passageway"
+  ],
+  "通信": [
+    "つうしん",
+    "communications"
+  ],
+  "通信速度": [
+    "つうしんそくど",
+    "data connection speed"
+  ],
+  "通路": [
+    "つうろ",
+    "passage"
+  ],
+  "低木": [
+    "ていぼく",
+    "shrub"
   ],
   "定期的": [
     "ていきてき",
     "regular"
-  ],
-  "実際": [
-    "じっさい",
-    "in practice"
-  ],
-  "室内": [
-    "しつない",
-    "indoors"
-  ],
-  "家中": [
-    "いえじゅう",
-    "throughout the house"
-  ],
-  "家具": [
-    "かぐ",
-    "furniture"
-  ],
-  "家具づくり": [
-    "かぐづくり",
-    "furniture making"
-  ],
-  "寄せて": [
-    "よせて",
-    "push to one side"
-  ],
-  "寄せ付けない": [
-    "よせつけない",
-    "keep away"
-  ],
-  "寒さ": [
-    "さむさ",
-    "cold"
-  ],
-  "寸法": [
-    "すんぽう",
-    "dimensions"
-  ],
-  "対応内容": [
-    "たいおうないよう",
-    "corrective action details"
-  ],
-  "対策": [
-    "たいさく",
-    "preventive measures"
-  ],
-  "専門業者": [
-    "せんもんぎょうしゃ",
-    "specialist contractor"
-  ],
-  "尋ねた": [
-    "たずねた",
-    "asked"
-  ],
-  "少しずつ": [
-    "すこしずつ",
-    "little by little"
-  ],
-  "届きにくい": [
-    "とどきにくい",
-    "hard to reach"
-  ],
-  "屋外": [
-    "おくがい",
-    "outside"
-  ],
-  "屋根": [
-    "やね",
-    "roof"
-  ],
-  "屋根材": [
-    "やねざい",
-    "roofing material"
-  ],
-  "展示室": [
-    "てんじしつ",
-    "showroom"
-  ],
-  "崩れる": [
-    "くずれる",
-    "collapse"
-  ],
-  "工事": [
-    "こうじ",
-    "construction"
-  ],
-  "工事費": [
-    "こうじひ",
-    "construction cost"
-  ],
-  "工務店": [
-    "こうむてん",
-    "building contractor"
-  ],
-  "工夫": [
-    "くふう",
-    "ingenuity"
-  ],
-  "工房": [
-    "こうぼう",
-    "workshop"
-  ],
-  "左右される": [
-    "さゆうされる",
-    "be influenced by"
-  ],
-  "常緑樹": [
-    "じょうりょくじゅ",
-    "evergreen tree"
-  ],
-  "広がった": [
-    "ひろがった",
-    "spread out"
-  ],
-  "広げた": [
-    "ひろげた",
-    "spread out"
-  ],
-  "広さ": [
-    "ひろさ",
-    "area"
-  ],
-  "床": [
-    "ゆか",
-    "floor"
-  ],
-  "店員": [
-    "てんいん",
-    "shop assistant"
   ],
   "庭": [
     "にわ",
@@ -611,121 +2871,325 @@
     "にわしごと",
     "gardening"
   ],
-  "建て付け": [
-    "たてつけ",
-    "fit of a door or window"
+  "庭全体": [
+    "にわぜんたい",
+    "the whole garden"
   ],
-  "建物": [
-    "たてもの",
-    "building"
+  "提供": [
+    "ていきょう",
+    "provision of service"
   ],
-  "建築士": [
-    "けんちくし",
-    "architect"
+  "提供エリア": [
+    "ていきょうエリア",
+    "service coverage area"
   ],
-  "引き渡し": [
-    "ひきわたし",
-    "handover"
+  "程度": [
+    "ていど",
+    "extent; degree"
   ],
-  "引っ越して": [
-    "ひっこして",
-    "having moved house"
+  "適している": [
+    "てきしている",
+    "suitable for"
   ],
-  "張り出した": [
-    "はりだした",
-    "projected outward"
+  "適切": [
+    "てきせつ",
+    "appropriate"
   ],
-  "形": [
-    "かたち",
-    "shape"
+  "適度": [
+    "てきど",
+    "moderate"
   ],
-  "役立つ": [
-    "やくだつ",
-    "useful"
+  "天井": [
+    "てんじょう",
+    "ceiling"
   ],
-  "復旧": [
-    "ふっきゅう",
-    "restoration"
+  "天気予報": [
+    "てんきよほう",
+    "weather forecast"
   ],
-  "心配": [
-    "しんぱい",
-    "worry"
+  "天板": [
+    "てんばん",
+    "tabletop"
   ],
-  "必要": [
-    "ひつよう",
-    "necessary"
+  "展示会": [
+    "てんじかい",
+    "exhibition"
   ],
-  "必要以上": [
-    "ひつよういじょう",
-    "more than necessary"
+  "展示室": [
+    "てんじしつ",
+    "showroom"
   ],
-  "必要性": [
-    "ひつようせい",
-    "necessity"
+  "展示台": [
+    "てんじだい",
+    "display stand; plinth"
   ],
-  "快適さ": [
-    "かいてきさ",
-    "comfort"
+  "展示物": [
+    "てんじぶつ",
+    "exhibits; displayed objects"
   ],
-  "思いがち": [
-    "おもいがち",
-    "tend to think"
+  "展示方法": [
+    "てんじほうほう",
+    "display method"
   ],
-  "急激": [
-    "きゅうげき",
-    "rapid"
+  "店員": [
+    "てんいん",
+    "shop assistant"
   ],
-  "意外": [
-    "いがい",
-    "surprisingly"
+  "店主": [
+    "てんしゅ",
+    "shop owner"
   ],
-  "感じた": [
-    "かんじた",
-    "felt"
+  "店内": [
+    "てんない",
+    "inside the shop"
   ],
-  "慌ただしく": [
-    "あわただしく",
-    "hurriedly"
+  "点": [
+    "てん",
+    "point; consideration"
   ],
-  "成長": [
-    "せいちょう",
-    "growth"
+  "点検": [
+    "てんけん",
+    "inspection"
   ],
-  "扉": [
-    "とびら",
-    "door"
+  "伝えてみると": [
+    "つたえてみると",
+    "upon trying to describe"
   ],
-  "手入れ": [
-    "ていれ",
-    "maintenance"
+  "伝えに行きたい": [
+    "つたえにいきたい",
+    "want to go to share my feedback"
   ],
-  "手順": [
-    "てじゅん",
-    "procedure"
+  "伝える": [
+    "つたえる",
+    "communicate"
   ],
-  "扱い": [
-    "あつかい",
-    "handling"
+  "電池": [
+    "でんち",
+    "battery"
+  ],
+  "電池残量": [
+    "でんちざんりょう",
+    "remaining battery power"
+  ],
+  "塗り直し": [
+    "ぬりなおし",
+    "recoating"
+  ],
+  "塗装": [
+    "とそう",
+    "paint or coating"
+  ],
+  "土": [
+    "つち",
+    "soil"
+  ],
+  "土間": [
+    "どま",
+    "hard-floored entry area"
+  ],
+  "土地": [
+    "とち",
+    "land"
+  ],
+  "冬": [
+    "ふゆ",
+    "winter"
+  ],
+  "冬の山": [
+    "ふゆのやま",
+    "winter mountains"
+  ],
+  "冬の動き方": [
+    "ふゆのうごきかた",
+    "winter circulation and routes"
+  ],
+  "冬囲い": [
+    "ふゆがこい",
+    "winter protection for plants"
+  ],
+  "凍りやすい": [
+    "こおりやすい",
+    "prone to freezing"
+  ],
+  "凍る": [
+    "こおる",
+    "freeze"
+  ],
+  "凍結": [
+    "とうけつ",
+    "freezing"
+  ],
+  "湯": [
+    "ゆ",
+    "hot water"
+  ],
+  "当時": [
+    "とうじ",
+    "at that time"
+  ],
+  "豆": [
+    "まめ",
+    "coffee beans"
+  ],
+  "踏まえ": [
+    "ふまえ",
+    "taking into account"
+  ],
+  "逃げる": [
+    "にげる",
+    "escape; leak away"
+  ],
+  "動き": [
+    "うごき",
+    "movement"
+  ],
+  "動き方": [
+    "うごきかた",
+    "way of moving around"
+  ],
+  "動線": [
+    "どうせん",
+    "movement flow; circulation route"
+  ],
+  "動物": [
+    "どうぶつ",
+    "animal"
+  ],
+  "同じ": [
+    "おなじ",
+    "same"
+  ],
+  "同じくらい": [
+    "おなじくらい",
+    "to the same degree"
+  ],
+  "同時": [
+    "どうじ",
+    "at the same time"
+  ],
+  "道": [
+    "みち",
+    "path; trail"
+  ],
+  "道具": [
+    "どうぐ",
+    "equipment; tools"
+  ],
+  "道路": [
+    "どうろ",
+    "road"
+  ],
+  "道路脇": [
+    "どうろわき",
+    "roadside"
+  ],
+  "得られない": [
+    "えられない",
+    "cannot obtain"
+  ],
+  "特に": [
+    "とくに",
+    "particularly"
+  ],
+  "特徴": [
+    "とくちょう",
+    "characteristics; features"
+  ],
+  "突然": [
+    "とつぜん",
+    "suddenly"
+  ],
+  "届きにくい": [
+    "とどきにくい",
+    "hard to reach"
+  ],
+  "内装": [
+    "ないそう",
+    "interior finishing"
+  ],
+  "難しい": [
+    "むずかしい",
+    "difficult"
+  ],
+  "二週間": [
+    "にしゅうかん",
+    "two weeks"
+  ],
+  "二年": [
+    "にねん",
+    "two years"
+  ],
+  "日": [
+    "ひ",
+    "day"
+  ],
+  "日当たり": [
+    "ひあたり",
+    "sun exposure"
+  ],
+  "入っていても": [
+    "はいっていても",
+    "even if it is included"
+  ],
+  "入らず": [
+    "はいらず",
+    "without entering"
+  ],
+  "入らない": [
+    "はいらない",
+    "does not enter"
+  ],
+  "入り": [
+    "はいり",
+    "entering"
+  ],
+  "入る": [
+    "はいる",
+    "enter"
+  ],
+  "入れておけば": [
+    "いれておけば",
+    "if included beforehand"
+  ],
+  "入口": [
+    "いりぐち",
+    "entrance"
+  ],
+  "濡れた": [
+    "ぬれた",
+    "wet; soaked"
+  ],
+  "濡れたり": [
+    "ぬれたり",
+    "getting wet (among other things)"
+  ],
+  "熱": [
+    "ねつ",
+    "heat"
+  ],
+  "濃くて": [
+    "こくて",
+    "rich/strong and"
+  ],
+  "納得": [
+    "なっとく",
+    "understanding and agreement"
+  ],
+  "納得できる": [
+    "なっとくできる",
+    "find convincing; feel satisfied with"
+  ],
+  "能力": [
+    "のうりょく",
+    "capacity; ability"
   ],
   "把握": [
     "はあく",
     "understanding"
   ],
-  "折れる": [
-    "おれる",
-    "snap"
-  ],
-  "担当者": [
-    "たんとうしゃ",
-    "person in charge"
-  ],
-  "捨てる": [
-    "すてる",
-    "throw away"
-  ],
-  "掃除": [
-    "そうじ",
-    "cleaning"
+  "破損": [
+    "はそん",
+    "breakage"
   ],
   "排出": [
     "はいしゅつ",
@@ -739,2657 +3203,53 @@
     "はいせつ",
     "hauling snow away"
   ],
-  "探して": [
-    "さがして",
-    "looking for"
-  ],
-  "控えて": [
-    "ひかえて",
-    "write down"
-  ],
-  "換気": [
-    "かんき",
-    "ventilation"
-  ],
-  "撮って": [
-    "とって",
-    "take a photo"
-  ],
-  "操作": [
-    "そうさ",
-    "operation"
-  ],
-  "支柱": [
-    "しちゅう",
-    "support stake"
-  ],
-  "散水栓": [
-    "さんすいせん",
-    "outdoor water tap"
-  ],
-  "数日間": [
-    "すうじつかん",
-    "several days"
-  ],
-  "敷地": [
-    "しきち",
-    "property grounds"
-  ],
-  "断熱": [
-    "だんねつ",
-    "thermal insulation"
-  ],
-  "新しい": [
-    "あたらしい",
-    "new"
-  ],
-  "方向": [
-    "ほうこう",
-    "direction"
-  ],
-  "方法": [
-    "ほうほう",
-    "method"
-  ],
-  "旅行": [
-    "りょこう",
-    "travel"
-  ],
-  "早め": [
-    "はやめ",
-    "early"
-  ],
-  "旭川": [
-    "あさひかわ",
-    "Asahikawa"
-  ],
-  "春": [
-    "はる",
-    "spring"
-  ],
-  "時期": [
-    "じき",
-    "timing"
-  ],
-  "時間": [
-    "じかん",
-    "time"
-  ],
-  "普段": [
-    "ふだん",
-    "normally"
-  ],
-  "暖房": [
-    "だんぼう",
-    "heating"
-  ],
-  "暮らし": [
-    "くらし",
-    "daily life"
-  ],
-  "最初": [
-    "さいしょ",
-    "first"
-  ],
-  "最後": [
-    "さいご",
-    "last; finally"
-  ],
-  "最終確認": [
-    "さいしゅうかくにん",
-    "final inspection"
-  ],
-  "期限": [
-    "きげん",
-    "deadline"
-  ],
-  "木工所": [
-    "もっこうじょ",
-    "woodworking workshop"
-  ],
-  "木材": [
-    "もくざい",
-    "timber"
-  ],
-  "木目": [
-    "もくめ",
-    "wood grain"
-  ],
-  "本数": [
-    "ほんすう",
-    "number of items such as keys"
-  ],
-  "材料": [
-    "ざいりょう",
-    "materials"
-  ],
-  "枝": [
-    "えだ",
-    "branch"
-  ],
-  "根": [
-    "ね",
-    "root"
-  ],
-  "案内": [
-    "あんない",
-    "guidance"
-  ],
-  "植えた": [
-    "うえた",
-    "planted"
-  ],
-  "植物": [
-    "しょくぶつ",
-    "plant"
-  ],
-  "検討": [
-    "けんとう",
-    "consideration"
-  ],
-  "楽しみ": [
-    "たのしみ",
-    "pleasure"
-  ],
-  "構造": [
-    "こうぞう",
-    "structure"
-  ],
-  "様子": [
-    "ようす",
-    "condition"
-  ],
-  "欠かせない": [
-    "かかせない",
-    "indispensable"
-  ],
-  "正解": [
-    "せいかい",
-    "correct answer"
-  ],
-  "歩行者": [
-    "ほこうしゃ",
-    "pedestrian"
-  ],
-  "残された": [
-    "のこされた",
-    "left behind"
-  ],
-  "残り方": [
-    "のこりかた",
-    "how much remains"
-  ],
-  "毎年": [
-    "まいとし",
-    "every year"
-  ],
-  "比べる": [
-    "くらべる",
-    "compare"
-  ],
-  "比較的": [
-    "ひかくてき",
-    "relatively"
-  ],
-  "気づく": [
-    "きづく",
-    "notice"
-  ],
-  "気になる": [
-    "きになる",
-    "to be concerned about"
-  ],
-  "気温": [
-    "きおん",
-    "air temperature"
-  ],
-  "水分": [
-    "すいぶん",
-    "moisture"
-  ],
-  "水抜き": [
-    "みずぬき",
-    "draining pipes to prevent freezing"
-  ],
-  "水抜き栓": [
-    "みずぬきせん",
-    "pipe draining valve"
-  ],
-  "水道設備": [
-    "すいどうせつび",
-    "water-supply installations"
-  ],
-  "氷点下": [
-    "ひょうてんか",
-    "below freezing"
-  ],
-  "決まり": [
-    "きまり",
-    "rule"
-  ],
-  "決め方": [
-    "きめかた",
-    "way of deciding"
-  ],
-  "洗面所": [
-    "せんめんじょ",
-    "washroom"
-  ],
-  "流れ込まない": [
-    "ながれこまない",
-    "not flow into"
-  ],
-  "流れ込んだり": [
-    "ながれこんだり",
-    "flowing into"
-  ],
-  "温度変化": [
-    "おんどへんか",
-    "temperature change"
-  ],
-  "湿り気": [
-    "しめりけ",
-    "dampness"
-  ],
-  "湿度": [
-    "しつど",
-    "humidity"
-  ],
-  "準備": [
-    "じゅんび",
-    "preparation"
-  ],
-  "滑り落ちる": [
-    "すべりおちる",
-    "slide off"
-  ],
-  "点検": [
-    "てんけん",
-    "inspection"
-  ],
-  "無垢材": [
-    "むくざい",
-    "solid timber"
-  ],
-  "片づけて": [
-    "かたづけて",
-    "clear away"
-  ],
-  "玄関": [
-    "げんかん",
-    "entrance"
-  ],
-  "玄関先": [
-    "げんかんさき",
-    "in front of an entrance"
-  ],
-  "現実的": [
-    "げんじつてき",
-    "practical"
-  ],
-  "生かす": [
-    "いかす",
-    "make good use of"
-  ],
-  "生ごみ": [
-    "なまごみ",
-    "food scraps"
-  ],
-  "生活": [
-    "せいかつ",
-    "daily life"
-  ],
-  "用途": [
-    "ようと",
-    "intended use"
-  ],
-  "町内会": [
-    "ちょうないかい",
-    "neighbourhood association"
-  ],
-  "留守": [
-    "るす",
-    "away from home"
-  ],
-  "異なる": [
-    "ことなる",
-    "differ"
-  ],
-  "直結": [
-    "ちょっけつ",
-    "directly connected"
-  ],
-  "相性": [
-    "あいしょう",
-    "compatibility"
-  ],
-  "相談": [
-    "そうだん",
-    "discussion"
-  ],
-  "知人": [
-    "ちじん",
-    "acquaintance"
-  ],
-  "破損": [
-    "はそん",
-    "breakage"
-  ],
-  "確かめて": [
-    "たしかめて",
-    "verify"
-  ],
-  "確認": [
-    "かくにん",
-    "check"
-  ],
-  "秋": [
-    "あき",
-    "autumn"
-  ],
-  "種類": [
-    "しゅるい",
-    "type"
-  ],
-  "積み上がる": [
-    "つみあがる",
-    "pile up"
-  ],
-  "積もる": [
-    "つもる",
-    "accumulate"
-  ],
-  "積雪状況": [
-    "せきせつじょうきょう",
-    "snow conditions"
-  ],
-  "空気": [
-    "くうき",
-    "air"
-  ],
-  "突然": [
-    "とつぜん",
-    "suddenly"
-  ],
-  "窓": [
-    "まど",
-    "window"
-  ],
-  "立ち会い": [
-    "たちあい",
-    "on-site inspection"
-  ],
-  "第一歩": [
-    "だいいっぽ",
-    "first step"
-  ],
-  "箇所": [
-    "かしょ",
-    "location"
-  ],
-  "範囲": [
-    "はんい",
-    "scope"
-  ],
-  "約束": [
-    "やくそく",
-    "agreement"
-  ],
-  "納得": [
-    "なっとく",
-    "understanding and agreement"
-  ],
-  "細かな": [
-    "こまかな",
-    "small or detailed"
-  ],
-  "紹介": [
-    "しょうかい",
-    "introduction"
-  ],
-  "給水管": [
-    "きゅうすいかん",
-    "water-supply pipe"
-  ],
-  "給湯器": [
-    "きゅうとうき",
-    "water heater"
-  ],
-  "維持管理": [
-    "いじかんり",
-    "upkeep and maintenance"
-  ],
-  "緩やかな": [
-    "ゆるやかな",
-    "gentle"
-  ],
-  "置ける": [
-    "おける",
-    "can put"
-  ],
-  "美しい": [
-    "うつくしい",
-    "beautiful"
-  ],
-  "美しさ": [
-    "うつくしさ",
-    "beauty"
-  ],
-  "翌年": [
-    "よくねん",
-    "following year"
-  ],
-  "翌朝": [
-    "よくあさ",
-    "following morning"
-  ],
-  "考える": [
-    "かんがえる",
-    "consider"
-  ],
-  "職人": [
-    "しょくにん",
-    "craftsperson"
-  ],
-  "育って": [
-    "そだって",
-    "maturing"
-  ],
-  "脚": [
-    "あし",
-    "table legs"
-  ],
-  "自分": [
-    "じぶん",
-    "oneself"
-  ],
-  "自然": [
-    "しぜん",
-    "nature"
-  ],
-  "色づき": [
-    "いろづき",
-    "changing autumn colour"
-  ],
-  "花壇": [
-    "かだん",
-    "flower bed"
-  ],
-  "若い": [
-    "わかい",
-    "young"
-  ],
-  "華やかさ": [
-    "はなやかさ",
-    "showiness"
-  ],
-  "落ち葉": [
-    "おちば",
-    "fallen leaves"
-  ],
-  "落葉樹": [
-    "らくようじゅ",
-    "deciduous tree"
-  ],
-  "落雪": [
-    "らくせつ",
-    "falling roof snow"
-  ],
-  "蛇口": [
-    "じゃぐち",
-    "tap"
-  ],
-  "表面": [
-    "ひょうめん",
-    "surface"
-  ],
-  "補修": [
-    "ほしゅう",
-    "repair"
-  ],
-  "見た目": [
-    "みため",
-    "appearance"
-  ],
-  "見直して": [
-    "みなおして",
-    "reconsider"
-  ],
-  "見積もり": [
-    "みつもり",
-    "quotation"
-  ],
-  "見落とせない": [
-    "みおとせない",
-    "cannot overlook"
-  ],
-  "見通し": [
-    "みとおし",
-    "visibility"
-  ],
-  "観察": [
-    "かんさつ",
-    "observation"
-  ],
-  "記録": [
-    "きろく",
-    "record"
-  ],
-  "設備": [
-    "せつび",
-    "equipment"
-  ],
-  "設定": [
-    "せってい",
-    "settings"
-  ],
-  "話題": [
-    "わだい",
-    "topic"
-  ],
-  "誘われた": [
-    "さそわれた",
-    "was invited"
-  ],
-  "説明": [
-    "せつめい",
-    "explanation"
-  ],
-  "説明書": [
-    "せつめいしょ",
-    "manual"
-  ],
-  "調整": [
-    "ちょうせい",
-    "adjustment"
-  ],
-  "費用": [
-    "ひよう",
-    "cost"
-  ],
-  "質問": [
-    "しつもん",
-    "question"
-  ],
-  "購入": [
-    "こうにゅう",
-    "purchase"
-  ],
-  "距離": [
-    "きょり",
-    "distance"
-  ],
-  "路面": [
-    "ろめん",
-    "road surface"
-  ],
-  "踏まえ": [
-    "ふまえ",
-    "taking into account"
-  ],
-  "身近": [
-    "みぢか",
-    "nearby"
-  ],
-  "軒先": [
-    "のきさき",
-    "eaves"
-  ],
-  "近所": [
-    "きんじょ",
-    "neighbourhood"
-  ],
-  "追加": [
-    "ついか",
-    "addition"
-  ],
-  "通り道": [
-    "とおりみち",
-    "passageway"
-  ],
-  "通路": [
-    "つうろ",
-    "passage"
-  ],
-  "連絡先": [
-    "れんらくさき",
-    "contact details"
-  ],
-  "進めたい": [
-    "すすめたい",
-    "want to proceed"
-  ],
-  "過ごす": [
-    "すごす",
-    "spend time"
-  ],
-  "過去": [
-    "かこ",
-    "past"
-  ],
-  "道路": [
-    "どうろ",
-    "road"
-  ],
-  "道路脇": [
-    "どうろわき",
-    "roadside"
-  ],
-  "適切": [
-    "てきせつ",
-    "appropriate"
-  ],
-  "適度": [
-    "てきど",
-    "moderate"
-  ],
-  "選びたい": [
-    "えらびたい",
-    "want to choose"
-  ],
-  "選び方": [
-    "えらびかた",
-    "way of choosing"
-  ],
-  "隠れて": [
-    "かくれて",
-    "hidden"
-  ],
-  "隣家": [
-    "りんか",
-    "neighbouring house"
-  ],
-  "難しい": [
-    "むずかしい",
-    "difficult"
-  ],
-  "雨漏り": [
-    "あまもり",
-    "roof leak"
-  ],
-  "雪かき": [
-    "ゆきかき",
-    "shovelling snow"
-  ],
-  "雪山": [
-    "ゆきやま",
-    "pile of snow"
-  ],
-  "雪庇": [
-    "せっぴ",
-    "snow cornice"
-  ],
-  "雪止め": [
-    "ゆきどめ",
-    "roof snow guard"
-  ],
-  "雪解け": [
-    "ゆきどけ",
-    "snowmelt"
-  ],
-  "雪解け水": [
-    "ゆきどけみず",
-    "snowmelt water"
-  ],
-  "項目": [
-    "こうもく",
-    "item"
-  ],
-  "順番": [
-    "じゅんばん",
-    "order"
-  ],
-  "頼む": [
-    "たのむ",
-    "to hire or ask"
-  ],
-  "風通し": [
-    "かぜとおし",
-    "air circulation"
-  ],
-  "食卓": [
-    "しょくたく",
-    "dining table"
-  ],
-  "駐車": [
-    "ちゅうしゃ",
-    "parking"
-  ],
-  "古道具店": [
-    "ふるどうぐてん",
-    "second-hand furniture and goods shop"
-  ],
-  "木製": [
-    "もくせい",
-    "made of wood"
-  ],
-  "椅子": [
-    "いす",
-    "chair"
-  ],
-  "座面": [
-    "ざめん",
-    "seat surface"
-  ],
-  "脚の一本": [
-    "あしのいっぽん",
-    "one of the chair legs"
-  ],
-  "一本": [
-    "いっぽん",
-    "one long or cylindrical item"
-  ],
-  "見つけた": [
-    "みつけた",
-    "found"
-  ],
-  "店主": [
-    "てんしゅ",
-    "shop owner"
-  ],
-  "以前": [
-    "いぜん",
-    "previously"
-  ],
-  "持ち主": [
-    "もちぬし",
-    "previous owner"
-  ],
-  "長年": [
-    "ながねん",
-    "many years"
-  ],
-  "新品": [
-    "しんぴん",
-    "brand-new item"
-  ],
-  "使い続ける": [
-    "つかいつづける",
-    "continue using"
-  ],
-  "面白そう": [
-    "おもしろそう",
-    "seems interesting"
-  ],
-  "近く": [
-    "ちかく",
-    "nearby"
-  ],
-  "持ち込む": [
-    "もちこむ",
-    "bring an item in"
-  ],
-  "持ち込むと": [
-    "もちこむと",
-    "when brought in"
-  ],
-  "修理工房": [
-    "しゅうりこうぼう",
-    "repair workshop"
-  ],
-  "接合部分": [
-    "せつごうぶぶん",
-    "joint or connection"
-  ],
-  "丁寧": [
-    "ていねい",
-    "carefully"
-  ],
-  "調べた": [
-    "しらべた",
-    "examined"
-  ],
-  "割れ": [
-    "われ",
-    "crack"
-  ],
-  "接着剤": [
-    "せっちゃくざい",
-    "adhesive"
-  ],
-  "弱く": [
-    "よわく",
-    "weakened"
-  ],
-  "無理に": [
-    "むりに",
-    "forcibly"
-  ],
-  "引き抜く": [
-    "ひきぬく",
-    "pull out"
-  ],
-  "別の": [
-    "べつの",
-    "another"
-  ],
-  "傷める": [
-    "いためる",
-    "damage"
-  ],
-  "慎重": [
-    "しんちょう",
-    "cautious"
-  ],
-  "進める": [
-    "すすめる",
-    "proceed"
-  ],
-  "組み直し": [
-    "くみなおし",
-    "reassembly"
-  ],
-  "加え": [
-    "くわえ",
-    "in addition to"
-  ],
-  "含まれていた": [
-    "ふくまれていた",
-    "was included"
-  ],
-  "整える": [
-    "ととのえる",
-    "tidy or restore"
-  ],
-  "塗装": [
-    "とそう",
-    "paint or coating"
-  ],
-  "落とせば": [
-    "おとせば",
-    "if removed"
-  ],
-  "色合い": [
-    "いろあい",
-    "colour tone"
-  ],
-  "失われて": [
-    "うしなわれて",
-    "be lost"
-  ],
-  "結果": [
-    "けっか",
-    "result"
-  ],
-  "目立つ": [
-    "めだつ",
-    "noticeable"
-  ],
-  "元の": [
-    "もとの",
-    "original"
-  ],
-  "雰囲気": [
-    "ふんいき",
-    "character or atmosphere"
-  ],
-  "残す": [
-    "のこす",
-    "retain"
-  ],
-  "二週間": [
-    "にしゅうかん",
-    "two weeks"
-  ],
-  "買い替えた": [
-    "かいかえた",
-    "replaced by buying another"
-  ],
-  "早い": [
-    "はやい",
-    "faster"
-  ],
-  "直せる": [
-    "なおせる",
-    "can be repaired"
-  ],
-  "基準": [
-    "きじゅん",
-    "criterion"
-  ],
-  "変わって": [
-    "かわって",
-    "change"
-  ],
-  "単に": [
-    "たんに",
-    "merely"
-  ],
-  "戻す": [
-    "もどす",
-    "restore or return"
-  ],
-  "次の": [
-    "つぎの",
-    "next"
-  ],
-  "十年": [
-    "じゅうねん",
-    "ten years"
-  ],
-  "仕事": [
-    "しごと",
-    "work"
-  ],
-  "使い込まれた": [
-    "つかいこまれた",
-    "worn in through long use"
-  ],
-  "わずかに": [
-    "わずかに",
-    "slightly"
-  ],
-  "ぐらついている": [
-    "ぐらついている",
-    "is wobbling"
-  ],
-  "しっかり": [
-    "しっかり",
-    "firmly"
-  ],
-  "選ぶ": [
-    "えらぶ",
-    "choose"
-  ],
-  "古い": [
-    "ふるい",
-    "old"
-  ],
-  "弱くなった": [
-    "よわくなった",
-    "became weak"
-  ],
-  "住む": [
-    "すむ",
-    "live; reside"
-  ],
-  "友人": [
-    "ゆうじん",
-    "friend"
-  ],
-  "山": [
-    "やま",
-    "mountain"
-  ],
-  "冬の山": [
-    "ふゆのやま",
-    "winter mountains"
-  ],
-  "行く": [
-    "いく",
-    "go"
-  ],
-  "計画": [
-    "けいかく",
-    "plan"
-  ],
-  "立てた": [
-    "たてた",
-    "made (a plan)"
-  ],
-  "目的地": [
-    "もくてきち",
-    "destination"
-  ],
-  "決める": [
-    "きめる",
-    "decide"
-  ],
-  "決める前": [
-    "きめるまえ",
-    "before deciding"
-  ],
-  "地形図": [
-    "ちけいず",
-    "topographic map"
-  ],
-  "広げ": [
-    "ひろげ",
-    "spread out"
-  ],
-  "尾根": [
-    "おね",
-    "ridge"
-  ],
-  "沢": [
-    "さわ",
-    "stream valley; gully"
-  ],
-  "確かめる": [
-    "たしかめる",
-    "check; verify"
-  ],
-  "夏": [
-    "なつ",
-    "summer"
-  ],
-  "歩き慣れた": [
-    "あるきなれた",
-    "accustomed to walking"
-  ],
-  "道": [
-    "みち",
-    "path; trail"
-  ],
-  "雪": [
-    "ゆき",
-    "snow"
-  ],
-  "積もれば": [
-    "つもれば",
-    "if snow accumulates"
-  ],
-  "目印": [
-    "めじるし",
-    "landmark; reference point"
-  ],
-  "隠れ": [
-    "かくれ",
-    "become hidden"
-  ],
-  "思えない": [
-    "おもえない",
-    "cannot imagine or believe"
-  ],
-  "景色": [
-    "けしき",
-    "scenery"
-  ],
-  "変わる": [
-    "かわる",
-    "change"
-  ],
-  "特に": [
-    "とくに",
-    "particularly"
-  ],
-  "風": [
-    "かぜ",
-    "wind"
-  ],
-  "強い": [
-    "つよい",
-    "strong"
-  ],
-  "斜面": [
-    "しゃめん",
-    "slope"
-  ],
-  "雪の付き方": [
-    "ゆきのつきかた",
-    "how snow accumulates on terrain"
-  ],
-  "付き方": [
-    "つきかた",
-    "way something adheres or accumulates"
-  ],
-  "差": [
-    "さ",
-    "difference"
-  ],
-  "出る": [
-    "でる",
-    "arise; appear"
-  ],
-  "天気予報": [
-    "てんきよほう",
-    "weather forecast"
-  ],
-  "判断": [
-    "はんだん",
-    "judgement; decision"
-  ],
-  "方": [
-    "ほう",
-    "way; better course"
-  ],
-  "言う": [
-    "いう",
-    "say"
-  ],
-  "出発前": [
-    "しゅっぱつまえ",
-    "before setting out"
-  ],
-  "積雪": [
-    "せきせつ",
-    "accumulated snow"
-  ],
-  "雪崩情報": [
-    "なだれじょうほう",
-    "avalanche information"
-  ],
-  "雪崩": [
-    "なだれ",
-    "avalanche"
-  ],
-  "情報": [
-    "じょうほう",
-    "information"
-  ],
-  "調べ": [
-    "しらべ",
-    "check; look up"
-  ],
-  "現地": [
-    "げんち",
-    "on location; at the site"
-  ],
-  "状況": [
-    "じょうきょう",
-    "conditions; situation"
-  ],
-  "十分": [
-    "じゅうぶん",
-    "sufficient"
-  ],
-  "得られない": [
-    "えられない",
-    "cannot obtain"
-  ],
-  "入らず": [
-    "はいらず",
-    "without entering"
-  ],
-  "早起き": [
-    "はやおき",
-    "getting up early"
-  ],
-  "必ず": [
-    "かならず",
-    "necessarily; without fail"
-  ],
-  "山頂": [
-    "さんちょう",
-    "summit"
-  ],
-  "目指す": [
-    "めざす",
-    "aim for"
-  ],
-  "道具": [
-    "どうぐ",
-    "equipment; tools"
-  ],
-  "ビーコン": [
-    "ビーコン",
-    "avalanche transceiver"
-  ],
-  "電池残量": [
-    "でんちざんりょう",
-    "remaining battery power"
-  ],
-  "電池": [
-    "でんち",
-    "battery"
-  ],
-  "残量": [
-    "ざんりょう",
-    "remaining amount"
-  ],
-  "プローブ": [
-    "プローブ",
-    "avalanche probe"
-  ],
-  "スコップ": [
-    "スコップ",
-    "shovel"
-  ],
-  "取り出せる": [
-    "とりだせる",
-    "can take out"
-  ],
-  "装備": [
-    "そうび",
-    "gear; equipment"
-  ],
-  "持っている": [
-    "もっている",
-    "having; carrying"
-  ],
-  "繰り返し": [
-    "くりかえし",
-    "repeatedly"
-  ],
-  "練習": [
-    "れんしゅう",
-    "practice"
-  ],
-  "仲間同士": [
-    "なかまどうし",
-    "among companions"
-  ],
-  "意思": [
-    "いし",
-    "intentions; views"
-  ],
-  "伝える": [
-    "つたえる",
-    "communicate"
-  ],
-  "決めておく": [
-    "きめておく",
-    "decide beforehand"
-  ],
-  "予定": [
-    "よてい",
-    "schedule; plan"
-  ],
-  "変更": [
-    "へんこう",
-    "change; alteration"
-  ],
-  "少し": [
-    "すこし",
-    "a little"
-  ],
-  "残念": [
-    "ざんねん",
-    "disappointing"
-  ],
-  "気持ち": [
-    "きもち",
-    "feeling"
-  ],
-  "日": [
-    "ひ",
-    "day"
-  ],
-  "迷った": [
-    "まよった",
-    "felt uncertain"
-  ],
-  "引き返せる": [
-    "ひきかえせる",
-    "can turn back"
-  ],
-  "長く": [
-    "ながく",
-    "for a long time"
-  ],
-  "楽しむ": [
-    "たのしむ",
-    "enjoy"
-  ],
-  "思う": [
-    "おもう",
-    "think"
-  ],
-  "帰り道": [
-    "かえりみち",
-    "way back"
-  ],
-  "寄る": [
-    "よる",
-    "stop by"
-  ],
-  "温泉": [
-    "おんせん",
-    "hot spring"
-  ],
-  "食事": [
-    "しょくじ",
-    "meal"
-  ],
-  "入れておけば": [
-    "いれておけば",
-    "if included beforehand"
-  ],
-  "行けなかった": [
-    "いけなかった",
-    "could not go or reach"
-  ],
-  "一日": [
-    "いちにち",
-    "one day"
-  ],
-  "残る": [
-    "のこる",
-    "remain"
-  ],
-  "安全になるわけではない": [
-    "あんぜんになるわけではない",
-    "does not automatically make it safe"
-  ],
-  "新居": [
-    "しんきょ",
-    "new home"
-  ],
-  "光回線": [
-    "ひかりかいせん",
-    "fibre-optic internet connection"
-  ],
-  "契約": [
-    "けいやく",
-    "service contract"
-  ],
-  "調べ始めた": [
-    "しらべはじめた",
-    "began investigating"
-  ],
-  "広告": [
-    "こうこく",
-    "advertisement"
-  ],
-  "最大": [
-    "さいだい",
-    "maximum; up to"
-  ],
-  "大きく": [
-    "おおきく",
-    "prominently; in large print"
-  ],
-  "書かれている": [
-    "かかれている",
-    "is written"
-  ],
-  "数字": [
-    "すうじ",
-    "number; figure"
-  ],
-  "常に": [
-    "つねに",
-    "always; consistently"
-  ],
-  "わけではない": [
-    "わけではない",
-    "it does not mean that"
-  ],
-  "海外": [
-    "かいがい",
-    "overseas"
-  ],
-  "取引先": [
-    "とりひきさき",
-    "client; business partner"
-  ],
-  "デザインデータ": [
-    "デザインデータ",
-    "design files or data"
-  ],
-  "やり取り": [
-    "やりとり",
-    "exchange of information or files"
-  ],
-  "下り": [
-    "くだり",
-    "download (downstream)"
-  ],
-  "上り": [
-    "のぼり",
-    "upload (upstream)"
-  ],
-  "速度": [
-    "そくど",
-    "speed"
-  ],
-  "重要": [
-    "じゅうよう",
-    "important"
-  ],
-  "候補": [
-    "こうほ",
-    "options under consideration"
-  ],
-  "月額料金": [
-    "げつがくりょうきん",
-    "monthly fee"
-  ],
-  "事務手数料": [
-    "じむてすうりょう",
-    "administrative fee"
-  ],
-  "手数料": [
-    "てすうりょう",
-    "service or handling fee"
-  ],
-  "解約": [
-    "かいやく",
-    "cancelling a contract"
-  ],
-  "発生": [
-    "はっせい",
-    "be incurred; arise"
-  ],
-  "安く": [
-    "やすく",
-    "inexpensive; cheaply"
-  ],
-  "見える": [
-    "みえる",
-    "appear; seem"
-  ],
-  "割引": [
-    "わりびき",
-    "discount"
-  ],
-  "二年": [
-    "にねん",
-    "two years"
-  ],
-  "使う": [
-    "つかう",
-    "use"
-  ],
-  "総額": [
-    "そうがく",
-    "total cost"
-  ],
-  "計算": [
-    "けいさん",
-    "calculate"
-  ],
-  "住所": [
-    "じゅうしょ",
-    "address"
-  ],
-  "提供エリア": [
-    "ていきょうエリア",
-    "service coverage area"
-  ],
-  "提供": [
-    "ていきょう",
-    "provision of service"
-  ],
-  "入っていても": [
-    "はいっていても",
-    "even if it is included"
-  ],
-  "回線": [
-    "かいせん",
-    "communications line"
-  ],
-  "引き込める": [
-    "ひきこめる",
-    "can be brought into a building (a utility line)"
-  ],
-  "限らない": [
-    "かぎらない",
-    "not necessarily the case"
-  ],
-  "壁": [
-    "かべ",
-    "wall"
-  ],
-  "穴": [
-    "あな",
-    "hole"
-  ],
-  "開ける": [
-    "あける",
-    "make or open (a hole)"
-  ],
-  "既存": [
-    "きそん",
-    "existing"
+  "背景": [
+    "はいけい",
+    "background"
   ],
   "配管": [
     "はいかん",
     "piping or conduit"
   ],
-  "管理会社": [
-    "かんりがいしゃ",
-    "property management company"
-  ],
-  "工事業者": [
-    "こうじぎょうしゃ",
-    "installation contractor"
-  ],
-  "申し込み前": [
-    "もうしこみまえ",
-    "before applying"
-  ],
-  "申し込み": [
-    "もうしこみ",
-    "application"
-  ],
-  "手続き": [
-    "てつづき",
-    "procedure; paperwork"
-  ],
-  "整理": [
-    "せいり",
-    "organise; sort out"
-  ],
-  "通信速度": [
-    "つうしんそくど",
-    "data connection speed"
-  ],
-  "通信": [
-    "つうしん",
-    "communications"
-  ],
-  "時間帯": [
-    "じかんたい",
-    "time of day; time period"
-  ],
-  "知った": [
-    "しった",
-    "learned; found out"
-  ],
-  "仕事中": [
-    "しごとちゅう",
-    "while working"
-  ],
-  "接続": [
-    "せつぞく",
-    "network connection"
-  ],
-  "不安定": [
-    "ふあんてい",
-    "unstable; unreliable"
-  ],
-  "決めず": [
-    "きめず",
-    "without deciding"
-  ],
-  "対応": [
-    "たいおう",
-    "support or response"
-  ],
-  "故障時": [
-    "こしょうじ",
-    "in the event of a fault"
-  ],
-  "故障": [
-    "こしょう",
-    "equipment failure"
-  ],
-  "連絡方法": [
-    "れんらくほうほう",
-    "way to get in touch"
-  ],
-  "連絡": [
-    "れんらく",
-    "contact"
-  ],
-  "調べておきたい": [
-    "しらべておきたい",
-    "would like to check in advance"
-  ],
-  "毎日": [
-    "まいにち",
-    "every day"
-  ],
-  "契約前": [
-    "けいやくまえ",
-    "before signing a contract"
-  ],
-  "面倒": [
-    "めんどう",
-    "troublesome; inconvenient"
-  ],
-  "後": [
-    "あと",
-    "afterward; later"
-  ],
-  "続ける": [
-    "つづける",
-    "continue"
-  ],
-  "使うつもり": [
-    "つかうつもり",
-    "intending to use"
-  ],
-  "やり取りする": [
-    "やりとりする",
-    "exchange files or messages"
-  ],
-  "古い建物": [
-    "ふるいたてもの",
-    "old building"
-  ],
-  "使って": [
-    "つかって",
-    "using"
-  ],
-  "作家": [
-    "さっか",
-    "artist or creator"
-  ],
-  "展示会": [
-    "てんじかい",
-    "exhibition"
-  ],
-  "開く": [
-    "ひらく",
-    "hold or organise an event"
-  ],
-  "会場": [
-    "かいじょう",
-    "event venue"
-  ],
-  "倉庫": [
-    "そうこ",
-    "warehouse"
-  ],
-  "使われていた": [
-    "つかわれていた",
-    "had been used"
-  ],
-  "天井": [
-    "てんじょう",
-    "ceiling"
-  ],
-  "高く": [
-    "たかく",
-    "high"
-  ],
-  "小さな": [
-    "ちいさな",
-    "small"
-  ],
-  "柔らかな": [
-    "やわらかな",
-    "soft; gentle"
-  ],
-  "光": [
-    "ひかり",
-    "light"
-  ],
-  "入る": [
-    "はいる",
-    "enter"
-  ],
-  "窓際": [
-    "まどぎわ",
-    "near a window"
-  ],
-  "温度": [
-    "おんど",
-    "temperature"
-  ],
-  "下がりやすく": [
-    "さがりやすく",
-    "tends to drop"
-  ],
-  "良さ": [
-    "よさ",
-    "attractiveness; good quality"
-  ],
-  "展示方法": [
-    "てんじほうほう",
-    "display method"
-  ],
-  "決めるわけにはいかない": [
-    "きめるわけにはいかない",
-    "cannot reasonably decide / cannot simply decide"
-  ],
-  "打ち合わせ": [
-    "うちあわせ",
-    "planning meeting"
-  ],
-  "作品": [
-    "さくひん",
-    "artwork; creative work"
-  ],
-  "鑑賞": [
-    "かんしょう",
-    "appreciation or viewing of art"
-  ],
-  "鑑賞する": [
-    "かんしょうする",
-    "appreciate or view art"
-  ],
-  "人": [
-    "ひと",
-    "person"
-  ],
-  "歩く": [
-    "あるく",
-    "walk"
-  ],
-  "考えた": [
-    "かんがえた",
-    "considered"
-  ],
-  "入口": [
-    "いりぐち",
-    "entrance"
-  ],
-  "出口": [
-    "でぐち",
-    "exit"
-  ],
-  "一直線": [
-    "いっちょくせん",
-    "straight line"
-  ],
-  "並べる": [
-    "ならべる",
-    "arrange in a row"
-  ],
-  "分かりやすい": [
-    "わかりやすい",
-    "easy to understand"
-  ],
-  "立ち止まって": [
-    "たちどまって",
-    "stop walking"
-  ],
-  "見る": [
-    "みる",
-    "look at"
-  ],
-  "幅": [
-    "はば",
-    "width"
-  ],
-  "取る": [
-    "とる",
-    "allocate or provide space"
-  ],
-  "取り": [
-    "とり",
-    "allowing or setting aside (space)"
-  ],
-  "置く": [
-    "おく",
-    "place"
-  ],
-  "設ける": [
-    "もうける",
-    "provide; establish"
-  ],
-  "車椅子": [
-    "くるまいす",
-    "wheelchair"
-  ],
-  "無理のない": [
-    "むりのない",
-    "reasonable; not demanding"
-  ],
   "配置": [
     "はいち",
     "layout; arrangement"
   ],
-  "照明": [
-    "しょうめい",
-    "lighting"
-  ],
-  "自然光": [
-    "しぜんこう",
-    "natural light"
-  ],
-  "生かしたい": [
-    "いかしたい",
-    "want to take advantage of"
-  ],
-  "明るさ": [
-    "あかるさ",
-    "brightness"
-  ],
-  "影": [
-    "かげ",
-    "shadow"
-  ],
-  "点": [
-    "てん",
-    "point; consideration"
-  ],
-  "気になった": [
-    "きになった",
-    "was concerned about"
-  ],
-  "紙": [
-    "かみ",
-    "paper"
-  ],
-  "布": [
-    "ぬの",
-    "cloth; textile"
-  ],
-  "傷む": [
-    "いたむ",
-    "deteriorate or be damaged"
-  ],
-  "専門家": [
-    "せんもんか",
-    "specialist; expert"
-  ],
-  "助言": [
-    "じょげん",
-    "advice"
-  ],
-  "受け": [
-    "うけ",
-    "receive"
-  ],
-  "補助照明": [
-    "ほじょしょうめい",
-    "supplementary lighting"
-  ],
-  "案": [
-    "あん",
-    "proposal; plan"
-  ],
-  "残しながら": [
-    "のこしながら",
-    "while preserving"
-  ],
-  "展示物": [
-    "てんじぶつ",
-    "exhibits; displayed objects"
-  ],
-  "求められる": [
-    "もとめられる",
-    "is required; called for"
-  ],
-  "会期": [
-    "かいき",
-    "exhibition period"
-  ],
-  "終われば": [
-    "おわれば",
-    "when it finishes"
-  ],
-  "催し": [
-    "もよおし",
-    "event; gathering"
-  ],
-  "固定した": [
-    "こていした",
-    "fixed or permanent"
-  ],
-  "増やす": [
-    "ふやす",
-    "increase; add"
-  ],
-  "移動": [
-    "いどう",
-    "movement; moving"
-  ],
-  "移動できる": [
-    "いどうできる",
-    "movable; able to be moved"
-  ],
-  "展示台": [
-    "てんじだい",
-    "display stand; plinth"
-  ],
-  "使った": [
-    "つかった",
-    "used"
-  ],
-  "活動": [
-    "かつどう",
-    "activities"
-  ],
-  "対応しやすい": [
-    "たいおうしやすい",
-    "easy to adapt to"
-  ],
-  "改修": [
-    "かいしゅう",
-    "renovation; refurbishment"
-  ],
-  "新しく": [
-    "あたらしく",
-    "make new; anew"
-  ],
-  "今": [
-    "いま",
-    "now"
-  ],
-  "特徴": [
-    "とくちょう",
-    "characteristics; features"
-  ],
-  "理解": [
-    "りかい",
-    "understanding"
-  ],
-  "次": [
-    "つぎ",
-    "next"
-  ],
-  "次に": [
-    "つぎに",
-    "next; subsequently"
-  ],
-  "今ある": [
-    "いまある",
-    "already existing"
-  ],
-  "使う人": [
-    "つかうひと",
-    "the people who use it"
-  ],
-  "見学した": [
-    "けんがくした",
-    "visited for an inspection"
-  ],
-  "見学": [
-    "けんがく",
-    "visit or inspection"
-  ],
-  "冷たく": [
-    "つめたく",
-    "cold to the touch; chilly"
-  ],
-  "感じられた": [
-    "かんじられた",
-    "was felt; could be sensed"
-  ],
-  "外観": [
-    "がいかん",
-    "exterior appearance"
-  ],
-  "直されていた": [
-    "なおされていた",
-    "had been repaired or refurbished"
-  ],
-  "周り": [
-    "まわり",
-    "surrounding area"
-  ],
-  "結露": [
-    "けつろ",
-    "condensation"
-  ],
-  "結露の跡": [
-    "けつろのあと",
-    "traces of condensation"
-  ],
-  "跡": [
-    "あと",
-    "trace; mark"
-  ],
-  "残っている": [
-    "のこっている",
-    "remain"
-  ],
-  "案内してくれた": [
-    "あんないしてくれた",
-    "showed us around"
-  ],
-  "所有者": [
-    "しょゆうしゃ",
-    "owner"
-  ],
-  "暖房設備": [
-    "だんぼうせつび",
-    "heating equipment"
-  ],
-  "交換": [
-    "こうかん",
-    "replacement"
-  ],
-  "交換した": [
-    "こうかんした",
-    "replaced"
-  ],
-  "説明した": [
-    "せつめいした",
-    "explained"
-  ],
-  "快適": [
-    "かいてき",
-    "comfortable"
-  ],
-  "能力": [
-    "のうりょく",
-    "capacity; ability"
-  ],
-  "熱": [
-    "ねつ",
-    "heat"
-  ],
-  "逃げる": [
-    "にげる",
-    "escape; leak away"
-  ],
-  "調べる": [
-    "しらべる",
-    "investigate"
-  ],
-  "改修業者": [
-    "かいしゅうぎょうしゃ",
-    "renovation contractor"
-  ],
-  "業者": [
-    "ぎょうしゃ",
-    "contractor; service provider"
-  ],
-  "相談すると": [
-    "そうだんすると",
-    "when consulting"
-  ],
-  "三層ガラス": [
-    "さんそうガラス",
-    "triple glazing; three-pane glass"
-  ],
-  "三層": [
-    "さんそう",
-    "three-layer"
-  ],
-  "替えれば": [
-    "かえれば",
-    "if replaced"
-  ],
-  "解決": [
-    "かいけつ",
-    "solution; resolution"
-  ],
-  "解決する": [
-    "かいけつする",
-    "resolve; solve"
-  ],
-  "窓枠": [
-    "まどわく",
-    "window frame"
-  ],
-  "隙間": [
-    "すきま",
-    "gap; crack"
-  ],
-  "冷たい": [
-    "つめたい",
-    "cold"
-  ],
-  "入り": [
-    "はいり",
-    "entering"
-  ],
-  "冷えやすく": [
-    "ひえやすく",
-    "prone to cooling"
-  ],
-  "強めても": [
-    "つよめても",
-    "even if strengthened"
-  ],
-  "不十分": [
-    "ふじゅうぶん",
-    "insufficient"
-  ],
-  "湿気": [
-    "しっけ",
-    "moisture in the air; humidity"
-  ],
-  "結露につながる": [
-    "けつろにつながる",
-    "may lead to condensation"
-  ],
-  "家全体": [
-    "いえぜんたい",
-    "entire house"
-  ],
-  "家": [
-    "いえ",
-    "house"
-  ],
-  "全体": [
-    "ぜんたい",
-    "whole; overall"
-  ],
-  "状態": [
-    "じょうたい",
-    "condition"
-  ],
-  "本体": [
-    "ほんたい",
-    "main unit; product itself"
-  ],
-  "窓本体": [
-    "まどほんたい",
-    "window unit itself"
-  ],
-  "価格": [
-    "かかく",
-    "price"
-  ],
-  "加えて": [
-    "くわえて",
-    "in addition to"
-  ],
-  "取り付け工事": [
-    "とりつけこうじ",
-    "installation work"
-  ],
-  "取り付け": [
-    "とりつけ",
-    "installation"
-  ],
-  "内装": [
-    "ないそう",
-    "interior finishing"
-  ],
-  "補修費": [
-    "ほしゅうひ",
-    "repair or making-good cost"
-  ],
-  "分けて": [
-    "わけて",
-    "separately; divided"
-  ],
-  "書いてもらった": [
-    "かいてもらった",
-    "had someone write down"
-  ],
-  "初期費用": [
-    "しょきひよう",
-    "upfront or initial cost"
-  ],
-  "お金": [
-    "おかね",
-    "money"
-  ],
-  "将来": [
-    "しょうらい",
-    "future"
-  ],
-  "考えたい": [
-    "かんがえたい",
-    "want to consider"
-  ],
-  "工事中": [
-    "こうじちゅう",
-    "during the renovation work"
-  ],
-  "程度": [
-    "ていど",
-    "extent; degree"
-  ],
-  "支障": [
-    "ししょう",
-    "disruption or hindrance"
-  ],
-  "支障が出る": [
-    "ししょうがでる",
-    "cause disruption; interfere with"
-  ],
-  "事前": [
-    "じぜん",
-    "in advance"
-  ],
-  "聞いておく": [
-    "きいておく",
-    "ask about in advance"
-  ],
-  "朝": [
-    "あさ",
-    "morning"
-  ],
-  "場面": [
-    "ばめん",
-    "scene; situation"
-  ],
-  "想像": [
-    "そうぞう",
-    "imagination"
-  ],
-  "想像してみた": [
-    "そうぞうしてみた",
-    "tried imagining"
-  ],
-  "大きい": [
-    "おおきい",
-    "large; high"
-  ],
-  "製品": [
-    "せいひん",
-    "product"
-  ],
-  "冷気": [
-    "れいき",
-    "cold air; draft"
-  ],
-  "確かめ": [
-    "たしかめ",
-    "checking; verifying"
-  ],
-  "合った": [
-    "あった",
-    "suited to; fitting"
-  ],
-  "納得できる": [
-    "なっとくできる",
-    "find convincing; feel satisfied with"
-  ],
-  "急いで": [
-    "いそいで",
-    "in a hurry"
-  ],
-  "気になる点": [
-    "きになるてん",
-    "points of concern"
-  ],
-  "もう一度": [
-    "もういちど",
-    "once more"
-  ],
-  "暖房にかかる": [
-    "だんぼうにかかる",
-    "related to heating expenditure"
-  ],
-  "家に合った": [
-    "いえにあった",
-    "suited to the home"
-  ],
-  "整える前": [
-    "ととのえるまえ",
-    "before arranging"
-  ],
-  "動き方": [
-    "うごきかた",
-    "way of moving around"
-  ],
-  "車庫": [
-    "しゃこ",
-    "garage"
-  ],
-  "芝生": [
-    "しばふ",
-    "lawn; grass"
-  ],
-  "横": [
-    "よこ",
-    "beside; side"
-  ],
-  "歩ける": [
-    "あるける",
-    "can walk"
-  ],
-  "使える": [
-    "つかえる",
-    "can use"
-  ],
-  "除雪": [
-    "じょせつ",
-    "snow removal"
-  ],
-  "除雪した": [
-    "じょせつした",
-    "cleared away (snow)"
-  ],
-  "寄せる": [
-    "よせる",
-    "push or gather to one side"
-  ],
-  "落ちる": [
-    "おちる",
-    "fall"
-  ],
-  "植栽": [
-    "しょくさい",
-    "planting; vegetation in a landscape plan"
-  ],
-  "変わってくる": [
-    "かわってくる",
-    "come to change; depend on circumstances"
-  ],
-  "造園業者": [
-    "ぞうえんぎょうしゃ",
-    "landscape contractor"
-  ],
-  "造園": [
-    "ぞうえん",
-    "landscape gardening"
-  ],
-  "見ながら": [
-    "みながら",
-    "while looking at"
-  ],
-  "舗装材": [
-    "ほそうざい",
-    "paving material"
-  ],
-  "舗装": [
-    "ほそう",
-    "paving"
-  ],
-  "選ばない": [
-    "えらばない",
-    "do not choose"
-  ],
-  "言われた": [
-    "いわれた",
-    "was told"
-  ],
-  "水": [
-    "みず",
-    "water"
-  ],
-  "通しやすい": [
-    "とおしやすい",
-    "lets pass through easily"
-  ],
-  "素材": [
-    "そざい",
-    "material"
-  ],
-  "雨": [
-    "あめ",
-    "rain"
-  ],
-  "雨の日": [
-    "あめのひ",
-    "rainy day"
-  ],
-  "除雪機": [
-    "じょせつき",
-    "snowblower; snow-removal machine"
-  ],
-  "使用": [
-    "しよう",
-    "use; operation"
-  ],
-  "適している": [
-    "てきしている",
-    "suitable for"
-  ],
-  "段差": [
-    "だんさ",
-    "difference in level; step"
-  ],
-  "少なく": [
-    "すくなく",
-    "with less; fewer"
-  ],
-  "運びやすい": [
-    "はこびやすい",
-    "easy to carry or move"
-  ],
-  "動線": [
-    "どうせん",
-    "movement flow; circulation route"
-  ],
-  "確保": [
-    "かくほ",
-    "secure; ensure"
-  ],
-  "確保したい": [
-    "かくほしたい",
-    "want to ensure or reserve"
-  ],
-  "隅": [
-    "すみ",
-    "corner"
-  ],
-  "木": [
-    "き",
-    "tree; wood"
-  ],
-  "植える": [
-    "うえる",
-    "plant"
-  ],
-  "積む": [
-    "つむ",
-    "pile up; stack"
-  ],
-  "重なっていた": [
-    "かさなっていた",
-    "was overlapping"
-  ],
-  "おそれがある": [
-    "おそれがある",
-    "there is a risk of"
-  ],
-  "変える": [
-    "かえる",
-    "change; relocate"
-  ],
-  "日当たり": [
-    "ひあたり",
-    "sun exposure"
-  ],
-  "水はけ": [
-    "みずはけ",
-    "drainage; how well water drains"
-  ],
-  "確かめれば": [
-    "たしかめれば",
-    "if one checks"
-  ],
-  "庭全体": [
-    "にわぜんたい",
-    "the whole garden"
-  ],
-  "完成させる": [
-    "かんせいさせる",
-    "finish; complete"
-  ],
-  "立てる": [
-    "たてる",
-    "make (a plan)"
-  ],
-  "楽しい": [
-    "たのしい",
-    "enjoyable"
-  ],
-  "四季": [
-    "しき",
-    "four seasons"
-  ],
-  "通して": [
-    "とおして",
-    "throughout"
-  ],
-  "使いやすい": [
-    "つかいやすい",
-    "easy to use"
-  ],
-  "不便": [
-    "ふべん",
-    "inconvenience"
-  ],
-  "不便さ": [
-    "ふべんさ",
-    "inconvenience"
-  ],
-  "先": [
-    "さき",
-    "first; ahead"
-  ],
-  "先に": [
-    "さきに",
-    "first; beforehand"
-  ],
-  "決め": [
-    "きめ",
-    "decide"
-  ],
-  "石": [
-    "いし",
-    "stone; rock"
-  ],
-  "続けやすく": [
-    "つづけやすく",
-    "easy to maintain or continue"
-  ],
-  "同じくらい": [
-    "おなじくらい",
-    "to the same degree"
-  ],
-  "考えることにした": [
-    "かんがえることにした",
-    "decided to consider"
-  ],
-  "使えるとは限らない": [
-    "つかえるとはかぎらない",
-    "not necessarily usable"
-  ],
-  "冬の動き方": [
-    "ふゆのうごきかた",
-    "winter circulation and routes"
-  ],
-  "雪を置く場所": [
-    "ゆきをおくばしょ",
-    "snow storage area"
-  ],
-  "住宅街": [
-    "じゅうたくがい",
-    "residential neighbourhood"
-  ],
-  "街": [
-    "まち",
-    "town; neighbourhood"
-  ],
-  "歩いていると": [
-    "あるいていると",
-    "while walking, something happened"
-  ],
-  "焙煎所": [
-    "ばいせんじょ",
-    "coffee roastery"
-  ],
-  "焙煎": [
-    "ばいせん",
-    "roasting coffee beans"
-  ],
-  "店内": [
-    "てんない",
-    "inside the shop"
-  ],
-  "産地": [
-    "さんち",
-    "region of origin"
-  ],
-  "焙煎日": [
-    "ばいせんび",
-    "date of roasting"
-  ],
-  "書いた": [
-    "かいた",
-    "written"
-  ],
-  "札": [
-    "ふだ",
-    "small sign; label"
-  ],
-  "並び": [
-    "ならび",
-    "lined up; arranged"
-  ],
-  "奥": [
-    "おく",
-    "back of the room"
-  ],
-  "豆": [
-    "まめ",
-    "coffee beans"
-  ],
-  "確かめていた": [
-    "たしかめていた",
-    "was checking"
-  ],
-  "深煎り": [
-    "ふかいり",
-    "dark roast"
-  ],
-  "多い": [
-    "おおい",
-    "frequent; often"
-  ],
-  "飲み比べ": [
-    "のみくらべ",
-    "comparison tasting"
-  ],
-  "飲み比べをお願いした": [
-    "のみくらべをおねがいした",
-    "asked to compare coffees"
-  ],
-  "お願いした": [
-    "おねがいした",
-    "requested"
-  ],
-  "一杯": [
-    "いっぱい",
-    "one cup"
-  ],
-  "香り": [
-    "かおり",
-    "aroma"
-  ],
-  "華やか": [
-    "はなやか",
-    "floral; bright"
-  ],
-  "冷める": [
-    "さめる",
-    "cool down (a drink)"
-  ],
-  "冷めるにつれて": [
-    "さめるにつれて",
-    "as it cools"
-  ],
-  "果物": [
-    "くだもの",
-    "fruit"
-  ],
-  "酸味": [
-    "さんみ",
-    "acidity in flavour"
-  ],
-  "飲んだ": [
-    "のんだ",
-    "drank"
-  ],
-  "苦味": [
-    "にがみ",
-    "bitterness"
-  ],
-  "穏やか": [
-    "おだやか",
-    "mild; gentle"
-  ],
-  "後味": [
-    "あとあじ",
-    "aftertaste"
-  ],
-  "甘さ": [
-    "あまさ",
-    "sweetness"
-  ],
-  "収穫時期": [
-    "しゅうかくじき",
-    "harvest period"
-  ],
-  "収穫": [
-    "しゅうかく",
-    "harvest"
-  ],
-  "仕方": [
-    "しかた",
-    "way of doing"
-  ],
-  "印象": [
-    "いんしょう",
-    "impression"
-  ],
-  "値段": [
-    "ねだん",
-    "price"
-  ],
-  "好み": [
-    "このみ",
-    "taste; preference"
-  ],
-  "味": [
-    "あじ",
-    "flavour"
+  "買い": [
+    "かい",
+    "buying"
+  ],
+  "買い替えた": [
+    "かいかえた",
+    "replaced by buying another"
+  ],
+  "畑": [
+    "はたけ",
+    "field"
+  ],
+  "発見": [
+    "はっけん",
+    "discovery"
+  ],
+  "発生": [
+    "はっせい",
+    "be incurred; arise"
+  ],
+  "判断": [
+    "はんだん",
+    "judgement; decision"
   ],
   "判断できない": [
     "はんだんできない",
     "cannot determine"
   ],
-  "自宅": [
-    "じたく",
-    "one's home"
+  "反ったり": [
+    "そったり",
+    "warping"
   ],
-  "器具": [
-    "きぐ",
-    "brewing equipment"
-  ],
-  "抽出": [
-    "ちゅうしゅつ",
-    "coffee extraction"
-  ],
-  "抽出方法": [
-    "ちゅうしゅつほうほう",
-    "brewing/extraction method"
+  "範囲": [
+    "はんい",
+    "scope"
   ],
   "挽き方": [
     "ひきかた",
@@ -3399,356 +3259,636 @@
     "ひく",
     "grind coffee beans"
   ],
-  "説明してくれた": [
-    "せつめいしてくれた",
-    "explained it to me"
-  ],
-  "細かく": [
-    "こまかく",
-    "finely"
-  ],
   "挽けば": [
     "ひけば",
     "if you grind"
   ],
-  "濃くて": [
-    "こくて",
-    "rich/strong and"
+  "扉": [
+    "とびら",
+    "door"
   ],
-  "湯": [
-    "ゆ",
-    "hot water"
+  "比べる": [
+    "くらべる",
+    "compare"
   ],
-  "注ぐ": [
-    "そそぐ",
-    "pour"
+  "比較的": [
+    "ひかくてき",
+    "relatively"
   ],
-  "多く": [
-    "おおく",
-    "many"
+  "費用": [
+    "ひよう",
+    "cost"
   ],
-  "条件": [
-    "じょうけん",
-    "variables; conditions"
+  "尾根": [
+    "おね",
+    "ridge"
   ],
-  "変えず": [
-    "かえず",
-    "without changing"
+  "美しい": [
+    "うつくしい",
+    "beautiful"
   ],
-  "試した": [
-    "ためした",
-    "tried"
+  "美しさ": [
+    "うつくしさ",
+    "beauty"
   ],
-  "試す": [
-    "ためす",
-    "test"
+  "必ず": [
+    "かならず",
+    "necessarily; without fail"
   ],
-  "帰り": [
-    "かえり",
-    "on the way home"
+  "必要": [
+    "ひつよう",
+    "necessary"
   ],
-  "少量": [
-    "しょうりょう",
-    "small quantity"
+  "必要以上": [
+    "ひつよういじょう",
+    "more than necessary"
   ],
-  "買い": [
-    "かい",
-    "buying"
+  "必要性": [
+    "ひつようせい",
+    "necessity"
   ],
-  "袋": [
-    "ふくろ",
-    "bag"
+  "氷点下": [
+    "ひょうてんか",
+    "below freezing"
   ],
-  "書かれた": [
-    "かかれた",
-    "written; printed"
-  ],
-  "確認した": [
-    "かくにんした",
-    "checked"
-  ],
-  "言葉": [
-    "ことば",
-    "words"
-  ],
-  "言葉にする": [
-    "ことばにする",
-    "put into words"
-  ],
-  "意外と": [
-    "いがいと",
-    "surprisingly"
-  ],
-  "作り手": [
-    "つくりて",
-    "maker; producer"
-  ],
-  "話": [
-    "はなし",
-    "conversation"
-  ],
-  "聞き": [
-    "きき",
-    "listen"
-  ],
-  "伝えてみると": [
-    "つたえてみると",
-    "upon trying to describe"
-  ],
-  "発見": [
-    "はっけん",
-    "discovery"
-  ],
-  "次は": [
-    "つぎは",
-    "next time"
-  ],
-  "淹れた": [
-    "いれた",
-    "brewed coffee"
-  ],
-  "感想": [
-    "かんそう",
-    "impressions"
-  ],
-  "伝えに行きたい": [
-    "つたえにいきたい",
-    "want to go to share my feedback"
-  ],
-  "飲む": [
-    "のむ",
-    "drink"
-  ],
-  "図書館": [
-    "としょかん",
-    "library"
-  ],
-  "昔": [
-    "むかし",
-    "long ago"
-  ],
-  "町並み": [
-    "まちなみ",
-    "townscape"
-  ],
-  "古い地図": [
-    "ふるいちず",
-    "old map"
-  ],
-  "昔の町並み": [
-    "むかしのまちなみ",
-    "historical townscape"
-  ],
-  "開いた": [
-    "ひらいた",
-    "opened"
-  ],
-  "現在": [
-    "げんざい",
-    "present day"
-  ],
-  "並ぶ": [
-    "ならぶ",
-    "line a street"
-  ],
-  "畑": [
-    "はたけ",
-    "field"
-  ],
-  "細い": [
-    "ほそい",
-    "narrow"
+  "表面": [
+    "ひょうめん",
+    "surface"
   ],
   "描かれている": [
     "えがかれている",
     "depicted"
   ],
-  "端": [
-    "はし",
-    "edge"
+  "不安定": [
+    "ふあんてい",
+    "unstable; unreliable"
   ],
-  "作られた年代": [
-    "つくられたねんだい",
-    "era it was made"
+  "不具合": [
+    "ふぐあい",
+    "defect or malfunction"
   ],
-  "記されていた": [
-    "しるされていた",
-    "was noted"
+  "不十分": [
+    "ふじゅうぶん",
+    "insufficient"
   ],
-  "正確とは限らない": [
-    "せいかくとはかぎらない",
-    "not necessarily accurate"
+  "不便": [
+    "ふべん",
+    "inconvenience"
   ],
-  "見比べる": [
-    "みくらべる",
-    "compare by looking"
+  "不便さ": [
+    "ふべんさ",
+    "inconvenience"
   ],
-  "司書": [
-    "ししょ",
-    "librarian"
+  "付いた": [
+    "ついた",
+    "stuck to; covered with"
   ],
-  "当時": [
-    "とうじ",
-    "at that time"
+  "付き合い方": [
+    "つきあいかた",
+    "way of relating to something"
   ],
-  "市の記録": [
-    "しのきろく",
-    "municipal records"
+  "付き方": [
+    "つきかた",
+    "way something adheres or accumulates"
   ],
-  "参考になる": [
-    "さんこうになる",
-    "be useful as a reference"
+  "布": [
+    "ぬの",
+    "cloth; textile"
   ],
-  "教えてくれた": [
-    "おしえてくれた",
-    "explained to me"
+  "敷地": [
+    "しきち",
+    "property grounds"
   ],
-  "看板": [
-    "かんばん",
-    "signboard"
+  "普段": [
+    "ふだん",
+    "normally"
   ],
-  "橋": [
-    "はし",
-    "bridge"
+  "負担": [
+    "ふたん",
+    "burden"
   ],
-  "細部": [
-    "さいぶ",
-    "fine details"
-  ],
-  "撮影された": [
-    "さつえいされた",
-    "was photographed"
-  ],
-  "背景": [
-    "はいけい",
-    "background"
-  ],
-  "山並み": [
-    "やまなみ",
-    "mountain ridgeline"
-  ],
-  "向き": [
-    "むき",
-    "direction faced"
-  ],
-  "推測する": [
-    "すいそくする",
-    "infer"
-  ],
-  "興味深かった": [
-    "きょうみぶかかった",
-    "was interesting"
-  ],
-  "昔の建物": [
-    "むかしのたてもの",
-    "old buildings"
-  ],
-  "地域の記憶": [
-    "ちいきのきおく",
-    "local collective memory"
-  ],
-  "使われなくなった": [
-    "つかわれなくなった",
-    "no longer used"
-  ],
-  "生かしたり": [
-    "いかしたり",
-    "put to good use"
-  ],
-  "暮らした": [
-    "くらした",
-    "lived"
-  ],
-  "人々": [
-    "ひとびと",
-    "people"
-  ],
-  "調べた内容": [
-    "しらべたないよう",
-    "research findings"
-  ],
-  "整理しているうちに": [
-    "せいりしているうちに",
-    "while organising"
-  ],
-  "見え方": [
-    "みえかた",
-    "way something appears"
-  ],
-  "何気なく": [
-    "なにげなく",
-    "without much thought"
-  ],
-  "通り過ぎていた": [
-    "とおりすぎていた",
-    "had been passing by"
-  ],
-  "曲がり角": [
-    "まがりかど",
-    "street corner"
-  ],
-  "関係している": [
-    "かんけいしている",
-    "be related"
+  "風": [
+    "かぜ",
+    "wind"
   ],
   "風景": [
     "ふうけい",
     "scenery"
   ],
-  "重ねながら": [
-    "かさねながら",
-    "while overlaying"
+  "風通し": [
+    "かぜとおし",
+    "air circulation"
   ],
-  "気づいた": [
-    "きづいた",
-    "noticed"
+  "復旧": [
+    "ふっきゅう",
+    "restoration"
   ],
-  "記録してみたい": [
-    "きろくしてみたい",
-    "would like to try recording"
+  "幅": [
+    "はば",
+    "width"
   ],
-  "歩き": [
-    "あるき",
-    "walking"
+  "分からない": [
+    "わからない",
+    "not understood"
   ],
-  "昔の町": [
-    "むかしのまち",
-    "old town"
+  "分からなかった": [
+    "わからなかった",
+    "could not tell"
   ],
-  "時代": [
-    "じだい",
-    "era"
+  "分かりやすい": [
+    "わかりやすい",
+    "easy to understand"
   ],
-  "関係": [
-    "かんけい",
-    "relationship"
+  "分けて": [
+    "わけて",
+    "separately; divided"
   ],
-  "何": [
-    "なに",
-    "what"
+  "分解": [
+    "ぶんかい",
+    "disassembly"
   ],
-  "地図": [
-    "ちず",
-    "map"
+  "分担": [
+    "ぶんたん",
+    "sharing responsibility"
   ],
-  "名前": [
-    "なまえ",
-    "name"
+  "雰囲気": [
+    "ふんいき",
+    "character or atmosphere"
   ],
-  "例": [
-    "れい",
-    "example"
+  "聞いておく": [
+    "きいておく",
+    "ask about in advance"
   ],
-  "知る": [
-    "しる",
-    "learn; know"
+  "聞き": [
+    "きき",
+    "listen"
+  ],
+  "並び": [
+    "ならび",
+    "lined up; arranged"
+  ],
+  "並ぶ": [
+    "ならぶ",
+    "line a street"
+  ],
+  "並べる": [
+    "ならべる",
+    "arrange in a row"
+  ],
+  "並んで": [
+    "ならんで",
+    "lined up"
+  ],
+  "壁": [
+    "かべ",
+    "wall"
+  ],
+  "別の": [
+    "べつの",
+    "another"
+  ],
+  "変えず": [
+    "かえず",
+    "without changing"
+  ],
+  "変える": [
+    "かえる",
+    "change; relocate"
   ],
   "変わった": [
     "かわった",
     "changed"
   ],
-  "町": [
-    "まち",
-    "town"
+  "変わって": [
+    "かわって",
+    "change"
+  ],
+  "変わってくる": [
+    "かわってくる",
+    "come to change; depend on circumstances"
+  ],
+  "変わる": [
+    "かわる",
+    "change"
+  ],
+  "変化": [
+    "へんか",
+    "change"
+  ],
+  "変更": [
+    "へんこう",
+    "change; alteration"
+  ],
+  "片づけて": [
+    "かたづけて",
+    "clear away"
+  ],
+  "保温材": [
+    "ほおんざい",
+    "insulating material"
+  ],
+  "保管場所": [
+    "ほかんばしょ",
+    "storage location"
+  ],
+  "保証書": [
+    "ほしょうしょ",
+    "warranty"
+  ],
+  "舗装": [
+    "ほそう",
+    "paving"
+  ],
+  "舗装材": [
+    "ほそうざい",
+    "paving material"
+  ],
+  "歩いていると": [
+    "あるいていると",
+    "while walking, something happened"
+  ],
+  "歩き": [
+    "あるき",
+    "walking"
+  ],
+  "歩き慣れた": [
+    "あるきなれた",
+    "accustomed to walking"
+  ],
+  "歩く": [
+    "あるく",
+    "walk"
+  ],
+  "歩ける": [
+    "あるける",
+    "can walk"
+  ],
+  "歩行者": [
+    "ほこうしゃ",
+    "pedestrian"
+  ],
+  "補修": [
+    "ほしゅう",
+    "repair"
+  ],
+  "補修費": [
+    "ほしゅうひ",
+    "repair or making-good cost"
+  ],
+  "補助照明": [
+    "ほじょしょうめい",
+    "supplementary lighting"
+  ],
+  "暮らし": [
+    "くらし",
+    "daily life"
+  ],
+  "暮らした": [
+    "くらした",
+    "lived"
+  ],
+  "崩れる": [
+    "くずれる",
+    "collapse"
+  ],
+  "方": [
+    "ほう",
+    "way; better course"
+  ],
+  "方向": [
+    "ほうこう",
+    "direction"
+  ],
+  "方法": [
+    "ほうほう",
+    "method"
+  ],
+  "妨げない": [
+    "さまたげない",
+    "not obstruct"
+  ],
+  "北海道": [
+    "ほっかいどう",
+    "Hokkaido"
+  ],
+  "本数": [
+    "ほんすう",
+    "number of items such as keys"
+  ],
+  "本体": [
+    "ほんたい",
+    "main unit; product itself"
+  ],
+  "毎日": [
+    "まいにち",
+    "every day"
+  ],
+  "毎年": [
+    "まいとし",
+    "every year"
+  ],
+  "味": [
+    "あじ",
+    "flavour"
+  ],
+  "無垢材": [
+    "むくざい",
+    "solid timber"
+  ],
+  "無理に": [
+    "むりに",
+    "forcibly"
+  ],
+  "無理のない": [
+    "むりのない",
+    "reasonable; not demanding"
+  ],
+  "名前": [
+    "なまえ",
+    "name"
+  ],
+  "明るさ": [
+    "あかるさ",
+    "brightness"
+  ],
+  "迷った": [
+    "まよった",
+    "felt uncertain"
+  ],
+  "面倒": [
+    "めんどう",
+    "troublesome; inconvenient"
+  ],
+  "面白そう": [
+    "おもしろそう",
+    "seems interesting"
+  ],
+  "木": [
+    "き",
+    "tree; wood"
+  ],
+  "木工所": [
+    "もっこうじょ",
+    "woodworking workshop"
+  ],
+  "木材": [
+    "もくざい",
+    "timber"
+  ],
+  "木製": [
+    "もくせい",
+    "made of wood"
+  ],
+  "木目": [
+    "もくめ",
+    "wood grain"
+  ],
+  "目印": [
+    "めじるし",
+    "landmark; reference point"
+  ],
+  "目指す": [
+    "めざす",
+    "aim for"
+  ],
+  "目的地": [
+    "もくてきち",
+    "destination"
+  ],
+  "目立たない": [
+    "めだたない",
+    "not noticeable"
+  ],
+  "目立つ": [
+    "めだつ",
+    "noticeable"
+  ],
+  "戻す": [
+    "もどす",
+    "restore or return"
+  ],
+  "問題": [
+    "もんだい",
+    "issue"
+  ],
+  "役立つ": [
+    "やくだつ",
+    "useful"
+  ],
+  "約束": [
+    "やくそく",
+    "agreement"
+  ],
+  "優れて": [
+    "すぐれて",
+    "superior"
+  ],
+  "優先": [
+    "ゆうせん",
+    "prioritise; give priority"
+  ],
+  "友人": [
+    "ゆうじん",
+    "friend"
+  ],
+  "誘われた": [
+    "さそわれた",
+    "was invited"
+  ],
+  "予定": [
+    "よてい",
+    "schedule; plan"
+  ],
+  "余裕": [
+    "よゆう",
+    "enough time or leeway"
+  ],
+  "様子": [
+    "ようす",
+    "condition"
+  ],
+  "用途": [
+    "ようと",
+    "intended use"
+  ],
+  "翌朝": [
+    "よくあさ",
+    "following morning"
+  ],
+  "翌年": [
+    "よくねん",
+    "following year"
+  ],
+  "頼む": [
+    "たのむ",
+    "to hire or ask"
+  ],
+  "落ちる": [
+    "おちる",
+    "fall"
+  ],
+  "落ち葉": [
+    "おちば",
+    "fallen leaves"
+  ],
+  "落とせば": [
+    "おとせば",
+    "if removed"
+  ],
+  "落雪": [
+    "らくせつ",
+    "falling roof snow"
+  ],
+  "落葉樹": [
+    "らくようじゅ",
+    "deciduous tree"
+  ],
+  "利用": [
+    "りよう",
+    "use"
+  ],
+  "理解": [
+    "りかい",
+    "understanding"
+  ],
+  "立ち会い": [
+    "たちあい",
+    "on-site inspection"
+  ],
+  "立ち止まって": [
+    "たちどまって",
+    "stop walking"
+  ],
+  "立てた": [
+    "たてた",
+    "made (a plan)"
+  ],
+  "立てる": [
+    "たてる",
+    "make (a plan)"
+  ],
+  "流れ": [
+    "ながれ",
+    "flow"
+  ],
+  "流れ込まない": [
+    "ながれこまない",
+    "not flow into"
+  ],
+  "流れ込んだり": [
+    "ながれこんだり",
+    "flowing into"
+  ],
+  "留守": [
+    "るす",
+    "away from home"
+  ],
+  "旅行": [
+    "りょこう",
+    "travel"
+  ],
+  "両方": [
+    "りょうほう",
+    "both"
+  ],
+  "両立": [
+    "りょうりつ",
+    "balance; achieve both"
+  ],
+  "良さ": [
+    "よさ",
+    "attractiveness; good quality"
+  ],
+  "隣": [
+    "となり",
+    "next to"
+  ],
+  "隣家": [
+    "りんか",
+    "neighbouring house"
+  ],
+  "例": [
+    "れい",
+    "example"
+  ],
+  "例えば": [
+    "たとえば",
+    "for example"
+  ],
+  "冷えやすく": [
+    "ひえやすく",
+    "prone to cooling"
+  ],
+  "冷たい": [
+    "つめたい",
+    "cold"
+  ],
+  "冷たく": [
+    "つめたく",
+    "cold to the touch; chilly"
+  ],
+  "冷める": [
+    "さめる",
+    "cool down (a drink)"
+  ],
+  "冷めるにつれて": [
+    "さめるにつれて",
+    "as it cools"
+  ],
+  "冷気": [
+    "れいき",
+    "cold air; draft"
+  ],
+  "練習": [
+    "れんしゅう",
+    "practice"
+  ],
+  "連絡": [
+    "れんらく",
+    "contact"
+  ],
+  "連絡先": [
+    "れんらくさき",
+    "contact details"
+  ],
+  "連絡方法": [
+    "れんらくほうほう",
+    "way to get in touch"
+  ],
+  "路面": [
+    "ろめん",
+    "road surface"
+  ],
+  "和らげる": [
+    "やわらげる",
+    "moderate or soften"
+  ],
+  "話": [
+    "はなし",
+    "conversation"
+  ],
+  "話した": [
+    "はなした",
+    "said; explained"
+  ],
+  "話題": [
+    "わだい",
+    "topic"
+  ],
+  "淹れた": [
+    "いれた",
+    "brewed coffee"
+  ],
+  "焙煎": [
+    "ばいせん",
+    "roasting coffee beans"
+  ],
+  "焙煎所": [
+    "ばいせんじょ",
+    "coffee roastery"
+  ],
+  "焙煎日": [
+    "ばいせんび",
+    "date of roasting"
   ]
 }
