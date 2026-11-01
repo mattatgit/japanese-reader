@@ -7,6 +7,9 @@ A lightweight, no-backend Japanese reading and review website for GitHub Pages.
 - Four-paragraph daily readings with hidden furigana on hover and contextual English definitions on click/tap.
 - Searchable archive, date and topic browsing, and mobile-friendly layout.
 - Mixed reviews with text answers, single- and multiple-choice questions.
+- **Vocabulary & Kanji flashcards** at `#/flashcards`: recent seven readings, complete reading archive, or all public lexicon entries; vocabulary meaning/reading recall and kana-to-kanji writing recall.
+- Ten-card self-graded sessions (Again / Remembered), with local spaced-repetition scheduling and separate progress by practice mode.
+- Optional local Markdown/TSV import of previous vocabulary from a private repo; imported words and ratings remain in the browser, never committed to this public project.
 - Autosaved review drafts in this browser (localStorage); a **Copy answers** button to paste into ChatGPT for semantic feedback.
 - Seven archived passages from 17–23 October 2026 and initial reviews.
 - No account, server, tracking, API key, build system or npm dependencies.
@@ -25,7 +28,9 @@ Add an entry to `docs/data/reviews.json` with `date`, `sourceDate`, `title`, `in
 
 ## Privacy and learning history
 
-Personal progress is **not stored in this public repository**. Review drafts are local to the browser and are copied, not transmitted, to ChatGPT. Detailed reviews, answers, weak points and spaced repetition should be recorded in the existing **private** `mattatgit/japanese` repository.
+Personal progress is **not stored in this public repository**. Review drafts and flashcard ratings remain local to this browser. Review answers are copied, not transmitted, to ChatGPT. Detailed assessments, submitted answers and weak points remain in the **private** `mattatgit/japanese` repository.
+
+The public flashcards automatically draw from `docs/data/lexicon.json` and the archived readings, with no extra publishing step. Terms present only in the private `vocabulary.md` can be included by opening **Flashcards → Import private vocabulary**, choosing a local Markdown/text file or pasting its table. Only word, reading and meaning are retained locally; diagnostic notes are ignored. This static site does not fetch private GitHub data or synchronize browser progress between devices. Cards marked **Again** are immediately due for a subsequent session; remembered cards recur after progressively longer intervals (1, 3, 7, 14, 30, 60 days).
 
 ## Current publishing workflow
 
