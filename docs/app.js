@@ -65,7 +65,7 @@
     return '<div class="page-head"><div class="eyebrow">'+esc(label)+'</div><h1>'+esc(title)+'</h1><p class="subtitle">'+esc(description)+'</p></div>';
   }
   function updateNav(route){
-    const section=route.startsWith("/archive")?"archive":route.startsWith("/review")?"reviews":"reading";
+    const section=route.startsWith("/archive")?"archive":route.startsWith("/flashcards")?"flashcards":route.startsWith("/review")?"reviews":"reading";
     document.querySelectorAll("[data-nav]").forEach(a=>{a.classList.toggle("active",a.dataset.nav===section);if(a.dataset.nav===section)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
   }
   function routeParts(){
@@ -90,7 +90,7 @@
       '</article><aside class="side"><div class="side-part"><div class="side-label">Reading length</div><div class="side-number">'+current.paragraphs.join("").length+'</div><div class="side-description">Japanese characters · '+current.paragraphs.length+' paragraphs</div></div>'+
       '<div class="side-part"><div class="side-label">Continue learning</div>'+
       (review?'<a class="side-link" href="#/review/'+esc(review.date)+'">Review for this reading →</a>':'<span class="side-description">No review published for this passage yet.</span>')+
-      '<a class="side-link" href="#/archive">All readings →</a></div><div class="side-part"><div class="side-label">Your progress</div><div class="side-number">'+readDates.length+' / '+readings.length+'</div><div class="side-description">Marked as read in this browser only</div></div></aside></div>';
+      '<a class="side-link" href="#/archive">All readings →</a><a class="side-link" href="#/flashcards">Vocabulary flashcards →</a></div><div class="side-part"><div class="side-label">Your progress</div><div class="side-number">'+readDates.length+' / '+readings.length+'</div><div class="side-description">Marked as read in this browser only</div></div></aside></div>';
     const passage=document.getElementById("passage");
     current.paragraphs.forEach(p=>annotateParagraph(p,passage));
     document.getElementById("mark-read").addEventListener("click",()=>{
@@ -198,6 +198,7 @@
     if(section==="archive")renderArchive();
     else if(section==="reviews")renderReviews();
     else if(section==="review")renderReview(date);
+    else if(section==="flashcards" && window.JapaneseFlashcards)window.JapaneseFlashcards.render(root,readings,dictionary);
     else renderReading(section==="reading"?date:undefined);
     window.scrollTo(0,0);
   }
