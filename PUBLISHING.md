@@ -11,6 +11,7 @@ For overall system context and privacy boundaries, first read [PROJECT_CONTEXT.m
 - **Readings:** `docs/data/readings.json`
 - **Definitions:** `docs/data/lexicon.json`
 - **Reviews:** `docs/data/reviews.json`
+- **Flashcards:** `docs/flashcards.js` derives its cards automatically from the public lexicon and archived reading passages. No separate public flashcard JSON needs updating.
 
 Never put user-submitted answers, scores, weak-point diagnostics, or private conversation information into the public repository.
 
@@ -62,3 +63,11 @@ Report one of:
 - **Not published:** error or missing GitHub connection, no false link/claim.
 
 Site uses **GitHub Pages from branch main/docs**. Interactive GitHub commits normally trigger the ordinary build. Keep the optional paid API-based GitHub Actions publisher **disabled** and do not switch Pages to GitHub Actions unless specifically requested. See [AUTOMATION.md](AUTOMATION.md) only as an inactive alternative.
+
+## Flashcards: automatic vocabulary availability and privacy
+
+- Flashcards are part of the static website at `#/flashcards`, using the existing vocabulary dictionary and reading paragraphs.
+- **Every new lexicon word** becomes eligible in the full-dictionary practice deck. Words actually used in readings are linked to that reading and appear in recent (last seven published readings) or archive decks automatically.
+- The interface supports vocabulary (Japanese → kana/meaning), kanji recall (kana/meaning → Japanese), local graded recall, and intervals of 1/3/7/14/30/60 days.
+- Private `mattatgit/japanese/vocabulary.md` must **not** be fetched unauthenticated or copied into the public repo. The learner can import that Markdown file or pasted tables manually, with word/kana/meaning stored only in localStorage. No account, server or API fee; browser histories do not sync across devices.
+- To change practice behaviour, update `docs/flashcards.js`, `docs/styles.css`, README and these runbooks; add/update `scripts/test-flashcards.mjs`. GitHub Actions validates the tests.
