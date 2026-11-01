@@ -95,6 +95,10 @@
     "あんないしてくれた",
     "showed us around"
   ],
+  "案内役": [
+    "あんないやく",
+    "person acting as a guide"
+  ],
   "以前": [
     "いぜん",
     "previously"
@@ -263,6 +267,10 @@
     "えんげいてん",
     "garden centre"
   ],
+  "遠く": [
+    "とおく",
+    "in the distance"
+  ],
   "奥": [
     "おく",
     "back of the room"
@@ -291,6 +299,10 @@
     "おんど",
     "temperature"
   ],
+  "温度の変化": [
+    "おんどのへんか",
+    "change in temperature"
+  ],
   "温度変化": [
     "おんどへんか",
     "temperature change"
@@ -298,6 +310,18 @@
   "穏やか": [
     "おだやか",
     "mild; gentle"
+  ],
+  "音": [
+    "おと",
+    "sound"
+  ],
+  "音響デザイナー": [
+    "おんきょうデザイナー",
+    "sound designer"
+  ],
+  "下": [
+    "した",
+    "below; under"
   ],
   "下がりやすく": [
     "さがりやすく",
@@ -310,6 +334,10 @@
   "何": [
     "なに",
     "what"
+  ],
+  "何も": [
+    "なにも",
+    "nothing"
   ],
   "何気なく": [
     "なにげなく",
@@ -567,6 +595,10 @@
     "かんじられた",
     "was felt; could be sensed"
   ],
+  "感じる": [
+    "かんじる",
+    "feel; perceive"
+  ],
   "感想": [
     "かんそう",
     "impressions"
@@ -591,6 +623,10 @@
     "ゆるやかな",
     "gentle"
   ],
+  "緩やかに": [
+    "ゆるやかに",
+    "gradually; gently"
+  ],
   "観察": [
     "かんさつ",
     "observation"
@@ -614,6 +650,10 @@
   "含まれていた": [
     "ふくまれていた",
     "was included"
+  ],
+  "企画": [
+    "きかく",
+    "creative project; planned activity"
   ],
   "危険": [
     "きけん",
@@ -655,6 +695,14 @@
     "きげん",
     "deadline"
   ],
+  "機材": [
+    "きざい",
+    "equipment"
+  ],
+  "帰って": [
+    "かえって",
+    "after returning"
+  ],
   "帰り": [
     "かえり",
     "on the way home"
@@ -666,6 +714,10 @@
   "気づいた": [
     "きづいた",
     "noticed"
+  ],
+  "気づかなかった": [
+    "きづかなかった",
+    "hadn't noticed"
   ],
   "気づく": [
     "きづく",
@@ -710,6 +762,10 @@
   "記録してみたい": [
     "きろくしてみたい",
     "would like to try recording"
+  ],
+  "起きていない": [
+    "おきていない",
+    "nothing is happening"
   ],
   "脚": [
     "あし",
@@ -1187,6 +1243,10 @@
     "あわただしく",
     "hurriedly"
   ],
+  "控え": [
+    "ひかえ",
+    "refraining from; limiting"
+  ],
   "控えて": [
     "ひかえて",
     "write down"
@@ -1222,6 +1282,10 @@
   "購入": [
     "こうにゅう",
     "purchase"
+  ],
+  "郊外": [
+    "こうがい",
+    "outskirts of the city"
   ],
   "項目": [
     "こうもく",
@@ -1315,6 +1379,10 @@
     "さいぶ",
     "fine details"
   ],
+  "際": [
+    "さい",
+    "when; on the occasion"
+  ],
   "材料": [
     "ざいりょう",
     "materials"
@@ -1371,6 +1439,10 @@
     "さんそうガラス",
     "triple glazing; three-pane glass"
   ],
+  "参加した": [
+    "さんかした",
+    "participated in"
+  ],
   "参考になる": [
     "さんこうになる",
     "be useful as a reference"
@@ -1410,6 +1482,10 @@
   "残す": [
     "のこす",
     "retain"
+  ],
+  "残すこと": [
+    "のこすこと",
+    "the act of preserving or documenting"
   ],
   "残っている": [
     "のこっている",
@@ -1543,6 +1619,10 @@
     "おもえない",
     "cannot imagine or believe"
   ],
+  "思った": [
+    "おもった",
+    "thought; felt"
+  ],
   "支障": [
     "ししょう",
     "disruption or hindrance"
@@ -1627,6 +1707,10 @@
     "つぎは",
     "next time"
   ],
+  "耳を澄ます": [
+    "みみをすます",
+    "listen closely; strain one's ears"
+  ],
   "自然": [
     "しぜん",
     "nature"
@@ -1690,6 +1774,10 @@
   "斜面": [
     "しゃめん",
     "slope"
+  ],
+  "車": [
+    "くるま",
+    "car"
   ],
   "車椅子": [
     "くるまいす",
@@ -1775,6 +1863,10 @@
     "うけとりかた",
     "how to receive"
   ],
+  "収めて": [
+    "おさめて",
+    "stowed; put away"
+  ],
   "収穫": [
     "しゅうかく",
     "harvest"
@@ -1814,6 +1906,10 @@
   "終われば": [
     "おわれば",
     "when it finishes"
+  ],
+  "集める": [
+    "あつめる",
+    "gather; collect"
   ],
   "住まい": [
     "すまい",
@@ -1855,6 +1951,10 @@
     "かさなっていた",
     "was overlapping"
   ],
+  "重ねて": [
+    "かさねて",
+    "layering; overlapping"
+  ],
   "重ねながら": [
     "かさねながら",
     "while overlaying"
@@ -1862,6 +1962,10 @@
   "重要": [
     "じゅうよう",
     "important"
+  ],
+  "出た": [
+    "でた",
+    "was suggested; came up"
   ],
   "出る": [
     "でる",
@@ -2111,6 +2215,10 @@
     "しんぴん",
     "brand-new item"
   ],
+  "森": [
+    "もり",
+    "forest; woodland"
+  ],
   "深煎り": [
     "ふかいり",
     "dark roast"
@@ -2191,9 +2299,17 @@
     "すうじつかん",
     "several days"
   ],
+  "数分間じっと": [
+    "すうふんかんじっと",
+    "motionless for a few minutes"
+  ],
   "寸法": [
     "すんぽう",
     "dimensions"
+  ],
+  "性能": [
+    "せいのう",
+    "performance"
   ],
   "成長": [
     "せいちょう",
@@ -2239,6 +2355,10 @@
     "なまごみ",
     "food scraps"
   ],
+  "生じる": [
+    "しょうじる",
+    "occur; arise"
+  ],
   "生活": [
     "せいかつ",
     "daily life"
@@ -2246,6 +2366,10 @@
   "製品": [
     "せいひん",
     "product"
+  ],
+  "静けさ": [
+    "しずけさ",
+    "quietness; stillness"
   ],
   "昔": [
     "むかし",
@@ -2323,6 +2447,10 @@
     "せっけいし",
     "designer; architect"
   ],
+  "設置した": [
+    "せっちした",
+    "set up; installed"
+  ],
   "設定": [
     "せってい",
     "settings"
@@ -2375,6 +2503,10 @@
     "ゆきどけみず",
     "snowmelt water"
   ],
+  "雪景色": [
+    "ゆきげしき",
+    "snowy landscape"
+  ],
   "雪山": [
     "ゆきやま",
     "pile of snow"
@@ -2418,6 +2550,10 @@
   "選ばない": [
     "えらばない",
     "do not choose"
+  ],
+  "選び": [
+    "えらび",
+    "chose"
   ],
   "選びたい": [
     "えらびたい",
@@ -2579,6 +2715,10 @@
     "たいさく",
     "preventive measures"
   ],
+  "待つこと": [
+    "まつこと",
+    "the act of waiting"
+  ],
   "替えれば": [
     "かえれば",
     "if replaced"
@@ -2650,6 +2790,10 @@
   "断熱": [
     "だんねつ",
     "thermal insulation"
+  ],
+  "暖かい": [
+    "あたたかい",
+    "warm"
   ],
   "暖房": [
     "だんぼう",
@@ -3103,6 +3247,10 @@
     "とどきにくい",
     "hard to reach"
   ],
+  "内ポケット": [
+    "うちポケット",
+    "inside pocket"
+  ],
   "内装": [
     "ないそう",
     "interior finishing"
@@ -3143,9 +3291,17 @@
     "はいり",
     "entering"
   ],
+  "入り込まない": [
+    "はいりこまない",
+    "not enter or intrude"
+  ],
   "入る": [
     "はいる",
     "enter"
+  ],
+  "入れ": [
+    "いれ",
+    "put inside"
   ],
   "入れておけば": [
     "いれておけば",
@@ -3363,6 +3519,10 @@
     "ふだん",
     "normally"
   ],
+  "浮かび上がった": [
+    "うかびあがった",
+    "emerged; became apparent"
+  ],
   "負担": [
     "ふたん",
     "burden"
@@ -3370,6 +3530,10 @@
   "風": [
     "かぜ",
     "wind"
+  ],
+  "風の弱い": [
+    "かぜのよわい",
+    "with little wind"
   ],
   "風景": [
     "ふうけい",
@@ -3422,6 +3586,14 @@
   "聞き": [
     "きき",
     "listen"
+  ],
+  "聞き比べる": [
+    "ききくらべる",
+    "compare by listening"
+  ],
+  "聞こえる": [
+    "きこえる",
+    "can be heard"
   ],
   "並び": [
     "ならび",
@@ -3482,6 +3654,10 @@
   "片づけて": [
     "かたづけて",
     "clear away"
+  ],
+  "編集": [
+    "へんしゅう",
+    "editing"
   ],
   "保温材": [
     "ほおんざい",
@@ -3699,9 +3875,17 @@
     "よてい",
     "schedule; plan"
   ],
+  "予備": [
+    "よび",
+    "spare; backup"
+  ],
   "余裕": [
     "よゆう",
     "enough time or leeway"
+  ],
+  "揺れる": [
+    "ゆれる",
+    "sway; move"
   ],
   "様子": [
     "ようす",
@@ -3722,6 +3906,10 @@
   "頼む": [
     "たのむ",
     "to hire or ask"
+  ],
+  "落ちやすく": [
+    "おちやすく",
+    "liable to decline"
   ],
   "落ちる": [
     "おちる",
@@ -3750,6 +3938,10 @@
   "理解": [
     "りかい",
     "understanding"
+  ],
+  "離れた": [
+    "はなれた",
+    "some distance away"
   ],
   "立ち会い": [
     "たちあい",
@@ -3815,6 +4007,10 @@
     "たとえば",
     "for example"
   ],
+  "冷えた": [
+    "ひえた",
+    "chilled; cold"
+  ],
   "冷えやすく": [
     "ひえやすく",
     "prone to cooling"
@@ -3859,6 +4055,18 @@
     "ろめん",
     "road surface"
   ],
+  "録音": [
+    "ろくおん",
+    "audio recording"
+  ],
+  "録音する": [
+    "ろくおんする",
+    "record audio"
+  ],
+  "録音中": [
+    "ろくおんちゅう",
+    "during recording"
+  ],
   "和らげる": [
     "やわらげる",
     "moderate or soften"
@@ -3866,6 +4074,10 @@
   "話": [
     "はなし",
     "conversation"
+  ],
+  "話さず": [
+    "はなさず",
+    "without speaking"
   ],
   "話した": [
     "はなした",
