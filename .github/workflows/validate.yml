@@ -24,6 +24,10 @@ jobs:
       - name: Check JavaScript syntax
         run: |
           node --check docs/app.js
+          node --check docs/flashcards.js
+          node --check scripts/test-flashcards.mjs
           node --check scripts/validate.mjs
       - name: Validate published content
         run: node scripts/validate.mjs
+      - name: Test vocabulary and kanji flashcards
+        run: node scripts/test-flashcards.mjs
