@@ -4,7 +4,7 @@
 
 ## What this project is
 
-A lightweight Japanese reading and review website for a rusty former JLPT 2級 learner. The site has interactive hidden furigana on hover, contextual English definitions on click/tap, a dated archive, and review exercises with browser-local draft answers and **Copy answers** for ChatGPT.
+A lightweight Japanese reading, review and flashcard website for a rusty former JLPT 2級 learner. The site has interactive hidden furigana on hover, contextual English definitions on click/tap, a dated archive, review exercises with browser-local draft answers and **Copy answers** for ChatGPT, and vocabulary/kanji flashcards.
 
 - **Live site:** https://mattatgit.github.io/japanese-reader/
 - **Public website and reading content repo:** https://github.com/mattatgit/japanese-reader
@@ -58,3 +58,13 @@ The scheduled task contains its own check-in instructions. Do not rely on its ab
 ## Keeping this runbook current
 
 Whenever the website data format, publication mechanism, account permissions, deployment process or privacy model changes materially, update **this file** and the detailed `PUBLISHING.md` in the same work session. Do not record transient conversational opinions here; use it for agreed durable decisions and the actual operational state.
+
+## Vocabulary and kanji flashcards — added 2026-11-02
+
+- Website section: **Flashcards**, route `#/flashcards`. The static front-end (`docs/flashcards.js`) uses existing `docs/data/readings.json` and `docs/data/lexicon.json`; all subsequent reading vocabulary is available automatically without additional publishing steps.
+- **Vocabulary:** Japanese word on the front; recall kana and meaning. **Kanji:** kana and English meaning on the front; recall/write Japanese characters. Answers are revealed and the learner self-assesses.
+- Scope: terms from the last seven published readings, all published readings, the full public lexicon, or a locally imported personal vocabulary list. Search filters word, kana and English.
+- Ten-card sessions prioritise due and unseen cards. **Again** makes the term due for a subsequent session; **Remembered** schedules intervals of 1/3/7/14/30/60 days, separately for vocabulary and kanji modes.
+- **Privacy:** the static public website neither reads the private `mattatgit/japanese` repository nor sends flashcard progress to a server. The user can locally import the private `vocabulary.md` (upload a local Markdown/text file or paste its tables); only word, kana and meaning are stored in browser localStorage, not personal grading notes. All review ratings stay local. No cross-device synchronization or API key.
+- GitHub Actions validation additionally runs `node scripts/test-flashcards.mjs` and syntax-checks `docs/flashcards.js` along with existing tests.
+- Do not publish personal weak-point lists, scores, or learning history to the public GitHub repo in order to populate the flashcards. Importing locally is the opt-in route for private-only vocabulary.
