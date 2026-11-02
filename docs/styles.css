@@ -92,7 +92,7 @@ footer{display:flex;gap:15px;justify-content:space-between;flex-wrap:wrap;color:
 @media(max-width:620px){.topbar nav{justify-content:flex-start;flex-wrap:wrap}.topbar nav a{padding:9px 11px}.fc-controls{grid-template-columns:1fr}.fc-stats{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:16px}.fc-stats>div:nth-child(2){border-right:0}.fc-stats>div:nth-child(3),.fc-stats>div:nth-child(4){border-top:1px solid var(--line);padding-top:14px}.fc-practice-actions{grid-template-columns:1fr}.fc-grade{flex-direction:column}.fc-grade .btn{max-width:none}.fc-modes{display:flex}.fc-mode{min-width:0;flex:1}.fc-flashcard{min-height:270px;padding:25px 18px}}
 
 
-.vocab-tip .btn{display:block;margin:10px 0 6px;font-size:12px;min-height:38px}
+.vocab-tip .btn{color:#fff;display:block;margin:10px 0 6px;font-size:12px;min-height:38px}
 .vocab-tip a{display:block;color:#e3f1e5;margin-top:8px}
 .vocab-tip{max-height:calc(100vh - 20px);overflow-y:auto}
 .fc-sidebar input[type=file],.fc-sidebar textarea{max-width:100%;box-sizing:border-box}
