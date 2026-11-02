@@ -43,3 +43,14 @@ The proof-of-concept ChatGPT scheduled write was blocked by OpenAI safety checks
 **See [AUTOMATION.md](AUTOMATION.md) for exact setup**, including the `OPENAI_API_KEY` secret, `PUBLISH_ENABLED` and `CUSTOM_PAGES_DEPLOY` variables, the Pages source switch from branch publishing to GitHub Actions, and the manual test sequence. The `scripts/publish.py` content generator requires a separately billed OpenAI API key for live publication; the main website itself never needs one.
 
 The existing ChatGPT reminder tasks are not disabled by this change. Do not treat a successful content commit as proof that GitHub Pages deployed successfully; automated commits must explicitly dispatch the deployment workflow.
+
+
+See the saved-word and private progress workflow in [PUBLISHING.md](PUBLISHING.md).
+
+## Saved words and private progress transfer — 2026-11-02
+
+Reading popups include **Save to flashcards**. The **My saved words** deck works in vocabulary and kanji modes without resetting existing ratings. **Download private backup** exports saved/imported words and both modes’ ratings; **Import progress backup** validates, previews and explicitly merges it. Existing words are retained and newer per-card timestamps win; offline conflicts are not summed. Legacy local data is preserved. Backups are private plaintext, and do not include typed attempts or review drafts.
+
+For cross-device transfer, export → attach in interactive ChatGPT → approve a concrete merge into PRIVATE `mattatgit/japanese` → download merged JSON → import on the other device. The site’s **Copy save request** guides this handoff. Nothing uploads automatically. No GitHub credentials, extra hosting or API billing are introduced. Automatic sync would require separately approved authenticated infrastructure or a trusted local helper.
+
+The canonical schema, limits, conflict rules, private snapshot/approval procedure and verification checklist are in [PUBLISHING.md](PUBLISHING.md#saved-words-progress-backups-and-private-cross-device-transfer--2026-11-02). The offline `scripts/merge-flashcards.mjs` helper uses the same validator/merge rules; keep real result files outside this public checkout. Never publish personal results to `japanese-reader`.

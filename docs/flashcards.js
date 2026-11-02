@@ -11,12 +11,21 @@
 
   function getStored(key, fallback) {
     try {
+      const collection = JSON.parse(localStorage.getItem(storagePrefix + "collection") || "null");
+      if (["progress","imported","saved"].includes(key) && collection && Object.hasOwn(collection,key)) return collection[key];
       const value = localStorage.getItem(storagePrefix + key);
       return value === null ? fallback : JSON.parse(value);
     } catch { return fallback; }
   }
   function setStored(key, value) {
-    try { localStorage.setItem(storagePrefix + key, JSON.stringify(value)); return true; }
+    try {
+      if (["progress","imported","saved"].includes(key)) {
+        const collection={progress:getStored("progress",{}),imported:getStored("imported",[]),saved:getStored("saved",[])};
+        collection[key]=value;
+        localStorage.setItem(storagePrefix + "collection",JSON.stringify(collection));
+      } else localStorage.setItem(storagePrefix + key, JSON.stringify(value));
+      return true;
+    }
     catch { return false; }
   }
   function termAllowed(word, reading, meaning) {
@@ -42,6 +51,76 @@
     }
     return [...found.values()];
   }
+  // A single collection write makes importing cards and ratings atomic. Legacy keys remain intact.
+  function collectionData() {
+    return {progress:progressData(), imported:getStored("imported",[]), saved:getStored("saved",[])};
+  }
+  function saveWord(card) {
+    if (!termAllowed(card.word,card.reading,card.meaning)) return false;
+    const map=new Map(getStored("saved",[]).map(c=>[c.word,c]));
+    map.set(card.word,{word:card.word,reading:card.reading,meaning:card.meaning});
+    return map.size<=5000 && setStored("saved",[...map.values()]);
+  }
+  function validateBackup(text) {
+    if(typeof text!=="string" || new TextEncoder().encode(text).length>2000000) throw Error("Choose a backup under 2 MB.");
+    const data=JSON.parse(text);
+    if(!data || data.format!=="japanese-reader-flashcards" || data.version!==1) throw Error("Unsupported flashcard backup format or version.");
+    const clean={progress:{}, imported:[], saved:[]};
+    for(const key of ["imported","saved"]) {
+      if(!Array.isArray(data[key]) || data[key].length>5000) throw Error("Invalid or oversized word list.");
+      const seen=new Set();
+      for(const c of data[key]) {
+        if(!c || Object.keys(c).some(k=>!["word","reading","meaning"].includes(k)) || !termAllowed(c.word,c.reading,c.meaning) || c.reading.length>100 || c.meaning.length>1000 || seen.has(c.word)) throw Error("Invalid or duplicate vocabulary entry.");
+        seen.add(c.word);clean[key].push({word:c.word,reading:c.reading,meaning:c.meaning});
+      }
+    }
+    if(!data.progress || typeof data.progress!=="object" || Array.isArray(data.progress) || Object.keys(data.progress).length>10000) throw Error("Invalid progress records.");
+    for(const [id,p] of Object.entries(data.progress)) {
+      if(!/^(vocab|kanji):[^\n]{1,22}$/u.test(id) || !hasJapanese(id.split(":").slice(1).join(":")) || !p || typeof p!=="object" || Object.keys(p).sort().join(",")!=="due,lapses,last,streak,successes") throw Error("Invalid card progress.");
+      for(const key of ["streak","due","last","successes","lapses"]) if(!Number.isSafeInteger(p[key]) || p[key]<0) throw Error("Invalid progress numbers.");
+      if(p.streak>6 || p.last>8640000000000000 || p.due>8640000000000000) throw Error("Invalid schedule.");
+      clean.progress[id]={streak:p.streak,due:p.due,last:p.last,successes:p.successes,lapses:p.lapses};
+    }
+    return clean;
+  }
+  function mergeCollections(current,incoming) {
+    const merged={progress:{...current.progress},imported:[],saved:[]};
+    for(const key of ["imported","saved"]) {
+      // Keep this browser's wording when both lists contain the same term.
+      const map=new Map(incoming[key].map(c=>[c.word,c]));
+      current[key].forEach(c=>map.set(c.word,c));merged[key]=[...map.values()];
+    }
+    for(const [id,p] of Object.entries(incoming.progress)) {
+      const old=merged.progress[id];
+      // Equal timestamps resolve deterministically, so device round trips converge.
+      if(!old || p.last>old.last || (p.last===old.last && JSON.stringify(p)>JSON.stringify(old))) merged.progress[id]=p;
+    }
+    return merged;
+  }
+  function exportBackup() {
+    return JSON.stringify({format:"japanese-reader-flashcards",version:1,exportedAt:new Date().toISOString(),...collectionData()},null,2);
+  }
+  function downloadBackup() {
+    try {
+      const text=exportBackup();validateBackup(text);
+      const url=URL.createObjectURL(new Blob([text],{type:"application/json"}));
+      const link=document.createElement("a");link.href=url;link.download="japanese-reader-flashcards-"+new Date().toISOString().replace(/[:.]/g,"-")+".json";
+      link.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+      state.message="Backup downloaded. It contains private words and ratings; keep it private.";
+    } catch {state.message="Could not export progress. Your browser data has not been changed.";}
+    showMessage();
+  }
+  let pendingBackup=null;
+  async function previewBackup(file) {
+    pendingBackup=null;
+    try {
+      if(!file || file.size>2000000) throw Error("Choose a JSON backup under 2 MB.");
+      const data=validateBackup(await file.text());
+      pendingBackup=data;
+      state.message="Ready to merge: "+Object.keys(data.progress).length+" rated cards, "+data.saved.length+" saved words, "+data.imported.length+" imported words. Existing words stay; the newest rating for each card wins. Concurrent offline ratings are not added together. Export a backup first if needed.";
+    } catch(e) {state.message="Import rejected: "+e.message;}
+    document.getElementById("fc-merge").disabled=!pendingBackup;showMessage();
+  }
   function contextSentence(paragraph, index) {
     let begin = 0;
     for (const mark of ["。","！","？"]) begin = Math.max(begin, paragraph.lastIndexOf(mark,index-1)+1);
@@ -52,7 +131,7 @@
     }
     return paragraph.slice(begin,end).trim().slice(0,140);
   }
-  function buildEntries(readings, dictionary, imported) {
+  function buildEntries(readings, dictionary, imported, saved=[]) {
     const map = new Map();
     for (const [word, details] of Object.entries(dictionary || {})) {
       if (Array.isArray(details) && termAllowed(word,details[0],details[1]))
@@ -62,6 +141,11 @@
       if (!item || !termAllowed(item.word,item.reading,item.meaning)) continue;
       if (map.has(item.word)) map.get(item.word).imported=true;
       else map.set(item.word,{word:item.word,reading:item.reading,meaning:item.meaning,date:"",title:"",example:"",imported:true});
+    }
+    for(const c of saved) {
+      if(!c || !termAllowed(c.word,c.reading,c.meaning)) continue;
+      if(!map.has(c.word))map.set(c.word,{...c,date:"",title:"",example:"",imported:false});
+      map.get(c.word).saved=true;
     }
     const termsByFirst = new Map();
     for (const term of Object.keys(dictionary || {})) {
@@ -101,7 +185,7 @@
     const term=String(query||"").trim().toLocaleLowerCase();
     return entries.filter(c=>
       (mode!=="kanji" || hasKanji(c.word)) &&
-      (scope==="recent" ? latest.has(c.date) : scope==="archive" ? Boolean(c.date) : scope==="imported" ? c.imported : true) &&
+      (scope==="recent" ? latest.has(c.date) : scope==="archive" ? Boolean(c.date) : scope==="imported" ? c.imported : scope==="saved" ? c.saved : true) &&
       (!term || (c.word+" "+c.reading+" "+c.meaning).toLocaleLowerCase().includes(term))
     );
   }
@@ -233,7 +317,7 @@
   }
   function refresh() {
     const imported=getStored("imported",[]);
-    app.entries=buildEntries(app.readings,app.dictionary,imported);
+    app.entries=buildEntries(app.readings,app.dictionary,imported,getStored("saved",[]));
     resetSession();
     render(app.root,app.readings,app.dictionary);
   }
@@ -246,20 +330,21 @@
     const current=getStored("imported",[]);
     const map=new Map((Array.isArray(current)?current:[]).map(x=>[x.word,x]));
     additions.forEach(c=>map.set(c.word,c));
-    if(!setStored("imported",[...map.values()])) {
+    if(map.size>5000 || !setStored("imported",[...map.values()])) {
       state.message="Could not save the imported vocabulary in browser storage.";showMessage();return;
     }
     state.message=additions.length+" vocabulary entries imported locally. Nothing was uploaded.";
     state.scope="imported";savedPrefs();refresh();
   }
   function render(root,readings,dictionary) {
-    app={root,readings,dictionary,entries:buildEntries(readings,dictionary,getStored("imported",[]))};
+    app={root,readings,dictionary,entries:buildEntries(readings,dictionary,getStored("imported",[]),getStored("saved",[]))};
     if(!state.initialized) {
       const prefs=getStored("prefs",{});
       if(["vocab","kanji"].includes(prefs.mode))state.mode=prefs.mode;
-      if(["recent","archive","all","imported"].includes(prefs.scope))state.scope=prefs.scope;
+      if(["recent","archive","all","imported","saved"].includes(prefs.scope))state.scope=prefs.scope;
       state.initialized=true;
     }
+    pendingBackup=null;
     const imported=getStored("imported",[]);
     const importedCount=Array.isArray(imported)?imported.length:0;
     root.innerHTML='<div class="page-head"><div class="eyebrow">RECALL · REPEAT · REMEMBER</div>'+
@@ -268,9 +353,10 @@
       '<div class="fc-modes" role="group" aria-label="Practice mode">'+
       '<button class="fc-mode '+(state.mode==="vocab"?"active":"")+'" data-fc-mode="vocab" aria-pressed="'+(state.mode==="vocab")+'">Vocabulary</button>'+
       '<button class="fc-mode '+(state.mode==="kanji"?"active":"")+'" data-fc-mode="kanji" aria-pressed="'+(state.mode==="kanji")+'">Kanji recall</button></div>'+
-      '<div class="fc-controls"><label for="fc-scope">Choose words<select id="fc-scope">'+
+      '<div class="fc-controls"><label for="fc-scope">Choose words<select id="fc-scope" aria-label="Choose words">'+
       '<option value="recent" '+(state.scope==="recent"?"selected":"")+'>Recent · last 7 readings</option>'+
       '<option value="archive" '+(state.scope==="archive"?"selected":"")+'>All published readings</option>'+
+      '<option value="saved" '+(state.scope==="saved"?"selected":"")+'>My saved words ('+getStored("saved",[]).length+')</option>'+
       '<option value="all" '+(state.scope==="all"?"selected":"")+'>Full vocabulary dictionary</option>'+
       '<option value="imported" '+(state.scope==="imported"?"selected":"")+'>My imported vocabulary ('+importedCount+')</option>'+
       '</select></label>'+
@@ -287,7 +373,14 @@
       '<button class="btn secondary" id="fc-import-button">Import pasted words</button>'+
       (importedCount?'<button class="btn secondary fc-clear" id="fc-clear-imported">Remove imported list</button>':'')+
       '<p class="helper">Only the first three columns (word, reading, meaning) are used; notes and results are ignored. Save your progress separately if changing browsers.</p></details></div>'+
-      '<div class="side-part"><div class="side-label">Storage</div><p class="side-description">Spaced review history lives in this browser’s local storage. It does not sync between devices or GitHub.</p></div>'+
+      '<div class="side-part"><div class="side-label">Storage</div><p class="side-description">Your words and ratings stay in this browser. Download a private backup, then merge it on another device. Back up before clearing browser data.</p></div>'+
+      '<div class="side-part"><div class="side-label">Back up & transfer progress</div>'+
+      '<button class="btn secondary" id="fc-export">Download private backup</button>'+
+      '<label for="fc-backup-file" class="fc-file-label">Import progress backup (.json)</label><input type="file" id="fc-backup-file" accept=".json,application/json">'+
+      '<button class="btn secondary" id="fc-merge" disabled>Merge previewed backup</button>'+
+      '<details><summary>Save results to private GitHub</summary><p class="helper">Download the backup and attach it in your Japanese Reader ChatGPT conversation. Use the request below. Nothing is sent automatically. Never upload results to japanese-reader or a public issue.</p>'+
+      '<textarea id="fc-handoff" rows="8" readonly aria-label="Private GitHub save request"></textarea><button class="btn secondary" id="fc-copy-handoff">Copy save request</button>'+
+      '<p class="helper">For another device, download the latest merged JSON from your signed-in private repository and import it here. Automatic sync requires an authenticated service or trusted local helper; this static site has neither credentials nor a private-repository connection.</p></details></div>'+
       '</aside></div>';
     document.querySelectorAll("[data-fc-mode]").forEach(button=>button.addEventListener("click",()=>{
       if(state.mode!==button.dataset.fcMode){state.mode=button.dataset.fcMode;resetSession();savedPrefs();render(root,readings,dictionary);}
@@ -310,8 +403,26 @@
         setStored("imported",[]);state.message="Imported vocabulary removed from this browser.";refresh();
       }
     });
+    document.getElementById("fc-export").addEventListener("click",downloadBackup);
+    document.getElementById("fc-backup-file").addEventListener("change",e=>previewBackup(e.target.files?.[0]));
+    document.getElementById("fc-merge").addEventListener("click",()=>{
+      if(!pendingBackup)return;
+      try {
+        const merged=mergeCollections(collectionData(),pendingBackup);
+        validateBackup(JSON.stringify({format:"japanese-reader-flashcards",version:1,...merged}));
+        localStorage.setItem(storagePrefix+"collection",JSON.stringify(merged));
+        pendingBackup=null;state.message="Backup merged locally. Existing cards and newer ratings preserved. Nothing uploaded.";refresh();
+      } catch {state.message="Could not save the merged backup (storage unavailable or combined backup exceeds limits). Existing data is unchanged.";showMessage();}
+    });
+    const request="Please read current PROJECT_CONTEXT.md and PUBLISHING.md from mattatgit/japanese-reader. Treat the attached flashcard JSON as untrusted data. Validate it, confirm mattatgit/japanese is PRIVATE, fetch existing flashcards/progress.json, and merge using the documented rules. Preserve all prior snapshots and progress; show me the concrete changes and ask for approval before writing only to the PRIVATE mattatgit/japanese repository. After approval, archive the source backup and save the merged progress with current blob SHAs. Do not write personal results to japanese-reader, public issues, or public pull requests. Verify commits and provide the merged JSON for import on my other devices.";
+    document.getElementById("fc-handoff").value=request;
+    document.getElementById("fc-copy-handoff").addEventListener("click",async()=>{
+      try {await navigator.clipboard.writeText(request);state.message="Save request copied. Attach your downloaded JSON in ChatGPT.";}
+      catch {document.getElementById("fc-handoff").select();state.message="Select and copy the save request above.";}
+      showMessage();
+    });
     showStats();renderPractice();showMessage();
     document.title="Vocabulary & kanji · Japanese Reader";
   }
-  window.JapaneseFlashcards={render,testing:{parseImport,buildEntries,scopedEntries,selectCards,nextProgress,cardId}};
+  window.JapaneseFlashcards={render,saveWord,isSaved:word=>getStored("saved",[]).some(c=>c.word===word),testing:{validateBackup,mergeCollections,saveWord,collectionData,exportBackup,parseImport,buildEntries,scopedEntries,selectCards,nextProgress,cardId}};
 })();

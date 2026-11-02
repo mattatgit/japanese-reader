@@ -20,7 +20,15 @@
     closeTip();activeWord=word;word.classList.add("selected");
     const r=document.createElement("strong"),m=document.createElement("div");
     r.textContent=word.dataset.reading;m.textContent=word.dataset.meaning;
-    tip.replaceChildren(r,m);tip.hidden=false;
+    const save=document.createElement("button");save.className="btn secondary";
+    const card={word:word.dataset.word,reading:word.dataset.reading,meaning:word.dataset.meaning};
+    save.textContent=window.JapaneseFlashcards.isSaved(card.word)?"✓ Saved to flashcards":"Save to flashcards";
+    save.addEventListener("click",()=>{
+      if(window.JapaneseFlashcards.saveWord(card)) {save.textContent="✓ Saved to flashcards";notify("Saved in My saved words · this browser");}
+      else notify("Could not save this word. Browser storage may be full or unavailable.");
+    });
+    const practice=document.createElement("a");practice.href="#/flashcards";practice.textContent="Open flashcards →";
+    tip.replaceChildren(r,m,save,practice);tip.hidden=false;
     requestAnimationFrame(()=>{
       const pos=word.getBoundingClientRect(),w=tip.offsetWidth,h=tip.offsetHeight;
       const ww=document.documentElement.clientWidth,wh=document.documentElement.clientHeight;
@@ -46,7 +54,7 @@
         const record=dictionary[match];
         word.className="word";word.tabIndex=0;word.setAttribute("role","button");
         word.setAttribute("aria-label",match+"; reveal pronunciation and meaning");
-        word.dataset.reading=record[0];word.dataset.meaning=record[1];
+        word.dataset.word=match;word.dataset.reading=record[0];word.dataset.meaning=record[1];
         word.append(document.createTextNode(match));
         ruby.className="ruby";ruby.textContent=record[0];ruby.setAttribute("aria-hidden","true");word.append(ruby);
         word.addEventListener("click",event=>{event.stopPropagation();activeWord===word?closeTip():showTip(word);});
@@ -221,3 +229,4 @@
   }
   init();
 })();
+
