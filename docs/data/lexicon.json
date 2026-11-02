@@ -67,9 +67,17 @@
     "やすく",
     "inexpensive; cheaply"
   ],
+  "安易に": [
+    "あんいに",
+    "carelessly; without considering the risks"
+  ],
   "安心": [
     "あんしん",
     "peace of mind"
+  ],
+  "安心につながる": [
+    "あんしんにつながる",
+    "lead to peace of mind"
   ],
   "安全": [
     "あんぜん",
@@ -147,9 +155,17 @@
     "そだって",
     "maturing"
   ],
+  "一か所": [
+    "いっかしょ",
+    "one designated place"
+  ],
   "一つずつ": [
     "ひとつずつ",
     "one by one"
+  ],
+  "一酸化炭素中毒": [
+    "いっさんかたんそちゅうどく",
+    "carbon monoxide poisoning"
   ],
   "一時的": [
     "いちじてき",
@@ -219,6 +235,10 @@
     "ひっこして",
     "having moved house"
   ],
+  "引っ越す": [
+    "ひっこす",
+    "move house"
+  ],
   "飲み比べ": [
     "のみくらべ",
     "comparison tasting"
@@ -234,6 +254,10 @@
   "飲んだ": [
     "のんだ",
     "drank"
+  ],
+  "飲料水": [
+    "いんりょうすい",
+    "drinking water"
   ],
   "隠れ": [
     "かくれ",
@@ -334,6 +358,10 @@
   "何": [
     "なに",
     "what"
+  ],
+  "何でも": [
+    "なんでも",
+    "anything; whatever"
   ],
   "何も": [
     "なにも",
@@ -459,6 +487,10 @@
     "かいてきさ",
     "comfort"
   ],
+  "懐中電灯": [
+    "かいちゅうでんとう",
+    "flashlight; torch"
+  ],
   "改修": [
     "かいしゅう",
     "renovation; refurbishment"
@@ -491,6 +523,10 @@
     "がいかん",
     "exterior appearance"
   ],
+  "外出しにくい": [
+    "がいしゅつしにくい",
+    "hard to go outside"
+  ],
   "街": [
     "まち",
     "town; neighbourhood"
@@ -522,6 +558,10 @@
   "確認した": [
     "かくにんした",
     "checked"
+  ],
+  "確認する": [
+    "かくにんする",
+    "check; verify"
   ],
   "確保": [
     "かくほ",
@@ -698,6 +738,10 @@
   "機材": [
     "きざい",
     "equipment"
+  ],
+  "機種": [
+    "きしゅ",
+    "model; type of equipment"
   ],
   "帰って": [
     "かえって",
@@ -898,6 +942,10 @@
   "形": [
     "かたち",
     "shape"
+  ],
+  "携帯用": [
+    "けいたいよう",
+    "portable; intended to be carried"
   ],
   "景色": [
     "けしき",
@@ -1559,6 +1607,10 @@
     "つかうひと",
     "the people who use it"
   ],
+  "使えなくなる": [
+    "つかえなくなる",
+    "become unusable"
+  ],
   "使える": [
     "つかえる",
     "can use"
@@ -1590,6 +1642,10 @@
   "使用": [
     "しよう",
     "use; operation"
+  ],
+  "使用できる": [
+    "しようできる",
+    "can be used or operated"
   ],
   "司書": [
     "ししょ",
@@ -1638,6 +1694,14 @@
   "枝": [
     "えだ",
     "branch"
+  ],
+  "止まった": [
+    "とまった",
+    "stopped; ceased operating"
+  ],
+  "止まる": [
+    "とまる",
+    "stop; cease operating"
   ],
   "紙": [
     "かみ",
@@ -1755,6 +1819,10 @@
     "しつもん",
     "question"
   ],
+  "質問したい": [
+    "しつもんしたい",
+    "want to ask"
+  ],
   "実際": [
     "じっさい",
     "in practice"
@@ -1807,6 +1875,10 @@
     "とり",
     "allowing or setting aside (space)"
   ],
+  "取り出しやすい": [
+    "とりだしやすい",
+    "easy to take out"
+  ],
   "取り出せる": [
     "とりだせる",
     "can take out"
@@ -1822,6 +1894,10 @@
   "取る": [
     "とる",
     "allocate or provide space"
+  ],
+  "取扱説明書": [
+    "とりあつかいせつめいしょ",
+    "equipment instruction manual"
   ],
   "取引先": [
     "とりひきさき",
@@ -1931,6 +2007,14 @@
     "じゅうたくがい",
     "residential neighbourhood"
   ],
+  "充実している": [
+    "じゅうじつしている",
+    "is well equipped"
+  ],
+  "充電済み": [
+    "じゅうでんずみ",
+    "already charged"
+  ],
   "十月": [
     "じゅうがつ",
     "October"
@@ -1958,6 +2042,10 @@
   "重ねながら": [
     "かさねながら",
     "while overlaying"
+  ],
+  "重ねる": [
+    "かさねる",
+    "repeat; accumulate"
   ],
   "重要": [
     "じゅうよう",
@@ -2026,6 +2114,10 @@
   "書き込み": [
     "かきこみ",
     "marking or drawing onto"
+  ],
+  "書き出した": [
+    "かきだした",
+    "wrote out as a list"
   ],
   "助言": [
     "じょげん",
@@ -2306,6 +2398,10 @@
   "寸法": [
     "すんぽう",
     "dimensions"
+  ],
+  "制御": [
+    "せいぎょ",
+    "control or regulation of a device"
   ],
   "性能": [
     "せいのう",
@@ -2599,6 +2695,10 @@
     "そうぞうしてみた",
     "tried imagining"
   ],
+  "想定し": [
+    "そうていし",
+    "anticipate; allow for"
+  ],
   "掃除": [
     "そうじ",
     "cleaning"
@@ -2654,6 +2754,10 @@
   "装備": [
     "そうび",
     "gear; equipment"
+  ],
+  "送風": [
+    "そうふう",
+    "fan-driven air circulation"
   ],
   "増やしすぎる": [
     "ふやしすぎる",
@@ -2999,6 +3103,14 @@
     "ていぼく",
     "shrub"
   ],
+  "停電": [
+    "ていでん",
+    "power outage"
+  ],
+  "停電時": [
+    "ていでんじ",
+    "during a power outage"
+  ],
   "定期的": [
     "ていきてき",
     "regular"
@@ -3107,6 +3219,10 @@
     "つたえる",
     "communicate"
   ],
+  "電気": [
+    "でんき",
+    "electricity"
+  ],
   "電池": [
     "でんち",
     "battery"
@@ -3166,6 +3282,10 @@
   "湯": [
     "ゆ",
     "hot water"
+  ],
+  "灯油": [
+    "とうゆ",
+    "kerosene; heating oil"
   ],
   "当時": [
     "とうじ",
@@ -3238,6 +3358,10 @@
   "特徴": [
     "とくちょう",
     "characteristics; features"
+  ],
+  "読み": [
+    "よみ",
+    "read; reading"
   ],
   "突然": [
     "とつぜん",
@@ -3323,6 +3447,10 @@
     "ねつ",
     "heat"
   ],
+  "燃焼器具": [
+    "ねんしょうきぐ",
+    "fuel-burning appliance"
+  ],
   "濃くて": [
     "こくて",
     "rich/strong and"
@@ -3374,6 +3502,10 @@
   "買い": [
     "かい",
     "buying"
+  ],
+  "買い足す": [
+    "かいたす",
+    "buy additional items"
   ],
   "買い替えた": [
     "かいかえた",
@@ -3434,6 +3566,14 @@
   "費用": [
     "ひよう",
     "cost"
+  ],
+  "避けたい": [
+    "さけたい",
+    "want to avoid"
+  ],
+  "備えて": [
+    "そなえて",
+    "prepare for; be ready for"
   ],
   "尾根": [
     "おね",
@@ -3547,9 +3687,17 @@
     "ふっきゅう",
     "restoration"
   ],
+  "復旧後": [
+    "ふっきゅうご",
+    "after service is restored"
+  ],
   "幅": [
     "はば",
     "width"
+  ],
+  "物": [
+    "もの",
+    "things; items"
   ],
   "分からない": [
     "わからない",
@@ -3579,6 +3727,10 @@
     "ふんいき",
     "character or atmosphere"
   ],
+  "聞いた": [
+    "きいた",
+    "heard; was told"
+  ],
   "聞いておく": [
     "きいておく",
     "ask about in advance"
@@ -3590,6 +3742,10 @@
   "聞き比べる": [
     "ききくらべる",
     "compare by listening"
+  ],
+  "聞く際": [
+    "きくさい",
+    "when asking or listening"
   ],
   "聞こえる": [
     "きこえる",
@@ -3879,6 +4035,10 @@
     "よび",
     "spare; backup"
   ],
+  "予備電源": [
+    "よびでんげん",
+    "backup power source"
+  ],
   "余裕": [
     "よゆう",
     "enough time or leeway"
@@ -3906,6 +4066,10 @@
   "頼む": [
     "たのむ",
     "to hire or ask"
+  ],
+  "頼らず": [
+    "たよらず",
+    "without relying on"
   ],
   "落ちやすく": [
     "おちやすく",
