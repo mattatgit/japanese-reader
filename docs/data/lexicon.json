@@ -231,9 +231,17 @@
     "ひきかえせる",
     "can turn back"
   ],
+  "引っ越し": [
+    "ひっこし",
+    "moving house"
+  ],
   "引っ越して": [
     "ひっこして",
     "having moved house"
+  ],
+  "引っ越し業者": [
+    "ひっこしぎょうしゃ",
+    "moving company"
   ],
   "引っ越す": [
     "ひっこす",
@@ -282,6 +290,14 @@
   "運びやすい": [
     "はこびやすい",
     "easy to carry or move"
+  ],
+  "運ぶ": [
+    "はこぶ",
+    "carry; transport"
+  ],
+  "運べる": [
+    "はこべる",
+    "can transport or carry"
   ],
   "影": [
     "かげ",
@@ -475,6 +491,14 @@
     "かいせん",
     "communications line"
   ],
+  "回転": [
+    "かいてん",
+    "rotation; turning"
+  ],
+  "回転させる": [
+    "かいてんさせる",
+    "rotate; turn something"
+  ],
   "回覧板": [
     "かいらんばん",
     "neighbourhood circular"
@@ -514,6 +538,10 @@
   "開ける": [
     "あける",
     "make or open (a hole)"
+  ],
+  "開口部": [
+    "かいこうぶ",
+    "opening in a wall or doorway"
   ],
   "外す": [
     "はずす",
@@ -555,6 +583,10 @@
     "かくにん",
     "check"
   ],
+  "確認し": [
+    "かくにんし",
+    "check; verify"
+  ],
   "確認した": [
     "かくにんした",
     "checked"
@@ -570,6 +602,10 @@
   "確保したい": [
     "かくほしたい",
     "want to ensure or reserve"
+  ],
+  "角": [
+    "かど",
+    "corner or edge"
   ],
   "楽しい": [
     "たのしい",
@@ -767,6 +803,10 @@
     "きづく",
     "notice"
   ],
+  "気づける": [
+    "きづける",
+    "can notice or realise"
+  ],
   "気になった": [
     "きになった",
     "was concerned about"
@@ -782,6 +822,10 @@
   "気を配る": [
     "きをくばる",
     "pay attention to"
+  ],
+  "気を付けたい": [
+    "きをつけたい",
+    "want to take care or be cautious"
   ],
   "気温": [
     "きおん",
@@ -883,6 +927,10 @@
     "はし",
     "bridge"
   ],
+  "狭い": [
+    "せまい",
+    "narrow; cramped"
+  ],
   "興味深かった": [
     "きょうみぶかかった",
     "was interesting"
@@ -978,6 +1026,10 @@
   "決めず": [
     "きめず",
     "without deciding"
+  ],
+  "決めて": [
+    "きめて",
+    "decide; determine"
   ],
   "決めておく": [
     "きめておく",
@@ -1090,6 +1142,10 @@
   "見比べる": [
     "みくらべる",
     "compare by looking"
+  ],
+  "見落としていた": [
+    "みおとしていた",
+    "had overlooked"
   ],
   "見落とせない": [
     "みおとせない",
@@ -1347,6 +1403,10 @@
     "たかく",
     "high"
   ],
+  "高さ": [
+    "たかさ",
+    "height"
+  ],
   "合った": [
     "あった",
     "suited to; fitting"
@@ -1410,6 +1470,10 @@
   "最大": [
     "さいだい",
     "maximum; up to"
+  ],
+  "採寸": [
+    "さいすん",
+    "taking measurements"
   ],
   "細い": [
     "ほそい",
@@ -1735,6 +1799,14 @@
     "もちぬし",
     "previous owner"
   ],
+  "持ち上げ": [
+    "もちあげ",
+    "lifting up"
+  ],
+  "持ち上げる": [
+    "もちあげる",
+    "lift up"
+  ],
   "持っている": [
     "もっている",
     "having; carrying"
@@ -1839,6 +1911,10 @@
     "すてる",
     "throw away"
   ],
+  "斜め": [
+    "ななめ",
+    "diagonally; at an angle"
+  ],
   "斜面": [
     "しゃめん",
     "slope"
@@ -1874,6 +1950,10 @@
   "取り": [
     "とり",
     "allowing or setting aside (space)"
+  ],
+  "取り外せる": [
+    "とりはずせる",
+    "can be detached or removed"
   ],
   "取り出しやすい": [
     "とりだしやすい",
@@ -2051,6 +2131,10 @@
     "じゅうよう",
     "important"
   ],
+  "出した": [
+    "だした",
+    "proposed; put forward"
+  ],
   "出た": [
     "でた",
     "was suggested; came up"
@@ -2114,6 +2198,14 @@
   "書き込み": [
     "かきこみ",
     "marking or drawing onto"
+  ],
+  "書き込む": [
+    "かきこむ",
+    "mark or write onto"
+  ],
+  "書き込むこと": [
+    "かきこむこと",
+    "writing or marking onto something"
   ],
   "書き出した": [
     "かきだした",
@@ -2459,6 +2551,10 @@
     "せいかつ",
     "daily life"
   ],
+  "製作者": [
+    "せいさくしゃ",
+    "maker; creator"
+  ],
   "製品": [
     "せいひん",
     "product"
@@ -2695,6 +2791,10 @@
     "そうぞうしてみた",
     "tried imagining"
   ],
+  "想像する": [
+    "そうぞうする",
+    "imagine; visualise"
+  ],
   "想定し": [
     "そうていし",
     "anticipate; allow for"
@@ -2774,6 +2874,10 @@
   "造園業者": [
     "ぞうえんぎょうしゃ",
     "landscape contractor"
+  ],
+  "測る": [
+    "はかる",
+    "measure"
   ],
   "速度": [
     "そくど",
@@ -2915,6 +3019,10 @@
     "だんさ",
     "difference in level; step"
   ],
+  "段取り": [
+    "だんどり",
+    "advance planning; work arrangements"
+  ],
   "値段": [
     "ねだん",
     "price"
@@ -3023,6 +3131,10 @@
     "しらべたないよう",
     "research findings"
   ],
+  "調べて": [
+    "しらべて",
+    "investigate; check"
+  ],
   "調べておきたい": [
     "しらべておきたい",
     "would like to check in advance"
@@ -3074,6 +3186,10 @@
   "通しやすい": [
     "とおしやすい",
     "lets pass through easily"
+  ],
+  "通せる": [
+    "とおせる",
+    "can get something through"
   ],
   "通りにくく": [
     "とおりにくく",
@@ -3239,6 +3355,10 @@
     "とそう",
     "paint or coating"
   ],
+  "途中": [
+    "とちゅう",
+    "on the way; in the middle"
+  ],
   "土": [
     "つち",
     "soil"
@@ -3267,6 +3387,10 @@
     "ふゆがこい",
     "winter protection for plants"
   ],
+  "冬場": [
+    "ふゆば",
+    "wintertime; winter season"
+  ],
   "凍りやすい": [
     "こおりやすい",
     "prone to freezing"
@@ -3290,6 +3414,10 @@
   "当時": [
     "とうじ",
     "at that time"
+  ],
+  "当日": [
+    "とうじつ",
+    "the day of the event"
   ],
   "豆": [
     "まめ",
@@ -3386,6 +3514,10 @@
   "二週間": [
     "にしゅうかん",
     "two weeks"
+  ],
+  "二人以上": [
+    "ふたりいじょう",
+    "two or more people"
   ],
   "二年": [
     "にねん",
@@ -3535,6 +3667,14 @@
     "そったり",
     "warping"
   ],
+  "搬入": [
+    "はんにゅう",
+    "carrying goods into a building"
+  ],
+  "搬入経路": [
+    "はんにゅうけいろ",
+    "route for moving items into a building"
+  ],
   "範囲": [
     "はんい",
     "scope"
@@ -3646,6 +3786,10 @@
   "付き方": [
     "つきかた",
     "way something adheres or accumulates"
+  ],
+  "付けない": [
+    "つけない",
+    "not cause or put on"
   ],
   "布": [
     "ぬの",
@@ -3779,6 +3923,10 @@
     "かえず",
     "without changing"
   ],
+  "変えたり": [
+    "かえたり",
+    "changing (among other actions)"
+  ],
   "変える": [
     "かえる",
     "change; relocate"
@@ -3822,6 +3970,10 @@
   "保管場所": [
     "ほかんばしょ",
     "storage location"
+  ],
+  "保護": [
+    "ほご",
+    "protection"
   ],
   "保証書": [
     "ほしょうしょ",
@@ -3927,6 +4079,10 @@
     "むくざい",
     "solid timber"
   ],
+  "無理": [
+    "むり",
+    "forcing something; unreasonable"
+  ],
   "無理に": [
     "むりに",
     "forcibly"
@@ -3971,6 +4127,10 @@
     "もくせい",
     "made of wood"
   ],
+  "木製家具": [
+    "もくせいかぐ",
+    "timber furniture"
+  ],
   "木目": [
     "もくめ",
     "wood grain"
@@ -4002,6 +4162,10 @@
   "問題": [
     "もんだい",
     "issue"
+  ],
+  "役に立つ": [
+    "やくにたつ",
+    "be useful"
   ],
   "役立つ": [
     "やくだつ",
@@ -4051,9 +4215,17 @@
     "ようす",
     "condition"
   ],
+  "用意": [
+    "ようい",
+    "preparation; arranging"
+  ],
   "用途": [
     "ようと",
     "intended use"
+  ],
+  "養生材": [
+    "ようじょうざい",
+    "protective covering or padding for moving work"
   ],
   "翌朝": [
     "よくあさ",
@@ -4218,6 +4390,10 @@
   "路面": [
     "ろめん",
     "road surface"
+  ],
+  "廊下": [
+    "ろうか",
+    "hallway; corridor"
   ],
   "録音": [
     "ろくおん",
