@@ -35,6 +35,10 @@
     "プローブ",
     "avalanche probe"
   ],
+  "まとめたり": [
+    "まとめたり",
+    "bundling together"
+  ],
   "もう一度": [
     "もういちど",
     "once more"
@@ -119,6 +123,10 @@
     "いらい",
     "request"
   ],
+  "囲い": [
+    "かこい",
+    "protective enclosure"
+  ],
   "意外": [
     "いがい",
     "surprisingly"
@@ -187,6 +195,10 @@
     "いちど",
     "once"
   ],
+  "一冬": [
+    "ひとふゆ",
+    "one winter"
+  ],
   "一日": [
     "いちにち",
     "one day"
@@ -205,6 +217,10 @@
   ],
   "一方": [
     "いっぽう",
+    "on the other hand"
+  ],
+  "一方で": [
+    "いっぽうで",
     "on the other hand"
   ],
   "一本": [
@@ -314,6 +330,14 @@
   "奥": [
     "おく",
     "back of the room"
+  ],
+  "応じた": [
+    "おうじた",
+    "suited to; depending on"
+  ],
+  "押し寄せる": [
+    "おしよせる",
+    "push toward; surge in"
   ],
   "横": [
     "よこ",
@@ -649,7 +673,7 @@
   ],
   "寒さ": [
     "さむさ",
-    "cold"
+    "cold temperatures"
   ],
   "完成": [
     "かんせい",
@@ -658,6 +682,10 @@
   "完成させる": [
     "かんせいさせる",
     "finish; complete"
+  ],
+  "完成形": [
+    "かんせいけい",
+    "finished form"
   ],
   "完璧": [
     "かんぺき",
@@ -695,6 +723,10 @@
     "かんりがいしゃ",
     "property management company"
   ],
+  "緩く": [
+    "ゆるく",
+    "loosely"
+  ],
   "緩やかな": [
     "ゆるやかな",
     "gentle"
@@ -726,6 +758,10 @@
   "含まれていた": [
     "ふくまれていた",
     "was included"
+  ],
+  "頑丈": [
+    "がんじょう",
+    "sturdy"
   ],
   "企画": [
     "きかく",
@@ -909,7 +945,7 @@
   ],
   "強い": [
     "つよい",
-    "strong"
+    "resistant to"
   ],
   "強く": [
     "つよく",
@@ -1029,7 +1065,7 @@
   ],
   "決めて": [
     "きめて",
-    "decide; determine"
+    "decide"
   ],
   "決めておく": [
     "きめておく",
@@ -1094,6 +1130,10 @@
   "見えて": [
     "みえて",
     "become apparent"
+  ],
+  "見えなくなる": [
+    "みえなくなる",
+    "become invisible"
   ],
   "見える": [
     "みえる",
@@ -1163,6 +1203,10 @@
     "げんいん",
     "cause"
   ],
+  "厳しい": [
+    "きびしい",
+    "severe; harsh"
+  ],
   "玄関": [
     "げんかん",
     "entrance"
@@ -1202,6 +1246,10 @@
   "限らない": [
     "かぎらない",
     "not necessarily the case"
+  ],
+  "限りません": [
+    "かぎりません",
+    "not necessarily"
   ],
   "古い": [
     "ふるい",
@@ -1309,7 +1357,7 @@
   ],
   "工夫": [
     "くふう",
-    "ingenuity"
+    "practical ingenuity"
   ],
   "工房": [
     "こうぼう",
@@ -1439,9 +1487,17 @@
     "ね",
     "root"
   ],
+  "根元": [
+    "ねもと",
+    "base of a plant; roots"
+  ],
   "左右される": [
     "さゆうされる",
     "be influenced by"
+  ],
+  "左右する": [
+    "さゆうする",
+    "affect; determine"
   ],
   "差": [
     "さ",
@@ -1534,6 +1590,10 @@
   "撮って": [
     "とって",
     "take a photo"
+  ],
+  "撮りながら": [
+    "とりながら",
+    "while taking photos"
   ],
   "撮影された": [
     "さつえいされた",
@@ -1645,7 +1705,7 @@
   ],
   "使いやすさ": [
     "つかいやすさ",
-    "ease of use"
+    "practical usability"
   ],
   "使い込まれた": [
     "つかいこまれた",
@@ -1721,6 +1781,10 @@
   ],
   "始まる": [
     "はじまる",
+    "begin"
+  ],
+  "始める": [
+    "はじめる",
     "begin"
   ],
   "市の記録": [
@@ -1849,7 +1913,7 @@
   ],
   "自然": [
     "しぜん",
-    "nature"
+    "naturally"
   ],
   "自然光": [
     "しぜんこう",
@@ -1874,6 +1938,10 @@
   "室内": [
     "しつない",
     "indoors"
+  ],
+  "湿った": [
+    "しめった",
+    "wet; moisture-laden"
   ],
   "湿り気": [
     "しめりけ",
@@ -1905,7 +1973,7 @@
   ],
   "写真": [
     "しゃしん",
-    "photograph"
+    "photographs"
   ],
   "捨てる": [
     "すてる",
@@ -1938,6 +2006,10 @@
   "若い": [
     "わかい",
     "young"
+  ],
+  "若い木": [
+    "わかいき",
+    "young tree"
   ],
   "弱く": [
     "よわく",
@@ -1983,9 +2055,17 @@
     "とりひきさき",
     "client; business partner"
   ],
+  "守られる": [
+    "まもられる",
+    "be protected"
+  ],
   "守る": [
     "まもる",
     "protect"
+  ],
+  "手を加える": [
+    "てをくわえる",
+    "make improvements; modify"
   ],
   "手順": [
     "てじゅん",
@@ -2009,7 +2089,7 @@
   ],
   "種類": [
     "しゅるい",
-    "type"
+    "species; type"
   ],
   "受け": [
     "うけ",
@@ -2111,6 +2191,10 @@
     "やわらかな",
     "soft; gentle"
   ],
+  "重い": [
+    "おもい",
+    "heavy"
+  ],
   "重なっていた": [
     "かさなっていた",
     "was overlapping"
@@ -2158,6 +2242,10 @@
   "春": [
     "はる",
     "spring"
+  ],
+  "春先": [
+    "はるさき",
+    "early spring"
   ],
   "準備": [
     "じゅんび",
@@ -2225,7 +2313,7 @@
   ],
   "除雪機": [
     "じょせつき",
-    "snowblower; snow-removal machine"
+    "snowblower"
   ],
   "傷": [
     "きず",
@@ -2305,7 +2393,7 @@
   ],
   "場所": [
     "ばしょ",
-    "place"
+    "place; location"
   ],
   "場面": [
     "ばめん",
@@ -2325,7 +2413,7 @@
   ],
   "条件": [
     "じょうけん",
-    "variables; conditions"
+    "conditions"
   ],
   "状況": [
     "じょうきょう",
@@ -2345,11 +2433,11 @@
   ],
   "植栽": [
     "しょくさい",
-    "planting; vegetation in a landscape plan"
+    "planting; landscaping"
   ],
   "植物": [
     "しょくぶつ",
-    "plant"
+    "plants"
   ],
   "職人": [
     "しょくにん",
@@ -2403,6 +2491,10 @@
     "もり",
     "forest; woodland"
   ],
+  "深さ": [
+    "ふかさ",
+    "depth"
+  ],
   "深煎り": [
     "ふかいり",
     "dark roast"
@@ -2427,6 +2519,10 @@
     "すすめる",
     "proceed"
   ],
+  "進め方": [
+    "すすめかた",
+    "approach; way of proceeding"
+  ],
   "人": [
     "ひと",
     "person"
@@ -2445,7 +2541,7 @@
   ],
   "図面": [
     "ずめん",
-    "architectural drawing"
+    "architectural drawing; plan"
   ],
   "推測する": [
     "すいそくする",
@@ -2583,6 +2679,10 @@
     "いし",
     "stone; rock"
   ],
+  "積み重なり": [
+    "つみかさなり",
+    "pile up"
+  ],
   "積み上がる": [
     "つみあがる",
     "pile up"
@@ -2593,7 +2693,7 @@
   ],
   "積もる": [
     "つもる",
-    "accumulate"
+    "accumulate (snow)"
   ],
   "積もれば": [
     "つもれば",
@@ -2626,6 +2726,10 @@
   "接着剤": [
     "せっちゃくざい",
     "adhesive"
+  ],
+  "折れない": [
+    "おれない",
+    "not break"
   ],
   "折れる": [
     "おれる",
@@ -2725,7 +2829,7 @@
   ],
   "先に": [
     "さきに",
-    "first; beforehand"
+    "beforehand"
   ],
   "専門家": [
     "せんもんか",
@@ -2825,7 +2929,7 @@
   ],
   "相談": [
     "そうだん",
-    "discussion"
+    "consultation"
   ],
   "相談すると": [
     "そうだんすると",
@@ -3031,6 +3135,10 @@
     "しった",
     "learned; found out"
   ],
+  "知って": [
+    "しって",
+    "learn; know"
+  ],
   "知る": [
     "しる",
     "learn; know"
@@ -3065,7 +3173,7 @@
   ],
   "置く": [
     "おく",
-    "place"
+    "put; deposit"
   ],
   "置ける": [
     "おける",
@@ -3090,6 +3198,10 @@
   "注ぐ": [
     "そそぐ",
     "pour"
+  ],
+  "注意": [
+    "ちゅうい",
+    "care; caution"
   ],
   "駐車": [
     "ちゅうしゃ",
@@ -3213,7 +3325,7 @@
   ],
   "通路": [
     "つうろ",
-    "passage"
+    "pathway"
   ],
   "低木": [
     "ていぼく",
@@ -3237,7 +3349,7 @@
   ],
   "庭づくり": [
     "にわづくり",
-    "garden design"
+    "garden planning and creation"
   ],
   "庭仕事": [
     "にわしごと",
@@ -3369,7 +3481,7 @@
   ],
   "土地": [
     "とち",
-    "land"
+    "land; site"
   ],
   "冬": [
     "ふゆ",
@@ -3385,7 +3497,7 @@
   ],
   "冬囲い": [
     "ふゆがこい",
-    "winter protection for plants"
+    "winter protection for trees and shrubs"
   ],
   "冬場": [
     "ふゆば",
@@ -3506,6 +3618,10 @@
   "内装": [
     "ないそう",
     "interior finishing"
+  ],
+  "縄": [
+    "なわ",
+    "rope; twine"
   ],
   "難しい": [
     "むずかしい",
@@ -3783,6 +3899,10 @@
     "つきあいかた",
     "way of relating to something"
   ],
+  "付き合える": [
+    "つきあえる",
+    "live with; maintain a long relationship with"
+  ],
   "付き方": [
     "つきかた",
     "way something adheres or accumulates"
@@ -3823,6 +3943,10 @@
     "ふうけい",
     "scenery"
   ],
+  "風向き": [
+    "かざむき",
+    "wind direction"
+  ],
   "風通し": [
     "かぜとおし",
     "air circulation"
@@ -3839,13 +3963,17 @@
     "はば",
     "width"
   ],
+  "覆えば": [
+    "おおえば",
+    "if one covers"
+  ],
   "物": [
     "もの",
     "things; items"
   ],
   "分からない": [
     "わからない",
-    "not understood"
+    "cannot tell"
   ],
   "分からなかった": [
     "わからなかった",
@@ -4113,7 +4241,7 @@
   ],
   "木": [
     "き",
-    "tree; wood"
+    "tree"
   ],
   "木工所": [
     "もっこうじょ",
@@ -4243,6 +4371,10 @@
     "たよらず",
     "without relying on"
   ],
+  "落ちた": [
+    "おちた",
+    "fallen"
+  ],
   "落ちやすく": [
     "おちやすく",
     "liable to decline"
@@ -4290,6 +4422,14 @@
   "立てた": [
     "たてた",
     "made (a plan)"
+  ],
+  "立てたり": [
+    "たてたり",
+    "erecting; setting upright"
+  ],
+  "立てやすい": [
+    "たてやすい",
+    "easy to formulate"
   ],
   "立てる": [
     "たてる",
