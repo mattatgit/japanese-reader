@@ -159,6 +159,14 @@
     "いじかんり",
     "upkeep and maintenance"
   ],
+  "維持費": [
+    "いじひ",
+    "running and maintenance costs"
+  ],
+  "違う": [
+    "ちがう",
+    "differ"
+  ],
   "育って": [
     "そだって",
     "maturing"
@@ -314,6 +322,10 @@
   "運べる": [
     "はこべる",
     "can transport or carry"
+  ],
+  "運転席": [
+    "うんてんせき",
+    "driver's seat"
   ],
   "影": [
     "かげ",
@@ -587,6 +599,10 @@
     "たしかめ",
     "checking; verifying"
   ],
+  "確かめたい": [
+    "たしかめたい",
+    "want to check"
+  ],
   "確かめて": [
     "たしかめて",
     "verify"
@@ -746,6 +762,14 @@
   "鑑賞する": [
     "かんしょうする",
     "appreciate or view art"
+  ],
+  "間": [
+    "あいだ",
+    "space between; interval"
+  ],
+  "関わる": [
+    "かかわる",
+    "affect; be connected to"
   ],
   "関係": [
     "かんけい",
@@ -915,6 +939,10 @@
     "いそいで",
     "in a hurry"
   ],
+  "急な": [
+    "きゅうな",
+    "sudden; abrupt"
+  ],
   "急激": [
     "きゅうげき",
     "rapid"
@@ -1071,6 +1099,10 @@
     "きめておく",
     "decide beforehand"
   ],
+  "決められない": [
+    "きめられない",
+    "cannot decide"
+  ],
   "決める": [
     "きめる",
     "decide"
@@ -1179,6 +1211,14 @@
     "みとおし",
     "visibility"
   ],
+  "見通しと": [
+    "みとおしと",
+    "visibility and"
+  ],
+  "見比べた": [
+    "みくらべた",
+    "compared by looking"
+  ],
   "見比べる": [
     "みくらべる",
     "compare by looking"
@@ -1230,6 +1270,10 @@
   "言う": [
     "いう",
     "say"
+  ],
+  "言わず": [
+    "いわず",
+    "without saying"
   ],
   "言われた": [
     "いわれた",
@@ -1407,6 +1451,10 @@
     "こうぞう",
     "structure"
   ],
+  "絞り": [
+    "しぼり",
+    "narrow down"
+  ],
   "考えた": [
     "かんがえた",
     "considered"
@@ -1451,9 +1499,17 @@
     "たかく",
     "high"
   ],
+  "高ければ": [
+    "たかければ",
+    "if it is high"
+  ],
   "高さ": [
     "たかさ",
     "height"
+  ],
+  "合う": [
+    "あう",
+    "suit; be appropriate for"
   ],
   "合った": [
     "あった",
@@ -1526,6 +1582,10 @@
   "最大": [
     "さいだい",
     "maximum; up to"
+  ],
+  "最低地上高": [
+    "さいていちじょうこう",
+    "minimum ground clearance"
   ],
   "採寸": [
     "さいすん",
@@ -1779,6 +1839,10 @@
     "しき",
     "four seasons"
   ],
+  "四輪駆動": [
+    "よんりんくどう",
+    "four-wheel drive (4WD)"
+  ],
   "始まる": [
     "はじまる",
     "begin"
@@ -1790,6 +1854,10 @@
   "市の記録": [
     "しのきろく",
     "municipal records"
+  ],
+  "市街地": [
+    "しがいち",
+    "built-up urban area"
   ],
   "思いがち": [
     "おもいがち",
@@ -1842,6 +1910,14 @@
   "試す": [
     "ためす",
     "test"
+  ],
+  "試乗": [
+    "しじょう",
+    "test drive"
+  ],
+  "試乗では": [
+    "しじょうでは",
+    "on the test drive"
   ],
   "事前": [
     "じぜん",
@@ -1995,9 +2071,17 @@
     "くるまいす",
     "wheelchair"
   ],
+  "車間距離": [
+    "しゃかんきょり",
+    "distance between vehicles; following distance"
+  ],
   "車庫": [
     "しゃこ",
     "garage"
+  ],
+  "車体": [
+    "しゃたい",
+    "vehicle body"
   ],
   "蛇口": [
     "じゃぐち",
@@ -2022,6 +2106,14 @@
   "取り": [
     "とり",
     "allowing or setting aside (space)"
+  ],
+  "取り回し": [
+    "とりまわし",
+    "ease of manoeuvring a vehicle"
+  ],
+  "取り回しや": [
+    "とりまわしや",
+    "manoeuvrability and"
   ],
   "取り外せる": [
     "とりはずせる",
@@ -2187,6 +2279,10 @@
     "じゅうぶん",
     "sufficient"
   ],
+  "十分な": [
+    "じゅうぶんな",
+    "adequate"
+  ],
   "柔らかな": [
     "やわらかな",
     "soft; gentle"
@@ -2299,6 +2395,10 @@
     "かきだした",
     "wrote out as a list"
   ],
+  "助ける": [
+    "たすける",
+    "assist; help"
+  ],
   "助言": [
     "じょげん",
     "advice"
@@ -2306,6 +2406,10 @@
   "除雪": [
     "じょせつ",
     "snow removal"
+  ],
+  "除雪された": [
+    "じょせつされた",
+    "cleared of snow"
   ],
   "除雪した": [
     "じょせつした",
@@ -2334,6 +2438,14 @@
   "小さな": [
     "ちいさな",
     "small"
+  ],
+  "小回り": [
+    "こまわり",
+    "tight turning ability; manoeuvrability"
+  ],
+  "小型車": [
+    "こがたしゃ",
+    "compact car"
   ],
   "少し": [
     "すこし",
@@ -2386,6 +2498,14 @@
   "丈夫さ": [
     "じょうぶさ",
     "durability"
+  ],
+  "乗り降り": [
+    "のりおり",
+    "getting in and out of a vehicle"
+  ],
+  "乗り降りのしやすさ": [
+    "のりおりのしやすさ",
+    "ease of getting in and out"
   ],
   "場合": [
     "ばあい",
@@ -2490,6 +2610,10 @@
   "森": [
     "もり",
     "forest; woodland"
+  ],
+  "深い": [
+    "ふかい",
+    "deep"
   ],
   "深さ": [
     "ふかさ",
@@ -2691,6 +2815,10 @@
     "つむ",
     "pile up; stack"
   ],
+  "積める": [
+    "つめる",
+    "be able to load into a car"
+  ],
   "積もる": [
     "つもる",
     "accumulate (snow)"
@@ -2791,6 +2919,10 @@
     "ゆきをおくばしょ",
     "snow storage area"
   ],
+  "雪を落とす": [
+    "ゆきをおとす",
+    "brush off snow"
+  ],
   "雪解け": [
     "ゆきどけ",
     "snowmelt"
@@ -2810,6 +2942,10 @@
   "雪止め": [
     "ゆきどめ",
     "roof snow guard"
+  ],
+  "雪道": [
+    "ゆきみち",
+    "snow-covered road"
   ],
   "雪庇": [
     "せっぴ",
@@ -2862,6 +2998,10 @@
   "選ぶ": [
     "えらぶ",
     "choose"
+  ],
+  "選ぶため": [
+    "えらぶため",
+    "in order to choose"
   ],
   "前": [
     "まえ",
@@ -2958,6 +3098,14 @@
   "装備": [
     "そうび",
     "gear; equipment"
+  ],
+  "走る": [
+    "はしる",
+    "drive; travel"
+  ],
+  "走れる": [
+    "はしれる",
+    "be able to drive"
   ],
   "送風": [
     "そうふう",
@@ -3095,6 +3243,14 @@
     "さがして",
     "looking for"
   ],
+  "短く": [
+    "みじかく",
+    "shorter"
+  ],
+  "短くする": [
+    "みじかくする",
+    "shorten"
+  ],
   "端": [
     "はし",
     "edge"
@@ -3179,6 +3335,14 @@
     "おける",
     "can put"
   ],
+  "中古車": [
+    "ちゅうこしゃ",
+    "used car"
+  ],
+  "中古車販売店": [
+    "ちゅうこしゃはんばいてん",
+    "used-car dealership"
+  ],
   "中古住宅": [
     "ちゅうこじゅうたく",
     "second-hand house"
@@ -3206,6 +3370,10 @@
   "駐車": [
     "ちゅうしゃ",
     "parking"
+  ],
+  "駐車場": [
+    "ちゅうしゃじょう",
+    "car park; parking area"
   ],
   "丁寧": [
     "ていねい",
@@ -3331,6 +3499,14 @@
     "ていぼく",
     "shrub"
   ],
+  "停止": [
+    "ていし",
+    "stop; cessation"
+  ],
+  "停止距離": [
+    "ていしきょり",
+    "stopping distance"
+  ],
   "停電": [
     "ていでん",
     "power outage"
@@ -3342,6 +3518,10 @@
   "定期的": [
     "ていきてき",
     "regular"
+  ],
+  "底": [
+    "そこ",
+    "bottom; underside"
   ],
   "庭": [
     "にわ",
@@ -3503,6 +3683,14 @@
     "ふゆば",
     "wintertime; winter season"
   ],
+  "冬用": [
+    "ふゆよう",
+    "for winter"
+  ],
+  "冬用タイヤ": [
+    "ふゆようタイヤ",
+    "winter tyres"
+  ],
   "凍りやすい": [
     "こおりやすい",
     "prone to freezing"
@@ -3514,6 +3702,10 @@
   "凍結": [
     "とうけつ",
     "freezing"
+  ],
+  "凍結した": [
+    "とうけつした",
+    "frozen; icy"
   ],
   "湯": [
     "ゆ",
@@ -3538,6 +3730,10 @@
   "踏まえ": [
     "ふまえ",
     "taking into account"
+  ],
+  "踏んだ": [
+    "ふんだ",
+    "pressed (the brake pedal)"
   ],
   "逃げる": [
     "にげる",
@@ -3635,6 +3831,10 @@
     "ふたりいじょう",
     "two or more people"
   ],
+  "二台": [
+    "にだい",
+    "two vehicles"
+  ],
   "二年": [
     "にねん",
     "two years"
@@ -3642,6 +3842,10 @@
   "日": [
     "ひ",
     "day"
+  ],
+  "日々": [
+    "ひび",
+    "day-to-day"
   ],
   "日当たり": [
     "ひあたり",
@@ -3767,6 +3971,10 @@
     "はっけん",
     "discovery"
   ],
+  "発進": [
+    "はっしん",
+    "starting to drive; pulling away"
+  ],
   "発生": [
     "はっせい",
     "be incurred; arise"
@@ -3790,6 +3998,10 @@
   "搬入経路": [
     "はんにゅうけいろ",
     "route for moving items into a building"
+  ],
+  "販売店": [
+    "はんばいてん",
+    "retailer; dealership"
   ],
   "範囲": [
     "はんい",
@@ -3822,6 +4034,10 @@
   "費用": [
     "ひよう",
     "cost"
+  ],
+  "避け": [
+    "さけ",
+    "avoid"
   ],
   "避けたい": [
     "さけたい",
@@ -4091,6 +4307,10 @@
     "へんしゅう",
     "editing"
   ],
+  "便利さ": [
+    "べんりさ",
+    "convenience"
+  ],
   "保温材": [
     "ほおんざい",
     "insulating material"
@@ -4194,6 +4414,10 @@
   "毎日": [
     "まいにち",
     "every day"
+  ],
+  "毎日の": [
+    "まいにちの",
+    "everyday; daily"
   ],
   "毎年": [
     "まいとし",
@@ -4387,6 +4611,10 @@
     "おちば",
     "fallen leaves"
   ],
+  "落とす": [
+    "おとす",
+    "brush or knock off; remove"
+  ],
   "落とせば": [
     "おとせば",
     "if removed"
@@ -4398,6 +4626,10 @@
   "落葉樹": [
     "らくようじゅ",
     "deciduous tree"
+  ],
+  "利き方": [
+    "ききかた",
+    "how effectively something works"
   ],
   "利用": [
     "りよう",
