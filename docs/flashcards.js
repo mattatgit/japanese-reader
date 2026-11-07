@@ -7,7 +7,7 @@
   const hasKanji = value => /[\u3400-\u9fff]/u.test(value);
   const hasJapanese = value => /[\u3040-\u30ff\u3400-\u9fff]/u.test(value);
   let app = null;
-  let state = {mode:"vocab",scope:"recent",query:"",queue:[],position:0,revealed:false,attempt:"",known:0,again:0,message:""};
+  let state = {mode:"vocab",scope:"recent",query:"",queue:[],position:0,revealed:false,known:0,again:0,message:""};
 
   function getStored(key, fallback) {
     try {
@@ -221,7 +221,7 @@
     return {due,newCount,scheduled,studied};
   }
   function resetSession() {
-    state.queue=[];state.position=0;state.revealed=false;state.attempt="";state.known=0;state.again=0;
+    state.queue=[];state.position=0;state.revealed=false;state.known=0;state.again=0;
   }
   function savedPrefs() { setStored("prefs",{mode:state.mode,scope:state.scope}); }
   function showStats() {
@@ -236,7 +236,7 @@
   function startSession(includeScheduled) {
     const pool=currentPool();
     state.queue=selectCards(pool,progressData(),state.mode,Date.now(),10,includeScheduled);
-    state.position=0;state.revealed=false;state.attempt="";state.known=0;state.again=0;
+    state.position=0;state.revealed=false;state.known=0;state.again=0;
     renderPractice();
   }
   function renderPractice() {
@@ -245,8 +245,8 @@
     if(!state.queue.length) {
       const pool=currentPool(),s=statsFor(pool,progressData());
       el.innerHTML='<div class="fc-intro-card"><div class="fc-card-small">READY TO PRACTISE</div>'+
-        '<h2>'+(state.mode==="kanji"?"Recall the written kanji":"Remember the reading and meaning")+'</h2>'+
-        '<p>'+(state.mode==="kanji"?"See the kana and English meaning, then try writing the Japanese characters before revealing.":"See the Japanese word first, then recall its reading and meaning before revealing.")+'</p>'+
+        '<h2>'+(state.mode==="kanji"?"Read the kanji":"Remember the reading and meaning")+'</h2>'+
+        '<p>'+(state.mode==="kanji"?"See the kanji word first. Recall its reading and meaning, then reveal the answer.":"See the Japanese word first, then recall its reading and meaning before revealing.")+'</p>'+
         (pool.length ? (s.due+s.newCount>0
           ? '<button id="fc-start" class="btn primary">Start 10 cards →</button>'
           : '<p class="helper">Nothing is due yet in this selection.</p><button id="fc-start-all" class="btn secondary">Practise ahead of schedule</button>')
@@ -266,9 +266,8 @@
     }
     const card=state.queue[state.position];
     const isKanji=state.mode==="kanji";
-    const front=isKanji?esc(card.reading):esc(card.word);
-    const sub=isKanji?esc(card.meaning):"Say its reading and meaning.";
-    const prompt=isKanji?"Write the Japanese word (optional)":"Type the reading or meaning (optional)";
+    const front=esc(card.word);
+    const sub="Recall its reading and meaning before revealing.";
     const answer='<div class="fc-answer-word" lang="ja">'+esc(card.word)+'</div>'+
       '<div class="fc-answer-reading" lang="ja">'+esc(card.reading)+'</div>'+
       '<div class="fc-answer-meaning">'+esc(card.meaning)+'</div>'+
@@ -276,24 +275,18 @@
       (card.date?'<a class="fc-reading-link" href="#/reading/'+esc(card.date)+'">From '+esc(card.title)+' →</a>':'')+
       (card.imported?'<div class="fc-origin">Also in your imported list</div>':'');
     el.innerHTML='<div class="fc-session-bar"><span>Card '+(state.position+1)+' of '+state.queue.length+'</span>'+
-      '<span>'+esc(isKanji?"KANJI RECALL":"VOCABULARY")+'</span></div>'+
+      '<span>'+esc(isKanji?"KANJI READING":"VOCABULARY")+'</span></div>'+
       '<div class="fc-flashcard '+(state.revealed?"is-revealed":"")+'" aria-live="polite">'+
-      (state.revealed ? '<div class="fc-card-small">ANSWER</div>'+answer+
-        (state.attempt.trim()?'<div class="fc-attempt">Your attempt: <span lang="ja">'+esc(state.attempt)+'</span></div>':'') :
+      (state.revealed ? '<div class="fc-card-small">ANSWER</div>'+answer :
         '<div class="fc-card-small">RECALL BEFORE REVEALING</div>'+
         '<div class="fc-front" lang="ja">'+front+'</div><p class="fc-front-sub">'+sub+'</p>')+
       '</div>'+
       (state.revealed ? '<div class="fc-grade"><button class="btn fc-again" id="fc-again">Again · forgot</button><button class="btn primary" id="fc-known">Remembered ✓</button></div>'+
-        '<p class="helper fc-grading-note">Judge your own answer; spelling, reading and meaning all count. Nothing you type is uploaded.</p>'
-        : '<div class="fc-practice-actions"><label for="fc-attempt">'+esc(prompt)+'</label>'+
-          '<input id="fc-attempt" type="text" lang="ja" autocomplete="off" spellcheck="false" value="'+esc(state.attempt)+'" placeholder="'+esc(prompt)+'">'+
-          '<button id="fc-reveal" class="btn primary">Reveal answer →</button></div>')+
+        '<p class="helper fc-grading-note">Did you remember the reading and meaning? Choose Remembered or Again.</p>'
+        : '<div class="fc-practice-actions"><button id="fc-reveal" class="btn primary">Show reading & meaning →</button></div>')+
       '<div class="fc-bar" aria-hidden="true"><div style="width:'+(state.position/state.queue.length*100)+'%"></div></div>';
     if(!state.revealed) {
-      const input=document.getElementById("fc-attempt");
-      document.getElementById("fc-reveal").addEventListener("click",()=>{state.attempt=input.value;state.revealed=true;renderPractice();});
-      input.addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();state.attempt=input.value;state.revealed=true;renderPractice();}});
-      input.addEventListener("input",()=>{state.attempt=input.value;});
+      document.getElementById("fc-reveal").addEventListener("click",()=>{state.revealed=true;renderPractice();});
     } else {
       document.getElementById("fc-again").addEventListener("click",()=>rate(false));
       document.getElementById("fc-known").addEventListener("click",()=>rate(true));
@@ -307,7 +300,7 @@
     const saved=setStored("progress",progress);
     if(!saved)state.message="Browser storage is unavailable: ratings may not persist.";
     if(remembered)state.known++;else state.again++;
-    state.position++;state.revealed=false;state.attempt="";
+    state.position++;state.revealed=false;
     showStats();renderPractice();
     showMessage();
   }
@@ -352,7 +345,7 @@
       '<div class="page-grid fc-layout"><section class="panel fc-panel">'+
       '<div class="fc-modes" role="group" aria-label="Practice mode">'+
       '<button class="fc-mode '+(state.mode==="vocab"?"active":"")+'" data-fc-mode="vocab" aria-pressed="'+(state.mode==="vocab")+'">Vocabulary</button>'+
-      '<button class="fc-mode '+(state.mode==="kanji"?"active":"")+'" data-fc-mode="kanji" aria-pressed="'+(state.mode==="kanji")+'">Kanji recall</button></div>'+
+      '<button class="fc-mode '+(state.mode==="kanji"?"active":"")+'" data-fc-mode="kanji" aria-pressed="'+(state.mode==="kanji")+'">Kanji reading</button></div>'+
       '<div class="fc-controls"><label for="fc-scope">Choose words<select id="fc-scope" aria-label="Choose words">'+
       '<option value="recent" '+(state.scope==="recent"?"selected":"")+'>Recent · last 7 readings</option>'+
       '<option value="archive" '+(state.scope==="archive"?"selected":"")+'>All published readings</option>'+
@@ -364,7 +357,7 @@
       '<div class="fc-stats" id="fc-stats" aria-live="polite"></div>'+
       '<div id="fc-practice"></div><div id="fc-message" class="fc-message" role="status" aria-live="polite"></div>'+
       '</section><aside class="side fc-sidebar">'+
-      '<div class="side-part"><div class="side-label">How it works</div><p class="side-description">Reveal the answer, then choose <strong>Again</strong> or <strong>Remembered</strong>. Cards you forget return sooner. Each mode has separate progress.</p></div>'+
+      '<div class="side-part"><div class="side-label">How it works</div><p class="side-description">Look at the Japanese word and recall its reading and meaning. Reveal the answer, then choose <strong>Again</strong> or <strong>Remembered</strong>. Cards you forget return sooner. Each mode has separate progress.</p></div>'+
       '<div class="side-part"><div class="side-label">Private vocabulary</div><p class="side-description">To practise words from your private Japanese repo, import its vocabulary.md here. This happens only in your browser; no private learning history goes into the public website.</p>'+
       '<details class="fc-import"><summary>Import private vocabulary</summary>'+
       '<p class="helper"><a href="https://github.com/mattatgit/japanese/blob/main/vocabulary.md" target="_blank" rel="noopener noreferrer">Open vocabulary.md in GitHub</a> and save the file or copy its Markdown tables.</p>'+
@@ -426,3 +419,4 @@
   }
   window.JapaneseFlashcards={render,saveWord,isSaved:word=>getStored("saved",[]).some(c=>c.word===word),testing:{validateBackup,mergeCollections,saveWord,collectionData,exportBackup,parseImport,buildEntries,scopedEntries,selectCards,nextProgress,cardId}};
 })();
+

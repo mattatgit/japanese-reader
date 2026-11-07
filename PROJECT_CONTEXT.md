@@ -62,7 +62,7 @@ Whenever the website data format, publication mechanism, account permissions, de
 ## Vocabulary and kanji flashcards — added 2026-11-02
 
 - Website section: **Flashcards**, route `#/flashcards`. The static front-end (`docs/flashcards.js`) uses existing `docs/data/readings.json` and `docs/data/lexicon.json`; all subsequent reading vocabulary is available automatically without additional publishing steps.
-- **Vocabulary:** Japanese word on the front; recall kana and meaning. **Kanji:** kana and English meaning on the front; recall/write Japanese characters. Answers are revealed and the learner self-assesses.
+- **Vocabulary:** Japanese word on the front; recall kana and meaning. **Kanji reading:** Japanese word on the front, restricted to words containing kanji; recall kana and meaning. Answers are revealed and the learner self-assesses.
 - Scope: terms from the last seven published readings, all published readings, the full public lexicon, or a locally imported personal vocabulary list. Search filters word, kana and English.
 - Ten-card sessions prioritise due and unseen cards. **Again** makes the term due for a subsequent session; **Remembered** schedules intervals of 1/3/7/14/30/60 days, separately for vocabulary and kanji modes.
 - **Privacy:** the static public website neither reads the private `mattatgit/japanese` repository nor sends flashcard progress to a server. The user can locally import the private `vocabulary.md` (upload a local Markdown/text file or paste its tables); only word, kana and meaning are stored in browser localStorage, not personal grading notes. All review ratings stay local. Manual private backup transfer is available; no automatic synchronization or API key.
@@ -77,3 +77,8 @@ Reading popups include **Save to flashcards**. The **My saved words** deck works
 For cross-device transfer, export → attach in interactive ChatGPT → approve a concrete merge into PRIVATE `mattatgit/japanese` → download merged JSON → import on the other device. The site’s **Copy save request** guides this handoff. Nothing uploads automatically. No GitHub credentials, extra hosting or API billing are introduced. Automatic sync would require separately approved authenticated infrastructure or a trusted local helper.
 
 The canonical schema, limits, conflict rules, private snapshot/approval procedure and verification checklist are in [PUBLISHING.md](PUBLISHING.md#saved-words-progress-backups-and-private-cross-device-transfer--2026-11-02). The offline `scripts/merge-flashcards.mjs` helper uses the same validator/merge rules; keep real result files outside this public checkout. Never publish personal results to `japanese-reader`.
+
+
+## Recognition flashcards — updated 2026-11-08
+
+Both **Vocabulary** and **Kanji reading** now show the Japanese word first, with its reading and English meaning hidden until **Show reading & meaning**. The learner recalls them mentally, reveals, then selects **Remembered** or **Again**. There is no typing field. Kanji reading restricts the deck to terms containing kanji. Existing `vocab:` and `kanji:` rating keys, saved mode preferences, lists and backup formats are preserved; prior kanji-writing ratings remain in the kanji schedule without resetting progress.

@@ -68,7 +68,7 @@ Site uses **GitHub Pages from branch main/docs**. Interactive GitHub commits nor
 
 - Flashcards are part of the static website at `#/flashcards`, using the existing vocabulary dictionary and reading paragraphs.
 - **Every new lexicon word** becomes eligible in the full-dictionary practice deck. Words actually used in readings are linked to that reading and appear in recent (last seven published readings) or archive decks automatically.
-- The interface supports vocabulary (Japanese → kana/meaning), kanji recall (kana/meaning → Japanese), local graded recall, and intervals of 1/3/7/14/30/60 days.
+- The interface supports vocabulary (Japanese → kana/meaning), kanji reading (Japanese → kana/meaning, kanji-containing words only), local graded recall, and intervals of 1/3/7/14/30/60 days.
 - Private `mattatgit/japanese/vocabulary.md` must **not** be fetched unauthenticated or copied into the public repo. The learner can import that Markdown file or pasted tables manually, with word/kana/meaning stored only in localStorage. No account, server or API fee; browser histories do not sync across devices.
 - To change practice behaviour, update `docs/flashcards.js`, `docs/styles.css`, README and these runbooks; add/update `scripts/test-flashcards.mjs`. GitHub Actions validates the tests.
 
@@ -98,3 +98,8 @@ Site uses **GitHub Pages from branch main/docs**. Interactive GitHub commits nor
 Run `node --check docs/app.js`, `node --check docs/flashcards.js`, `node --check scripts/merge-flashcards.mjs`, `node scripts/test-flashcards.mjs`, `node scripts/validate.mjs`, and the existing publisher checks from `.github/workflows/validate.yml`. Use only synthetic private-data fixtures in public tests. Check desktop and narrow layouts, popup save/repeated save, saved deck in both modes, rating persistence, export/import preview and merge, rejected files, storage failure and private handoff copy. Verify the validation run and ordinary branch-based Pages deployment for the exact committed head before supplying a live link.
 
 Sources for the sync boundary: [GitHub Pages is static](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site), [GitHub App credential guidance](https://github.com/github/docs/blob/main/content/apps/creating-github-apps/about-creating-github-apps/best-practices-for-creating-a-github-app.md).
+
+
+## Recognition flashcards — updated 2026-11-08
+
+Both **Vocabulary** and **Kanji reading** now show the Japanese word first, with its reading and English meaning hidden until **Show reading & meaning**. The learner recalls them mentally, reveals, then selects **Remembered** or **Again**. There is no typing field. Kanji reading restricts the deck to terms containing kanji. Existing `vocab:` and `kanji:` rating keys, saved mode preferences, lists and backup formats are preserved; prior kanji-writing ratings remain in the kanji schedule without resetting progress.

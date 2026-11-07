@@ -110,3 +110,48 @@ sandbox.localStorage.setItem=()=>{throw Error('quota');};
 assert.equal(api.saveWord({word:'勾配',reading:'こうばい',meaning:'slope'}),false);
 assert.equal(JSON.stringify([...storage]),before,'Storage failures preserve previous data');
 console.log('Flashcards: backup round trip, legacy migration, saved decks, merge conflicts, validation and storage failure passed.');
+
+
+// Exercise the user-facing reveal/rating flow with a saved preference for either mode.
+for(const mode of ['vocab','kanji']) {
+ for(const remembered of [true,false]) {
+  const nodes=new Map();
+  class Element {
+   constructor(){this.html='';this.listeners={};}
+   set innerHTML(value){this.html=value;for(const m of value.matchAll(/id="([^"]+)"/g))nodes.set(m[1],new Element());}
+   get innerHTML(){return this.html;}
+   addEventListener(name,fn){this.listeners[name]=fn;}
+   click(){assert.ok(this.listeners.click);this.listeners.click();}
+  }
+  const root=new Element();
+  const id=mode+':録音',other=(mode==='kanji'?'vocab':'kanji')+':録音';
+  const old={streak:1,due:0,last:0,successes:3,lapses:2};
+  const memory=new Map([
+   [prefix+'prefs',JSON.stringify({mode,scope:'all'})],
+   [prefix+'progress',JSON.stringify({[id]:old,[other]:old})],
+   [prefix+'saved',JSON.stringify([{word:'録音',reading:'ろくおん',meaning:'audio recording'}])]
+  ]);
+  const ui={window:{},TextEncoder,localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
+   document:{getElementById:k=>nodes.get(k),querySelectorAll:()=>[]}};
+  vm.runInNewContext(fs.readFileSync('docs/flashcards.js','utf8'),ui);
+  ui.window.JapaneseFlashcards.render(root,[],{'録音':['ろくおん','audio recording']});
+  assert.ok(root.innerHTML.includes('Kanji reading'),'Label describes recognition');
+  nodes.get('fc-start').click();
+  const front=nodes.get('fc-practice').innerHTML;
+  assert.ok(front.includes('録音'),mode+' shows the Japanese word first');
+  assert.ok(!front.includes('ろくおん')&&!front.includes('audio recording'),'No answer is exposed before reveal');
+  assert.ok(!front.includes('<input'),'No typing or input-method hint is needed');
+  assert.ok(!front.includes('id="fc-known"'),'Rating follows reveal');
+  nodes.get('fc-reveal').click();
+  const answer=nodes.get('fc-practice').innerHTML;
+  assert.ok(answer.includes('ろくおん')&&answer.includes('audio recording'),'Reveal shows reading and meaning');
+  nodes.get(remembered?'fc-known':'fc-again').click();
+  const result=JSON.parse(memory.get(prefix+'collection'));
+  assert.equal(result.progress[id].streak,remembered?2:0);
+  assert.equal(result.progress[id].successes,remembered?4:3);
+  assert.equal(result.progress[id].lapses,remembered?2:3);
+  assert.deepEqual(result.progress[other],old,'Other mode history stays intact');
+  assert.equal(result.saved.length,1,'Saved list is retained');
+ }
+}
+console.log('Flashcards: both modes show Japanese first, hide answers, reveal without typing and preserve rating history.');

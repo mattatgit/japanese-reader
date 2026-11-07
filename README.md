@@ -7,7 +7,7 @@ A lightweight, no-backend Japanese reading and review website for GitHub Pages.
 - Four-paragraph daily readings with hidden furigana on hover and contextual English definitions on click/tap.
 - Searchable archive, date and topic browsing, and mobile-friendly layout.
 - Mixed reviews with text answers, single- and multiple-choice questions.
-- **Vocabulary & Kanji flashcards** at `#/flashcards`: recent seven readings, complete reading archive, or all public lexicon entries; vocabulary meaning/reading recall and kana-to-kanji writing recall.
+- **Vocabulary & Kanji flashcards** at `#/flashcards`: recent seven readings, complete reading archive, or all public lexicon entries; vocabulary meaning/reading recall and kanji reading recognition.
 - Ten-card self-graded sessions (Again / Remembered), with local spaced-repetition scheduling and separate progress by practice mode.
 - Optional local Markdown/TSV import of previous vocabulary from a private repo; imported words and ratings remain in the browser, never committed to this public project.
 - Autosaved review drafts in this browser (localStorage); a **Copy answers** button to paste into ChatGPT for semantic feedback.
@@ -54,3 +54,8 @@ Reading popups include **Save to flashcards**. The **My saved words** deck works
 For cross-device transfer, export → attach in interactive ChatGPT → approve a concrete merge into PRIVATE `mattatgit/japanese` → download merged JSON → import on the other device. The site’s **Copy save request** guides this handoff. Nothing uploads automatically. No GitHub credentials, extra hosting or API billing are introduced. Automatic sync would require separately approved authenticated infrastructure or a trusted local helper.
 
 The canonical schema, limits, conflict rules, private snapshot/approval procedure and verification checklist are in [PUBLISHING.md](PUBLISHING.md#saved-words-progress-backups-and-private-cross-device-transfer--2026-11-02). The offline `scripts/merge-flashcards.mjs` helper uses the same validator/merge rules; keep real result files outside this public checkout. Never publish personal results to `japanese-reader`.
+
+
+## Recognition flashcards — updated 2026-11-08
+
+Both **Vocabulary** and **Kanji reading** now show the Japanese word first, with its reading and English meaning hidden until **Show reading & meaning**. The learner recalls them mentally, reveals, then selects **Remembered** or **Again**. There is no typing field. Kanji reading restricts the deck to terms containing kanji. Existing `vocab:` and `kanji:` rating keys, saved mode preferences, lists and backup formats are preserved; prior kanji-writing ratings remain in the kanji schedule without resetting progress.
