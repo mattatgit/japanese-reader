@@ -23,6 +23,10 @@
     "スコップ",
     "shovel"
   ],
+  "できにくい": [
+    "できにくい",
+    "hard to form or occur"
+  ],
   "デザインデータ": [
     "デザインデータ",
     "design files or data"
@@ -167,6 +171,10 @@
     "ちがう",
     "differ"
   ],
+  "違って見える": [
+    "ちがってみえる",
+    "appear different"
+  ],
   "育って": [
     "そだって",
     "maturing"
@@ -174,6 +182,10 @@
   "一か所": [
     "いっかしょ",
     "one designated place"
+  ],
+  "一つ": [
+    "ひとつ",
+    "one"
   ],
   "一つずつ": [
     "ひとつずつ",
@@ -290,6 +302,10 @@
   "飲料水": [
     "いんりょうすい",
     "drinking water"
+  ],
+  "隠しやすい": [
+    "かくしやすい",
+    "easy to conceal"
   ],
   "隠れ": [
     "かくれ",
@@ -579,6 +595,10 @@
     "かいこうぶ",
     "opening in a wall or doorway"
   ],
+  "外": [
+    "そと",
+    "outside"
+  ],
   "外す": [
     "はずす",
     "remove"
@@ -690,6 +710,10 @@
   "寒さ": [
     "さむさ",
     "cold temperatures"
+  ],
+  "勧めた": [
+    "すすめた",
+    "recommended"
   ],
   "完成": [
     "かんせい",
@@ -850,6 +874,10 @@
   "帰り道": [
     "かえりみち",
     "way back"
+  ],
+  "帰宅": [
+    "きたく",
+    "returning home"
   ],
   "気づいた": [
     "きづいた",
@@ -1187,6 +1215,10 @@
     "みながら",
     "while looking at"
   ],
+  "見やすい": [
+    "みやすい",
+    "easy to see"
+  ],
   "見る": [
     "みる",
     "look at"
@@ -1295,6 +1327,10 @@
     "かぎりません",
     "not necessarily"
   ],
+  "個人差": [
+    "こじんさ",
+    "individual differences"
+  ],
   "古い": [
     "ふるい",
     "old"
@@ -1378,6 +1414,10 @@
   "向き": [
     "むき",
     "direction faced"
+  ],
+  "向きがち": [
+    "むきがち",
+    "tend to be directed toward"
   ],
   "好み": [
     "このみ",
@@ -1559,6 +1599,10 @@
     "さ",
     "difference"
   ],
+  "座って": [
+    "すわって",
+    "sit down"
+  ],
   "座面": [
     "ざめん",
     "seat surface"
@@ -1642,6 +1686,10 @@
   "作業後": [
     "さぎょうご",
     "after the procedure"
+  ],
+  "作業台": [
+    "さぎょうだい",
+    "workbench; work surface"
   ],
   "作品": [
     "さくひん",
@@ -2159,6 +2207,10 @@
     "てをくわえる",
     "make improvements; modify"
   ],
+  "手元": [
+    "てもと",
+    "one's hands; immediate work area"
+  ],
   "手順": [
     "てじゅん",
     "procedure"
@@ -2471,9 +2523,17 @@
     "ゆかざい",
     "flooring material"
   ],
+  "照らす": [
+    "てらす",
+    "illuminate"
+  ],
   "照明": [
     "しょうめい",
     "lighting"
+  ],
+  "照明器具": [
+    "しょうめいきぐ",
+    "lighting fixture"
   ],
   "紹介": [
     "しょうかい",
@@ -2566,6 +2626,10 @@
   "色づき": [
     "いろづき",
     "changing autumn colour"
+  ],
+  "色温度": [
+    "いろおんど",
+    "colour temperature (of light)"
   ],
   "色合い": [
     "いろあい",
@@ -2739,6 +2803,14 @@
     "せいりしているうちに",
     "while organising"
   ],
+  "晴れた": [
+    "はれた",
+    "clear; sunny"
+  ],
+  "晴れた日": [
+    "はれたひ",
+    "a clear sunny day"
+  ],
   "正解": [
     "せいかい",
     "correct answer"
@@ -2866,6 +2938,14 @@
   "設ける": [
     "もうける",
     "provide; establish"
+  ],
+  "設計": [
+    "せっけい",
+    "design; planning"
+  ],
+  "設計したい": [
+    "せっけいしたい",
+    "want to design"
   ],
   "設計士": [
     "せっけいし",
@@ -3243,6 +3323,10 @@
     "さがして",
     "looking for"
   ],
+  "短い": [
+    "みじかい",
+    "short"
+  ],
   "短く": [
     "みじかく",
     "shorter"
@@ -3263,6 +3347,10 @@
     "あたたかい",
     "warm"
   ],
+  "暖色": [
+    "だんしょく",
+    "warm colour; warm-toned light"
+  ],
   "暖房": [
     "だんぼう",
     "heating"
@@ -3274,6 +3362,10 @@
   "暖房設備": [
     "だんぼうせつび",
     "heating equipment"
+  ],
+  "段階": [
+    "だんかい",
+    "stage; phase"
   ],
   "段差": [
     "だんさ",
@@ -3322,6 +3414,10 @@
   "地面": [
     "じめん",
     "ground"
+  ],
+  "置き": [
+    "おき",
+    "place; put"
   ],
   "置きたい": [
     "おきたい",
@@ -3430,6 +3526,14 @@
   "調整": [
     "ちょうせい",
     "adjustment"
+  ],
+  "調整する": [
+    "ちょうせいする",
+    "adjust; regulate"
+  ],
+  "長い": [
+    "ながい",
+    "long"
   ],
   "長く": [
     "ながく",
@@ -3595,6 +3699,10 @@
     "てんじほうほう",
     "display method"
   ],
+  "店": [
+    "みせ",
+    "shop"
+  ],
   "店員": [
     "てんいん",
     "shop assistant"
@@ -3630,6 +3738,10 @@
   "電気": [
     "でんき",
     "electricity"
+  ],
+  "電源": [
+    "でんげん",
+    "power supply; electrical outlet"
   ],
   "電池": [
     "でんち",
@@ -3710,6 +3822,10 @@
   "湯": [
     "ゆ",
     "hot water"
+  ],
+  "灯り": [
+    "あかり",
+    "light; lamp"
   ],
   "灯油": [
     "とうゆ",
@@ -3799,6 +3915,14 @@
     "よみ",
     "read; reading"
   ],
+  "読書": [
+    "どくしょ",
+    "reading books"
+  ],
+  "読書する": [
+    "どくしょする",
+    "read books"
+  ],
   "突然": [
     "とつぜん",
     "suddenly"
@@ -3806,6 +3930,10 @@
   "届きにくい": [
     "とどきにくい",
     "hard to reach"
+  ],
+  "届き方": [
+    "とどきかた",
+    "how light reaches a place"
   ],
   "内ポケット": [
     "うちポケット",
@@ -3947,6 +4075,10 @@
     "はいかん",
     "piping or conduit"
   ],
+  "配線": [
+    "はいせん",
+    "electrical wiring"
+  ],
   "配置": [
     "はいち",
     "layout; arrangement"
@@ -3962,6 +4094,10 @@
   "買い替えた": [
     "かいかえた",
     "replaced by buying another"
+  ],
+  "白っぽい": [
+    "しろっぽい",
+    "whitish"
   ],
   "畑": [
     "はたけ",
@@ -3990,6 +4126,14 @@
   "反ったり": [
     "そったり",
     "warping"
+  ],
+  "反射": [
+    "はんしゃ",
+    "reflection of light"
+  ],
+  "反射して": [
+    "はんしゃして",
+    "reflecting (light)"
   ],
   "搬入": [
     "はんにゅう",
@@ -4146,6 +4290,10 @@
   "負担": [
     "ふたん",
     "burden"
+  ],
+  "部屋": [
+    "へや",
+    "room"
   ],
   "風": [
     "かぜ",
@@ -4379,6 +4527,10 @@
     "くらした",
     "lived"
   ],
+  "暮らしやすさ": [
+    "くらしやすさ",
+    "ease of living; liveability"
+  ],
   "崩れる": [
     "くずれる",
     "collapse"
@@ -4487,6 +4639,14 @@
     "もくめ",
     "wood grain"
   ],
+  "目": [
+    "め",
+    "eye; attention"
+  ],
+  "目が向きがち": [
+    "めがむきがち",
+    "tend to focus on"
+  ],
   "目印": [
     "めじるし",
     "landmark; reference point"
@@ -4515,6 +4675,10 @@
     "もんだい",
     "issue"
   ],
+  "夜": [
+    "よる",
+    "night; evening"
+  ],
   "役に立つ": [
     "やくにたつ",
     "be useful"
@@ -4542,6 +4706,10 @@
   "誘われた": [
     "さそわれた",
     "was invited"
+  ],
+  "夕方": [
+    "ゆうがた",
+    "late afternoon; early evening"
   ],
   "予定": [
     "よてい",
@@ -4579,6 +4747,10 @@
     "ようじょうざい",
     "protective covering or padding for moving work"
   ],
+  "抑えた": [
+    "おさえた",
+    "reduced; suppressed"
+  ],
   "翌朝": [
     "よくあさ",
     "following morning"
@@ -4606,6 +4778,10 @@
   "落ちる": [
     "おちる",
     "fall"
+  ],
+  "落ち着いた": [
+    "おちついた",
+    "calm; relaxed"
   ],
   "落ち葉": [
     "おちば",
@@ -4698,6 +4874,10 @@
   "良さ": [
     "よさ",
     "attractiveness; good quality"
+  ],
+  "量": [
+    "りょう",
+    "amount; quantity"
   ],
   "隣": [
     "となり",
@@ -4794,6 +4974,10 @@
   "話した": [
     "はなした",
     "said; explained"
+  ],
+  "話を聞いた": [
+    "はなしをきいた",
+    "asked about; listened to an explanation"
   ],
   "話題": [
     "わだい",
