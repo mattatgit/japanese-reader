@@ -147,6 +147,10 @@
     "いす",
     "chair"
   ],
+  "異なり": [
+    "ことなり",
+    "differing; varying"
+  ],
   "異なる": [
     "ことなる",
     "differ"
@@ -443,6 +447,10 @@
     "なんじゅうねん",
     "decades"
   ],
+  "何枚も": [
+    "なんまいも",
+    "many boards; multiple flat pieces"
+  ],
   "価格": [
     "かかく",
     "price"
@@ -458,6 +466,14 @@
   "加える": [
     "くわえる",
     "add"
+  ],
+  "加工": [
+    "かこう",
+    "processing or working materials"
+  ],
+  "加工後": [
+    "かこうご",
+    "after processing; after machining"
   ],
   "夏": [
     "なつ",
@@ -478,6 +494,10 @@
   "家具づくり": [
     "かぐづくり",
     "furniture making"
+  ],
+  "家具工房": [
+    "かぐこうぼう",
+    "furniture workshop"
   ],
   "家全体": [
     "いえぜんたい",
@@ -631,6 +651,10 @@
     "たしかめていた",
     "was checking"
   ],
+  "確かめながら": [
+    "たしかめながら",
+    "while examining; checking"
+  ],
   "確かめる": [
     "たしかめる",
     "check; verify"
@@ -699,6 +723,10 @@
     "すべりおちる",
     "slide off"
   ],
+  "乾いたら": [
+    "かわいたら",
+    "when it dries; after it has dried"
+  ],
   "乾かす": [
     "かわかす",
     "dry something"
@@ -706,6 +734,10 @@
   "乾燥": [
     "かんそう",
     "dryness"
+  ],
+  "乾燥具合": [
+    "かんそうぐあい",
+    "degree of dryness"
   ],
   "寒さ": [
     "さむさ",
@@ -750,6 +782,10 @@
   "換気": [
     "かんき",
     "ventilation"
+  ],
+  "環境": [
+    "かんきょう",
+    "surrounding conditions; environment"
   ],
   "甘さ": [
     "あまさ",
@@ -806,6 +842,10 @@
   "含まれていた": [
     "ふくまれていた",
     "was included"
+  ],
+  "含まれる": [
+    "ふくまれる",
+    "be contained in"
   ],
   "頑丈": [
     "がんじょう",
@@ -870,6 +910,10 @@
   "帰り": [
     "かえり",
     "on the way home"
+  ],
+  "帰り際": [
+    "かえりぎわ",
+    "just as one is leaving"
   ],
   "帰り道": [
     "かえりみち",
@@ -962,6 +1006,14 @@
   "吸い上げにくく": [
     "すいあげにくく",
     "difficult to draw up"
+  ],
+  "吸ったり": [
+    "すったり",
+    "absorbing or taking in"
+  ],
+  "吸ったり放したり": [
+    "すったりはなしたり",
+    "absorbing and releasing"
   ],
   "急いで": [
     "いそいで",
@@ -1203,6 +1255,10 @@
     "みえかた",
     "way something appears"
   ],
+  "見せながら": [
+    "みせながら",
+    "while showing"
+  ],
   "見た目": [
     "みため",
     "appearance"
@@ -1359,6 +1415,10 @@
     "こていした",
     "fixed or permanent"
   ],
+  "固定方法": [
+    "こていほうほう",
+    "way of fixing or fastening"
+  ],
   "故障": [
     "こしょう",
     "equipment failure"
@@ -1450,6 +1510,10 @@
   "工務店": [
     "こうむてん",
     "building contractor"
+  ],
+  "広い": [
+    "ひろい",
+    "wide"
   ],
   "広がった": [
     "ひろがった",
@@ -1899,6 +1963,10 @@
     "はじめる",
     "begin"
   ],
+  "姿": [
+    "すがた",
+    "appearance; form"
+  ],
   "市の記録": [
     "しのきろく",
     "municipal records"
@@ -2179,6 +2247,10 @@
     "とりつけ",
     "installation"
   ],
+  "取り付ける": [
+    "とりつける",
+    "attach; install"
+  ],
   "取り付け工事": [
     "とりつけこうじ",
     "installation work"
@@ -2215,6 +2287,10 @@
     "てじゅん",
     "procedure"
   ],
+  "手触り": [
+    "てざわり",
+    "feel; texture to the touch"
+  ],
   "手数料": [
     "てすうりょう",
     "service or handling fee"
@@ -2226,6 +2302,10 @@
   "手袋": [
     "てぶくろ",
     "gloves"
+  ],
+  "手渡して": [
+    "てわたして",
+    "handed over directly"
   ],
   "手入れ": [
     "ていれ",
@@ -2362,6 +2442,10 @@
   "重要": [
     "じゅうよう",
     "important"
+  ],
+  "縮んだり": [
+    "ちぢんだり",
+    "shrinking or contracting"
   ],
   "出した": [
     "だした",
@@ -2623,6 +2707,10 @@
     "しょくにん",
     "craftsperson"
   ],
+  "色": [
+    "いろ",
+    "colour"
+  ],
   "色づき": [
     "いろづき",
     "changing autumn colour"
@@ -2767,6 +2855,10 @@
     "すうじつかん",
     "several days"
   ],
+  "数年後": [
+    "すうねんご",
+    "in several years; a few years later"
+  ],
   "数分間じっと": [
     "すうふんかんじっと",
     "motionless for a few minutes"
@@ -2842,6 +2934,14 @@
   "生活": [
     "せいかつ",
     "daily life"
+  ],
+  "製材": [
+    "せいざい",
+    "sawing and preparing timber"
+  ],
+  "製材した": [
+    "せいざいした",
+    "sawn or milled (timber)"
   ],
   "製作者": [
     "せいさくしゃ",
@@ -3151,6 +3251,10 @@
     "そうだん",
     "consultation"
   ],
+  "相談し": [
+    "そうだんし",
+    "consult; discuss"
+  ],
   "相談すると": [
     "そうだんすると",
     "when consulting"
@@ -3311,6 +3415,10 @@
     "たな",
     "shelf"
   ],
+  "棚板": [
+    "たないた",
+    "shelf board"
+  ],
   "単に": [
     "たんに",
     "merely"
@@ -3358,6 +3466,10 @@
   "暖房にかかる": [
     "だんぼうにかかる",
     "related to heating expenditure"
+  ],
+  "暖房器具": [
+    "だんぼうきぐ",
+    "heating appliance"
   ],
   "暖房設備": [
     "だんぼうせつび",
@@ -3463,6 +3575,10 @@
     "ちゅうい",
     "care; caution"
   ],
+  "注意したい": [
+    "ちゅういしたい",
+    "want to take care; should be mindful"
+  ],
   "駐車": [
     "ちゅうしゃ",
     "parking"
@@ -3558,6 +3674,10 @@
   "直結": [
     "ちょっけつ",
     "directly connected"
+  ],
+  "直射日光": [
+    "ちょくしゃにっこう",
+    "direct sunlight"
   ],
   "追加": [
     "ついか",
@@ -3722,6 +3842,10 @@
   "点検": [
     "てんけん",
     "inspection"
+  ],
+  "伝えた": [
+    "つたえた",
+    "conveyed; told"
   ],
   "伝えてみると": [
     "つたえてみると",
@@ -3951,6 +4075,10 @@
     "むずかしい",
     "difficult"
   ],
+  "二つ": [
+    "ふたつ",
+    "two"
+  ],
   "二週間": [
     "にしゅうかん",
     "two weeks"
@@ -4071,6 +4199,10 @@
     "はいけい",
     "background"
   ],
+  "背板": [
+    "せいた",
+    "back panel of furniture"
+  ],
   "配管": [
     "はいかん",
     "piping or conduit"
@@ -4094,6 +4226,10 @@
   "買い替えた": [
     "かいかえた",
     "replaced by buying another"
+  ],
+  "買う": [
+    "かう",
+    "buy"
   ],
   "白っぽい": [
     "しろっぽい",
@@ -4142,6 +4278,10 @@
   "搬入経路": [
     "はんにゅうけいろ",
     "route for moving items into a building"
+  ],
+  "板": [
+    "いた",
+    "board; plank"
   ],
   "販売店": [
     "はんばいてん",
@@ -4395,6 +4535,10 @@
     "ならぶ",
     "line a street"
   ],
+  "並べて": [
+    "ならべて",
+    "lined up; arranged side by side"
+  ],
   "並べる": [
     "ならべる",
     "arrange in a row"
@@ -4462,6 +4606,14 @@
   "保温材": [
     "ほおんざい",
     "insulating material"
+  ],
+  "保管": [
+    "ほかん",
+    "storage; keeping in storage"
+  ],
+  "保管された": [
+    "ほかんされた",
+    "stored; kept in storage"
   ],
   "保管場所": [
     "ほかんばしょ",
@@ -4531,9 +4683,17 @@
     "くらしやすさ",
     "ease of living; liveability"
   ],
+  "暮らし始める": [
+    "くらしはじめる",
+    "begin living together with"
+  ],
   "崩れる": [
     "くずれる",
     "collapse"
+  ],
+  "放したり": [
+    "はなしたり",
+    "releasing; letting out"
   ],
   "方": [
     "ほう",
@@ -4547,9 +4707,17 @@
     "ほうほう",
     "method"
   ],
+  "訪ねる": [
+    "たずねる",
+    "visit someone or a place"
+  ],
   "妨げない": [
     "さまたげない",
     "not obstruct"
+  ],
+  "膨らんだり": [
+    "ふくらんだり",
+    "expanding or swelling"
   ],
   "北海道": [
     "ほっかいどう",
@@ -4562,6 +4730,10 @@
   "本体": [
     "ほんたい",
     "main unit; product itself"
+  ],
+  "本棚": [
+    "ほんだな",
+    "bookshelf or bookcase"
   ],
   "毎日": [
     "まいにち",
@@ -4578,6 +4750,10 @@
   "味": [
     "あじ",
     "flavour"
+  ],
+  "魅力的": [
+    "みりょくてき",
+    "appealing; attractive"
   ],
   "無垢材": [
     "むくざい",
@@ -4598,6 +4774,10 @@
   "名前": [
     "なまえ",
     "name"
+  ],
+  "明るくて": [
+    "あかるくて",
+    "bright and"
   ],
   "明るさ": [
     "あかるさ",
@@ -4634,6 +4814,10 @@
   "木製家具": [
     "もくせいかぐ",
     "timber furniture"
+  ],
+  "木片": [
+    "もくへん",
+    "small piece of wood"
   ],
   "木目": [
     "もくめ",
@@ -4759,6 +4943,10 @@
     "よくねん",
     "following year"
   ],
+  "来た": [
+    "きた",
+    "came; visited"
+  ],
   "頼む": [
     "たのむ",
     "to hire or ask"
@@ -4814,6 +5002,10 @@
   "理解": [
     "りかい",
     "understanding"
+  ],
+  "離して": [
+    "はなして",
+    "keep away; place at a distance"
   ],
   "離れた": [
     "はなれた",
