@@ -1,4 +1,8 @@
 {
+  "いつもの道": [
+    "いつものみち",
+    "usual route"
+  ],
   "おそれがある": [
     "おそれがある",
     "there is a risk of"
@@ -286,6 +290,10 @@
   "引っ越す": [
     "ひっこす",
     "move house"
+  ],
+  "引っ張らず": [
+    "ひっぱらず",
+    "without pulling"
   ],
   "飲み比べ": [
     "のみくらべ",
@@ -627,6 +635,10 @@
     "がいかん",
     "exterior appearance"
   ],
+  "外出": [
+    "がいしゅつ",
+    "going out"
+  ],
   "外出しにくい": [
     "がいしゅつしにくい",
     "hard to go outside"
@@ -642,6 +654,10 @@
   "確かめたい": [
     "たしかめたい",
     "want to check"
+  ],
+  "確かめたがった": [
+    "たしかめたがった",
+    "seemed eager to investigate"
   ],
   "確かめて": [
     "たしかめて",
@@ -719,6 +735,10 @@
     "かつどう",
     "activities"
   ],
+  "滑りやすく": [
+    "すべりやすく",
+    "slippery; easy to slip on"
+  ],
   "滑り落ちる": [
     "すべりおちる",
     "slide off"
@@ -770,6 +790,10 @@
   "感じられた": [
     "かんじられた",
     "was felt; could be sensed"
+  ],
+  "感じられる": [
+    "かんじられる",
+    "feel; seem"
   ],
   "感じる": [
     "かんじる",
@@ -923,6 +947,10 @@
     "きたく",
     "returning home"
   ],
+  "帰宅したら": [
+    "きたくしたら",
+    "after returning home"
+  ],
   "気づいた": [
     "きづいた",
     "noticed"
@@ -951,6 +979,10 @@
     "きになるてん",
     "points of concern"
   ],
+  "気を配りたい": [
+    "きをくばりたい",
+    "want to pay attention"
+  ],
   "気を配る": [
     "きをくばる",
     "pay attention to"
@@ -958,6 +990,10 @@
   "気を付けたい": [
     "きをつけたい",
     "want to take care or be cautious"
+  ],
+  "気を付けながら": [
+    "きをつけながら",
+    "while taking care"
   ],
   "気温": [
     "きおん",
@@ -1059,6 +1095,10 @@
     "つよく",
     "resistant to; strong"
   ],
+  "強さ": [
+    "つよさ",
+    "tolerance; strength"
+  ],
   "強めても": [
     "つよめても",
     "even if strengthened"
@@ -1142,6 +1182,10 @@
   "景色": [
     "けしき",
     "scenery"
+  ],
+  "経路": [
+    "けいろ",
+    "route; way"
   ],
   "計画": [
     "けいかく",
@@ -1239,6 +1283,14 @@
     "けんとう",
     "consideration"
   ],
+  "犬": [
+    "いぬ",
+    "dog"
+  ],
+  "犬によって": [
+    "いぬによって",
+    "depending on the dog"
+  ],
   "見えて": [
     "みえて",
     "become apparent"
@@ -1266,6 +1318,10 @@
   "見つけた": [
     "みつけた",
     "found"
+  ],
+  "見つけていきたい": [
+    "みつけていきたい",
+    "want to keep discovering"
   ],
   "見ながら": [
     "みながら",
@@ -1459,6 +1515,10 @@
     "ひかりかいせん",
     "fibre-optic internet connection"
   ],
+  "公園": [
+    "こうえん",
+    "park"
+  ],
   "勾配": [
     "こうばい",
     "slope or gradient"
@@ -1566,6 +1626,10 @@
   "考えたい": [
     "かんがえたい",
     "want to consider"
+  ],
+  "考えておきたい": [
+    "かんがえておきたい",
+    "want to plan ahead"
   ],
   "考える": [
     "かんがえる",
@@ -1807,6 +1871,10 @@
     "さんすいせん",
     "outdoor water tap"
   ],
+  "散歩": [
+    "さんぽ",
+    "walk; walking a dog"
+  ],
   "産地": [
     "さんち",
     "region of origin"
@@ -1830,6 +1898,10 @@
   "残すこと": [
     "のこすこと",
     "the act of preserving or documenting"
+  ],
+  "残っていた": [
+    "のこっていた",
+    "had remained; were left"
   ],
   "残っている": [
     "のこっている",
@@ -1990,6 +2062,18 @@
   "思った": [
     "おもった",
     "thought; felt"
+  ],
+  "指": [
+    "ゆび",
+    "toe; digit"
+  ],
+  "指の間": [
+    "ゆびのあいだ",
+    "between the toes"
+  ],
+  "指の間に": [
+    "ゆびのあいだに",
+    "between toes"
   ],
   "支障": [
     "ししょう",
@@ -2415,6 +2499,10 @@
     "じゅうぶんな",
     "adequate"
   ],
+  "柔らかい": [
+    "やわらかい",
+    "soft"
+  ],
   "柔らかな": [
     "やわらかな",
     "soft; gentle"
@@ -2543,6 +2631,10 @@
     "じょせつ",
     "snow removal"
   ],
+  "除雪されず": [
+    "じょせつされず",
+    "without being cleared of snow"
+  ],
   "除雪された": [
     "じょせつされた",
     "cleared of snow"
@@ -2583,6 +2675,10 @@
     "こがたしゃ",
     "compact car"
   ],
+  "小道": [
+    "こみち",
+    "small path; footpath"
+  ],
   "少し": [
     "すこし",
     "a little"
@@ -2622,6 +2718,10 @@
   "紹介": [
     "しょうかい",
     "introduction"
+  ],
+  "上": [
+    "うえ",
+    "on top of"
   ],
   "上がった": [
     "あがった",
@@ -2686,6 +2786,10 @@
   "状態": [
     "じょうたい",
     "condition"
+  ],
+  "拭く": [
+    "ふく",
+    "wipe; dry with a cloth"
   ],
   "植えた": [
     "うえた",
@@ -2798,6 +2902,14 @@
   "進め方": [
     "すすめかた",
     "approach; way of proceeding"
+  ],
+  "進んだ": [
+    "すすんだ",
+    "proceeded"
+  ],
+  "震えたり": [
+    "ふるえたり",
+    "trembling; shivering, among other signs"
   ],
   "人": [
     "ひと",
@@ -2951,6 +3063,10 @@
     "せいひん",
     "product"
   ],
+  "静かな": [
+    "しずかな",
+    "quiet"
+  ],
   "静けさ": [
     "しずけさ",
     "quietness; stillness"
@@ -3091,6 +3207,18 @@
     "ゆきかきどうぐ",
     "snow-clearing tools"
   ],
+  "雪の季節": [
+    "ゆきのきせつ",
+    "snowy season"
+  ],
+  "雪の上": [
+    "ゆきのうえ",
+    "on the snow"
+  ],
+  "雪の状態": [
+    "ゆきのじょうたい",
+    "snow conditions"
+  ],
   "雪の付き方": [
     "ゆきのつきかた",
     "how snow accumulates on terrain"
@@ -3182,6 +3310,10 @@
   "選ぶため": [
     "えらぶため",
     "in order to choose"
+  ],
+  "選べる": [
+    "えらべる",
+    "can choose"
   ],
   "前": [
     "まえ",
@@ -3315,6 +3447,22 @@
     "はかる",
     "measure"
   ],
+  "足の裏": [
+    "あしのうら",
+    "soles of the feet / paws"
+  ],
+  "足の裏や": [
+    "あしのうらや",
+    "soles of feet/paws and"
+  ],
+  "足元": [
+    "あしもと",
+    "ground at one's feet; footing"
+  ],
+  "足跡": [
+    "あしあと",
+    "footprints; tracks"
+  ],
   "速度": [
     "そくど",
     "speed"
@@ -3338,6 +3486,18 @@
   "打ち合わせ": [
     "うちあわせ",
     "planning meeting"
+  ],
+  "体": [
+    "からだ",
+    "body"
+  ],
+  "体が震えたり": [
+    "からだがふるえたり",
+    "such as shivering"
+  ],
+  "体調": [
+    "たいちょう",
+    "physical condition; how one feels"
   ],
   "堆肥": [
     "たいひ",
@@ -3655,6 +3815,10 @@
     "ながく",
     "for a long time"
   ],
+  "長さ": [
+    "ながさ",
+    "length; duration"
+  ],
   "長靴": [
     "ながぐつ",
     "boots; rubber boots"
@@ -3794,6 +3958,10 @@
   "天気予報": [
     "てんきよほう",
     "weather forecast"
+  ],
+  "天候": [
+    "てんこう",
+    "weather conditions"
   ],
   "天板": [
     "てんばん",
@@ -3971,6 +4139,14 @@
     "ふまえ",
     "taking into account"
   ],
+  "踏み固められた": [
+    "ふみかためられた",
+    "packed down by being walked on"
+  ],
+  "踏み固める": [
+    "ふみかためる",
+    "tread down; compact by walking"
+  ],
   "踏んだ": [
     "ふんだ",
     "pressed (the brake pedal)"
@@ -4094,6 +4270,10 @@
   "二年": [
     "にねん",
     "two years"
+  ],
+  "匂い": [
+    "におい",
+    "smell; scent"
   ],
   "日": [
     "ひ",
@@ -4435,6 +4615,10 @@
     "へや",
     "room"
   ],
+  "部分": [
+    "ぶぶん",
+    "part; area"
+  ],
   "風": [
     "かぜ",
     "wind"
@@ -4526,6 +4710,10 @@
   "聞こえる": [
     "きこえる",
     "can be heard"
+  ],
+  "平ら": [
+    "たいら",
+    "level; flat"
   ],
   "並び": [
     "ならび",
@@ -4643,6 +4831,10 @@
     "あるき",
     "walking"
   ],
+  "歩きたがらなくなったり": [
+    "あるきたがらなくなったり",
+    "becoming unwilling to walk"
+  ],
   "歩き慣れた": [
     "あるきなれた",
     "accustomed to walking"
@@ -4650,6 +4842,10 @@
   "歩く": [
     "あるく",
     "walk"
+  ],
+  "歩く道": [
+    "あるくみち",
+    "walking route"
   ],
   "歩ける": [
     "あるける",
@@ -4699,6 +4895,10 @@
     "ほう",
     "way; better course"
   ],
+  "方がよい": [
+    "ほうがよい",
+    "better to; advisable"
+  ],
   "方向": [
     "ほうこう",
     "direction"
@@ -4734,6 +4934,10 @@
   "本棚": [
     "ほんだな",
     "bookshelf or bookcase"
+  ],
+  "埋もれる": [
+    "うもれる",
+    "be buried; covered over"
   ],
   "毎日": [
     "まいにち",
@@ -4875,6 +5079,10 @@
     "やくそく",
     "agreement"
   ],
+  "油断できない": [
+    "ゆだんできない",
+    "cannot let one's guard down"
+  ],
   "優れて": [
     "すぐれて",
     "superior"
@@ -4974,6 +5182,10 @@
   "落ち葉": [
     "おちば",
     "fallen leaves"
+  ],
+  "落とし": [
+    "おとし",
+    "brush off; remove"
   ],
   "落とす": [
     "おとす",
