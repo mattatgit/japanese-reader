@@ -223,6 +223,10 @@
     "いちど",
     "once"
   ],
+  "一度に": [
+    "いちどに",
+    "at one time; all at once"
+  ],
   "一冬": [
     "ひとふゆ",
     "one winter"
@@ -439,6 +443,10 @@
     "なに",
     "what"
   ],
+  "何センチ": [
+    "なんセンチ",
+    "how many centimetres"
+  ],
   "何でも": [
     "なんでも",
     "anything; whatever"
@@ -494,6 +502,10 @@
   "家に合った": [
     "いえにあった",
     "suited to the home"
+  ],
+  "家を空ける": [
+    "いえをあける",
+    "leave the house unoccupied"
   ],
   "家具": [
     "かぐ",
@@ -566,6 +578,10 @@
   "解約": [
     "かいやく",
     "cancelling a contract"
+  ],
+  "回数": [
+    "かいすう",
+    "number of times; frequency"
   ],
   "回線": [
     "かいせん",
@@ -650,6 +666,10 @@
   "確かめ": [
     "たしかめ",
     "checking; verifying"
+  ],
+  "確かめた": [
+    "たしかめた",
+    "checked; confirmed"
   ],
   "確かめたい": [
     "たしかめたい",
@@ -863,6 +883,10 @@
     "かんけいしている",
     "be related"
   ],
+  "関係する": [
+    "かんけいする",
+    "affect; be related to"
+  ],
   "含まれていた": [
     "ふくまれていた",
     "was included"
@@ -919,6 +943,10 @@
     "きげん",
     "deadline"
   ],
+  "機械": [
+    "きかい",
+    "machinery; equipment"
+  ],
   "機材": [
     "きざい",
     "equipment"
@@ -950,6 +978,14 @@
   "帰宅したら": [
     "きたくしたら",
     "after returning home"
+  ],
+  "帰宅してから": [
+    "きたくしてから",
+    "after arriving home"
+  ],
+  "気": [
+    "き",
+    "attention; concern"
   ],
   "気づいた": [
     "きづいた",
@@ -1087,6 +1123,10 @@
     "きょうりょく",
     "cooperation"
   ],
+  "境界": [
+    "きょうかい",
+    "property boundary"
+  ],
   "強い": [
     "つよい",
     "resistant to"
@@ -1143,6 +1183,10 @@
     "ぐたいてき",
     "specific; concrete"
   ],
+  "空ける": [
+    "あける",
+    "leave unoccupied; vacate"
+  ],
   "空気": [
     "くうき",
     "air"
@@ -1194,6 +1238,10 @@
   "計算": [
     "けいさん",
     "calculate"
+  ],
+  "迎える": [
+    "むかえる",
+    "welcome; enter (a season)"
   ],
   "隙間": [
     "すきま",
@@ -1603,6 +1651,10 @@
     "あわただしく",
     "hurriedly"
   ],
+  "慌てず": [
+    "あわてず",
+    "without panicking or rushing"
+  ],
   "控え": [
     "ひかえ",
     "refraining from; limiting"
@@ -1654,6 +1706,10 @@
   "郊外": [
     "こうがい",
     "outskirts of the city"
+  ],
+  "降る": [
+    "ふる",
+    "fall (rain or snow)"
   ],
   "項目": [
     "こうもく",
@@ -1763,6 +1819,14 @@
     "さいすん",
     "taking measurements"
   ],
+  "済みそうだ": [
+    "すみそうだ",
+    "looks as though one can get by without; should be enough"
+  ],
+  "済む": [
+    "すむ",
+    "manage without; suffice"
+  ],
   "細い": [
     "ほそい",
     "narrow"
@@ -1810,6 +1874,10 @@
   "作業": [
     "さぎょう",
     "work"
+  ],
+  "作業できない": [
+    "さぎょうできない",
+    "unable to carry out the work"
   ],
   "作業後": [
     "さぎょうご",
@@ -1886,6 +1954,10 @@
   "残された": [
     "のこされた",
     "left behind"
+  ],
+  "残したい": [
+    "のこしたい",
+    "want to record or keep"
   ],
   "残しながら": [
     "のこしながら",
@@ -2235,6 +2307,10 @@
     "しつもん",
     "question"
   ],
+  "質問した": [
+    "しつもんした",
+    "asked a question"
+  ],
   "質問したい": [
     "しつもんしたい",
     "want to ask"
@@ -2358,6 +2434,10 @@
   "守る": [
     "まもる",
     "protect"
+  ],
+  "手が回らない": [
+    "てがまわらない",
+    "be too busy or unable to keep up with all tasks"
   ],
   "手を加える": [
     "てをくわえる",
@@ -2551,6 +2631,10 @@
     "でぐち",
     "exit"
   ],
+  "出張": [
+    "しゅっちょう",
+    "business trip; travel for work"
+  ],
   "出入り": [
     "でいり",
     "coming and going"
@@ -2570,6 +2654,10 @@
   "準備": [
     "じゅんび",
     "preparation"
+  ],
+  "準備しておけば": [
+    "じゅんびしておけば",
+    "if prepared in advance"
   ],
   "順番": [
     "じゅんばん",
@@ -2654,6 +2742,10 @@
   "傷む": [
     "いたむ",
     "deteriorate or be damaged"
+  ],
+  "傷めない": [
+    "いためない",
+    "not damage (materials or plants)"
   ],
   "傷める": [
     "いためる",
@@ -2826,6 +2918,14 @@
   "色合い": [
     "いろあい",
     "colour tone"
+  ],
+  "色分け": [
+    "いろわけ",
+    "colour coding"
+  ],
+  "色分けした": [
+    "いろわけした",
+    "colour-coded"
   ],
   "食事": [
     "しょくじ",
@@ -3107,6 +3207,10 @@
     "つめる",
     "be able to load into a car"
   ],
+  "積もったら": [
+    "つもったら",
+    "if it accumulates (snow)"
+  ],
   "積もる": [
     "つもる",
     "accumulate (snow)"
@@ -3182,6 +3286,10 @@
   "説明": [
     "せつめい",
     "explanation"
+  ],
+  "説明され": [
+    "せつめいされ",
+    "was told; was explained"
   ],
   "説明した": [
     "せつめいした",
@@ -3375,6 +3483,10 @@
     "はやおき",
     "getting up early"
   ],
+  "早朝": [
+    "そうちょう",
+    "early morning"
+  ],
   "相性": [
     "あいしょう",
     "compatibility"
@@ -3386,6 +3498,10 @@
   "相談し": [
     "そうだんし",
     "consult; discuss"
+  ],
+  "相談した": [
+    "そうだんした",
+    "consulted; discussed"
   ],
   "相談すると": [
     "そうだんすると",
@@ -3442,6 +3558,10 @@
   "造園業者": [
     "ぞうえんぎょうしゃ",
     "landscape contractor"
+  ],
+  "測っておく": [
+    "はかっておく",
+    "measure in advance"
   ],
   "測る": [
     "はかる",
@@ -3554,6 +3674,14 @@
   "大切": [
     "たいせつ",
     "important"
+  ],
+  "大雪": [
+    "おおゆき",
+    "heavy snowfall"
+  ],
+  "大雪の日": [
+    "おおゆきのひ",
+    "day of heavy snow"
   ],
   "大変": [
     "たいへん",
@@ -3742,6 +3870,10 @@
   "駐車": [
     "ちゅうしゃ",
     "parking"
+  ],
+  "駐車スペース": [
+    "ちゅうしゃスペース",
+    "parking space"
   ],
   "駐車場": [
     "ちゅうしゃじょう",
@@ -4079,6 +4211,10 @@
     "ふゆのうごきかた",
     "winter circulation and routes"
   ],
+  "冬を迎える": [
+    "ふゆをむかえる",
+    "prepare to enter winter; as winter approaches"
+  ],
   "冬囲い": [
     "ふゆがこい",
     "winter protection for trees and shrubs"
@@ -4130,6 +4266,14 @@
   "当日": [
     "とうじつ",
     "the day of the event"
+  ],
+  "到着": [
+    "とうちゃく",
+    "arrival"
+  ],
+  "到着する": [
+    "とうちゃくする",
+    "arrive"
   ],
   "豆": [
     "まめ",
@@ -4319,9 +4463,21 @@
     "いれておけば",
     "if included beforehand"
   ],
+  "入れる": [
+    "はいれる",
+    "can enter; can fit in (here)"
+  ],
   "入口": [
     "いりぐち",
     "entrance"
+  ],
+  "任せたい": [
+    "まかせたい",
+    "want to entrust to someone"
+  ],
+  "任せる": [
+    "まかせる",
+    "entrust; leave to a professional"
   ],
   "濡れた": [
     "ぬれた",
@@ -4687,6 +4843,10 @@
     "ふんいき",
     "character or atmosphere"
   ],
+  "文書": [
+    "ぶんしょ",
+    "written document"
+  ],
   "聞いた": [
     "きいた",
     "heard; was told"
@@ -4782,6 +4942,10 @@
   "片づけて": [
     "かたづけて",
     "clear away"
+  ],
+  "片付ける": [
+    "かたづける",
+    "clear away; tidy up"
   ],
   "編集": [
     "へんしゅう",
@@ -4914,6 +5078,10 @@
   "妨げない": [
     "さまたげない",
     "not obstruct"
+  ],
+  "忙しい": [
+    "いそがしい",
+    "busy"
   ],
   "膨らんだり": [
     "ふくらんだり",
@@ -5155,9 +5323,17 @@
     "きた",
     "came; visited"
   ],
+  "来てもらえる": [
+    "きてもらえる",
+    "can have someone come (to provide service)"
+  ],
   "頼む": [
     "たのむ",
     "to hire or ask"
+  ],
+  "頼める": [
+    "たのめる",
+    "can request or hire someone to do"
   ],
   "頼らず": [
     "たよらず",
