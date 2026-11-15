@@ -5782,5 +5782,133 @@
   "釉薬のかけ方": [
     "ゆうやくのかけかた",
     "how glaze is applied"
+  ],
+  "建てる": [
+    "たてる",
+    "build (a house or other structure)"
+  ],
+  "立て": [
+    "たて",
+    "draw up (a plan); put up (conjunctive form of 立てる)"
+  ],
+  "歩いた": [
+    "あるいた",
+    "walked"
+  ],
+  "美しく": [
+    "うつくしく",
+    "beautiful (linking form of 美しい)"
+  ],
+  "付ければ": [
+    "つければ",
+    "if one installs or adds"
+  ],
+  "思っていた": [
+    "おもっていた",
+    "had thought; was assuming"
+  ],
+  "立って": [
+    "たって",
+    "standing; having stood up"
+  ],
+  "言い": [
+    "いい",
+    "said (linking form of 言う)"
+  ],
+  "折り畳み": [
+    "おりたたみ",
+    "folding; foldable"
+  ],
+  "腰を下ろす": [
+    "こしをおろす",
+    "sit down; take a seat"
+  ],
+  "手前": [
+    "てまえ",
+    "in the foreground; on this side"
+  ],
+  "塀": [
+    "へい",
+    "wall or fence around a property"
+  ],
+  "一部": [
+    "いちぶ",
+    "part; a portion"
+  ],
+  "隠していた": [
+    "かくしていた",
+    "was hiding or blocking from view"
+  ],
+  "見える範囲": [
+    "みえるはんい",
+    "the area one can see; field of view"
+  ],
+  "気付かなかった": [
+    "きづかなかった",
+    "had not noticed"
+  ],
+  "葉": [
+    "は",
+    "leaf; leaves"
+  ],
+  "日差し": [
+    "ひざし",
+    "sunlight; sunshine"
+  ],
+  "和らげ": [
+    "やわらげ",
+    "soften; reduce the intensity of (linking form of 和らげる)"
+  ],
+  "取り込める": [
+    "とりこめる",
+    "can let in or bring in (light, etc.)"
+  ],
+  "挙がった": [
+    "あがった",
+    "came up; was proposed or named"
+  ],
+  "遮る": [
+    "さえぎる",
+    "block; obstruct (a view, light, etc.)"
+  ],
+  "可能性": [
+    "かのうせい",
+    "possibility"
+  ],
+  "眺め": [
+    "ながめ",
+    "view; outlook; scenery as seen from a place"
+  ],
+  "忘れて": [
+    "わすれて",
+    "forget (て-form of 忘れる)"
+  ],
+  "困る": [
+    "こまる",
+    "be in trouble; have a problem"
+  ],
+  "断熱性": [
+    "だんねつせい",
+    "thermal insulation performance; insulating ability"
+  ],
+  "検討したい": [
+    "けんとうしたい",
+    "want to consider or examine"
+  ],
+  "額縁": [
+    "がくぶち",
+    "picture frame"
+  ],
+  "収めた": [
+    "おさめた",
+    "placed or fitted within; framed here"
+  ],
+  "絵": [
+    "え",
+    "picture; painting"
+  ],
+  "眺める": [
+    "ながめる",
+    "gaze at; take in a view"
   ]
 }
