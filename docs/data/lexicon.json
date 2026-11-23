@@ -6554,5 +6554,193 @@
   "魅力": [
     "みりょく",
     "appeal; charm"
+  ],
+  "使わない": [
+    "つかわない",
+    "not use"
+  ],
+  "移動方法": [
+    "いどうほうほう",
+    "means of getting around"
+  ],
+  "調べてみた": [
+    "しらべてみた",
+    "tried researching; looked into"
+  ],
+  "市内": [
+    "しない",
+    "within the city"
+  ],
+  "路線図": [
+    "ろせんず",
+    "route map; transit network map"
+  ],
+  "駅": [
+    "えき",
+    "railway station"
+  ],
+  "向かう": [
+    "むかう",
+    "head towards"
+  ],
+  "便": [
+    "びん",
+    "scheduled bus service; departure"
+  ],
+  "病院": [
+    "びょういん",
+    "hospital"
+  ],
+  "市役所": [
+    "しやくしょ",
+    "city hall; municipal office"
+  ],
+  "通る": [
+    "とおる",
+    "pass through; travel past"
+  ],
+  "停留所": [
+    "ていりゅうじょ",
+    "bus stop"
+  ],
+  "出発しても": [
+    "しゅっぱつしても",
+    "even if departing"
+  ],
+  "行き先": [
+    "いきさき",
+    "destination"
+  ],
+  "時刻表": [
+    "じこくひょう",
+    "timetable; schedule"
+  ],
+  "経由地": [
+    "けいゆち",
+    "place passed through en route"
+  ],
+  "道路状況": [
+    "どうろじょうきょう",
+    "road conditions"
+  ],
+  "遅れる": [
+    "おくれる",
+    "be delayed; arrive late"
+  ],
+  "乗り継ぎ": [
+    "のりつぎ",
+    "connection or transfer between transport services"
+  ],
+  "持たせ": [
+    "もたせ",
+    "allow; build in (time buffer)"
+  ],
+  "直前": [
+    "ちょくぜん",
+    "immediately before"
+  ],
+  "着く": [
+    "つく",
+    "arrive"
+  ],
+  "徒歩": [
+    "とほ",
+    "on foot; walking"
+  ],
+  "区間": [
+    "くかん",
+    "stretch or section of a route"
+  ],
+  "地図上": [
+    "ちずじょう",
+    "on a map"
+  ],
+  "歩道": [
+    "ほどう",
+    "pavement; sidewalk"
+  ],
+  "近道": [
+    "ちかみち",
+    "shortcut; shorter route"
+  ],
+  "選んでも": [
+    "えらんでも",
+    "even if choosing"
+  ],
+  "除雪状況": [
+    "じょせつじょうきょう",
+    "state of snow clearing"
+  ],
+  "凍った": [
+    "こおった",
+    "frozen; icy"
+  ],
+  "坂道": [
+    "さかみち",
+    "sloping road; hill"
+  ],
+  "避けられる": [
+    "さけられる",
+    "can avoid"
+  ],
+  "所要時間": [
+    "しょようじかん",
+    "time required for a journey"
+  ],
+  "選択肢": [
+    "せんたくし",
+    "available option; alternative"
+  ],
+  "便利": [
+    "べんり",
+    "convenient"
+  ],
+  "頼っている": [
+    "たよっている",
+    "depend on; rely on"
+  ],
+  "運転できない": [
+    "うんてんできない",
+    "cannot drive"
+  ],
+  "覚えておけば": [
+    "おぼえておけば",
+    "if one learns or remembers in advance"
+  ],
+  "位置関係": [
+    "いちかんけい",
+    "spatial relationship; relative locations"
+  ],
+  "違って": [
+    "ちがって",
+    "differently; change"
+  ],
+  "見えてくる": [
+    "みえてくる",
+    "start to become apparent; come into view"
+  ],
+  "同じ道": [
+    "おなじみち",
+    "the same route"
+  ],
+  "歩いてみて": [
+    "あるいてみて",
+    "try walking"
+  ],
+  "比べたい": [
+    "くらべたい",
+    "want to compare"
+  ],
+  "移動手段": [
+    "いどうしゅだん",
+    "transport option; means of travel"
+  ],
+  "暮らし方": [
+    "くらしかた",
+    "way of living"
+  ],
+  "自由": [
+    "じゆう",
+    "freedom; flexibility"
   ]
 }
