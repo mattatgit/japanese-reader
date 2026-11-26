@@ -6930,5 +6930,177 @@
   "持っていこう": [
     "もっていこう",
     "intend to bring along"
+  ],
+  "外壁": [
+    "がいへき",
+    "exterior wall of a building"
+  ],
+  "灯油タンク": [
+    "とうゆたんく",
+    "kerosene storage tank"
+  ],
+  "給湯": [
+    "きゅうとう",
+    "hot-water supply"
+  ],
+  "燃料": [
+    "ねんりょう",
+    "fuel"
+  ],
+  "切らさない": [
+    "きらさない",
+    "not run out of supplies"
+  ],
+  "管理": [
+    "かんり",
+    "management; monitoring"
+  ],
+  "誰": [
+    "だれ",
+    "who"
+  ],
+  "補充する": [
+    "ほじゅうする",
+    "refill; replenish"
+  ],
+  "確認しておきたい": [
+    "かくにんしておきたい",
+    "want to check in advance"
+  ],
+  "不動産会社": [
+    "ふどうさんがいしゃ",
+    "real-estate agency"
+  ],
+  "定期配送": [
+    "ていきはいそう",
+    "scheduled or recurring deliveries"
+  ],
+  "契約する": [
+    "けいやくする",
+    "enter into a contract"
+  ],
+  "配達": [
+    "はいたつ",
+    "delivery"
+  ],
+  "料金": [
+    "りょうきん",
+    "charge; price"
+  ],
+  "注文": [
+    "ちゅうもん",
+    "order; placing an order"
+  ],
+  "締め切り": [
+    "しめきり",
+    "deadline; cutoff"
+  ],
+  "支払い方法": [
+    "しはらいほうほう",
+    "method of payment"
+  ],
+  "比べてみる": [
+    "くらべてみる",
+    "try comparing"
+  ],
+  "使用量": [
+    "しようりょう",
+    "quantity consumed or used"
+  ],
+  "厳冬期": [
+    "げんとうき",
+    "coldest part of winter"
+  ],
+  "配達の車": [
+    "はいたつのくるま",
+    "delivery vehicle"
+  ],
+  "近づけない": [
+    "ちかづけない",
+    "cannot get close to"
+  ],
+  "給油口": [
+    "きゅうゆぐち",
+    "filling point; opening for delivering fuel"
+  ],
+  "確保し": [
+    "かくほし",
+    "secure; ensure access to"
+  ],
+  "点検しておく": [
+    "てんけんしておく",
+    "inspect or check in advance"
+  ],
+  "設置場所": [
+    "せっちばしょ",
+    "installation location"
+  ],
+  "安全基準": [
+    "あんぜんきじゅん",
+    "safety standards"
+  ],
+  "自己判断": [
+    "じこはんだん",
+    "one's own judgement without professional input"
+  ],
+  "動かさず": [
+    "うごかさず",
+    "without moving (something)"
+  ],
+  "相談したい": [
+    "そうだんしたい",
+    "want to consult"
+  ],
+  "暖房費": [
+    "だんぼうひ",
+    "heating costs"
+  ],
+  "予測": [
+    "よそく",
+    "forecast; estimate"
+  ],
+  "住人": [
+    "じゅうにん",
+    "resident; occupant"
+  ],
+  "参考にしつつ": [
+    "さんこうにしつつ",
+    "while using as a reference"
+  ],
+  "参考": [
+    "さんこう",
+    "reference; guidance"
+  ],
+  "室温": [
+    "しつおん",
+    "indoor temperature"
+  ],
+  "外気温": [
+    "がいきおん",
+    "outdoor air temperature"
+  ],
+  "在宅時間": [
+    "ざいたくじかん",
+    "amount of time spent at home"
+  ],
+  "記録して": [
+    "きろくして",
+    "record; keep notes"
+  ],
+  "比べれば": [
+    "くらべれば",
+    "if one compares"
+  ],
+  "来年": [
+    "らいねん",
+    "next year"
+  ],
+  "立てやすくなる": [
+    "たてやすくなる",
+    "become easier to formulate"
+  ],
+  "安心して": [
+    "あんしんして",
+    "with peace of mind"
   ]
 }
